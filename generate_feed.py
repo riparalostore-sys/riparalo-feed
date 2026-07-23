@@ -25,21 +25,47 @@ OUTPUT_PATH = sys.argv[1] if len(sys.argv) > 1 else "docs/riparalo.xml"
 STOCK_DISPONIBILE = 1
 
 
+# Shopify blocca le richieste che sembrano fatte da bot: usiamo header da browser.
+HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json,text/plain,*/*",
+    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
+}
+
+
+def get_con_retry(url, tentativi=5):
+    """GET con ritentativi: Shopify a volte risponde 503 alle prime chiamate."""
+    attesa = 5
+    for n in range(1, tentativi + 1):
+        try:
+            resp = requests.get(url, timeout=45, headers=HEADERS)
+            if resp.status_code == 200:
+                return resp
+            print(f"    tentativo {n}: HTTP {resp.status_code}, riprovo tra {attesa}s")
+        except requests.RequestException as e:
+            print(f"    tentativo {n}: errore di rete ({e}), riprovo tra {attesa}s")
+        time.sleep(attesa)
+        attesa = min(attesa * 2, 60)
+    raise RuntimeError(f"Impossibile scaricare {url} dopo {tentativi} tentativi")
+
+
 def fetch_all_products():
     """Scarica tutti i prodotti pubblicati, paginando finche' la pagina e' vuota."""
     products = []
     page = 1
     while True:
         url = f"{STORE_URL}/products.json?limit=250&page={page}"
-        resp = requests.get(url, timeout=30, headers={"User-Agent": "riparalo-feed-bot"})
-        resp.raise_for_status()
+        resp = get_con_retry(url)
         batch = resp.json().get("products", [])
         if not batch:
             break
         products.extend(batch)
         print(f"  pagina {page}: {len(batch)} prodotti")
         page += 1
-        time.sleep(0.5)
+        time.sleep(2)
         if page > 50:  # salvagente anti-loop
             break
     return products
