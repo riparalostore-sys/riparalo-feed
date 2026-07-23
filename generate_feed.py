@@ -1,15 +1,13 @@
 #!/usr/bin/env python3
 """
-Genera il feed XML per TradeTracker leggendo il catalogo da Shopify Admin API.
-Include SOLO prodotti che hanno almeno una variante con stock disponibile,
-e per ognuno SOLO le varianti con stock > 0.
+Genera il feed XML per TradeTracker leggendo il catalogo dall'endpoint PUBBLICO
+di Shopify (/products.json). Non serve nessun token, nessuna app, nessun secret.
 
-Richiede due variabili d'ambiente:
-  SHOPIFY_STORE_DOMAIN   es. "xxxxx.myshopify.com" (il dominio *.myshopify.com, non riparalo.store)
-  SHOPIFY_ADMIN_TOKEN    Admin API access token della custom app (scope: read_products)
+Include SOLO i prodotti che hanno almeno una variante disponibile,
+e per ognuno SOLO le varianti disponibili.
 
-Output: scrive il file XML nel path passato come primo argomento
-(default: docs/riparalo.xml)
+Uso:
+    python generate_feed.py docs/riparalo.xml
 """
 
 import os
@@ -18,66 +16,58 @@ import time
 import requests
 from xml.sax.saxutils import escape
 
-API_VERSION = "2024-10"
-STORE_DOMAIN = os.environ["SHOPIFY_STORE_DOMAIN"]
-ACCESS_TOKEN = os.environ["SHOPIFY_ADMIN_TOKEN"]
+STORE_URL = "https://www.riparalo.store"
+BRAND_NAME = "Riparalo Store"
 OUTPUT_PATH = sys.argv[1] if len(sys.argv) > 1 else "docs/riparalo.xml"
-PUBLIC_STORE_URL = os.environ.get("PUBLIC_STORE_URL", "https://www.riparalo.store")
-BRAND_NAME = os.environ.get("BRAND_NAME", "Riparalo Store")
 
-BASE_URL = f"https://{STORE_DOMAIN}/admin/api/{API_VERSION}/products.json"
-HEADERS = {"X-Shopify-Access-Token": ACCESS_TOKEN}
+# Quando una variante e' disponibile, questo valore finisce in <stock>.
+# A TradeTracker serve solo sapere che c'e' disponibilita'.
+STOCK_DISPONIBILE = 1
 
 
 def fetch_all_products():
-    """Scarica tutti i prodotti paginando con page_info (cursor-based)."""
+    """Scarica tutti i prodotti pubblicati, paginando finche' la pagina e' vuota."""
     products = []
-    url = BASE_URL
-    params = {"limit": 250, "status": "active"}
-
-    while url:
-        resp = requests.get(url, headers=HEADERS, params=params, timeout=30)
+    page = 1
+    while True:
+        url = f"{STORE_URL}/products.json?limit=250&page={page}"
+        resp = requests.get(url, timeout=30, headers={"User-Agent": "riparalo-feed-bot"})
         resp.raise_for_status()
-        data = resp.json()
-        products.extend(data.get("products", []))
-
-        # Paginazione via header Link (rel="next")
-        link_header = resp.headers.get("Link", "")
-        next_url = None
-        if link_header:
-            for part in link_header.split(","):
-                if 'rel="next"' in part:
-                    next_url = part.split(";")[0].strip().strip("<>")
-        url = next_url
-        params = None  # i parametri sono già inclusi nell'URL di next_url
-        time.sleep(0.5)  # rispetta i rate limit di Shopify
-
+        batch = resp.json().get("products", [])
+        if not batch:
+            break
+        products.extend(batch)
+        print(f"  pagina {page}: {len(batch)} prodotti")
+        page += 1
+        time.sleep(0.5)
+        if page > 50:  # salvagente anti-loop
+            break
     return products
 
 
 def option_index(product, option_name):
-    """Trova la posizione (0-based) di un'opzione (es. 'Color') tra option1/2/3."""
+    """Posizione (0-based) di un'opzione tra option1/option2/option3."""
     for opt in product.get("options", []):
-        if opt.get("name", "").strip().lower() == option_name.lower():
-            return opt.get("position", 1) - 1
+        if str(opt.get("name", "")).strip().lower() == option_name.lower():
+            return int(opt.get("position", 1)) - 1
     return None
 
 
 def get_option_value(variant, index):
     if index is None:
         return ""
-    key = f"option{index + 1}"
-    return variant.get(key) or ""
+    return variant.get(f"option{index + 1}") or ""
 
 
-def find_variant_image(product, variant):
-    """Immagine specifica della variante, o featured image del prodotto come fallback."""
-    image_id = variant.get("image_id")
-    if image_id:
-        for img in product.get("images", []):
-            if img.get("id") == image_id:
-                return img.get("src", "")
-    images = product.get("images", [])
+def tag(name, value):
+    """Restituisce <name>valore</name>, oppure <name/> se vuoto."""
+    if value is None or str(value).strip() == "":
+        return f"<{name}/>"
+    return f"<{name}>{escape(str(value))}</{name}>"
+
+
+def product_image(product):
+    images = product.get("images") or []
     if images:
         return images[0].get("src", "")
     return ""
@@ -88,60 +78,52 @@ def build_variant_xml(variant, color, memoria):
     compare_at = variant.get("compare_at_price")
     compare_at = float(compare_at) if compare_at else None
 
-    on_sale = compare_at is not None and compare_at > price
-    from_price = f"{compare_at:.2f}" if on_sale else ""
-    discount = f"{(compare_at - price):.2f}" if on_sale else ""
-    sale_flag = "Yes" if on_sale else "No"
-    sku = variant.get("sku") or ""
+    in_saldo = compare_at is not None and compare_at > price
+    from_price = f"{compare_at:.2f}" if in_saldo else ""
+    discount = f"{compare_at - price:.2f}" if in_saldo else ""
 
     return f"""            <variant>
                 <ID>{variant['id']}</ID>
-                <sku>{escape(sku)}</sku>
+                {tag('sku', variant.get('sku'))}
                 <price>{price:.2f}</price>
-                <fromPrice>{from_price}</fromPrice>
-                <stock>{variant.get('inventory_quantity', 0)}</stock>
-                <discount>{discount}</discount>
-                <sale>{sale_flag}</sale>
-                <color>{escape(color)}</color>
-                <memoria>{escape(memoria)}</memoria>
+                {tag('fromPrice', from_price)}
+                <stock>{STOCK_DISPONIBILE}</stock>
+                {tag('discount', discount)}
+                <sale>{'Yes' if in_saldo else 'No'}</sale>
+                {tag('color', color)}
+                {tag('memoria', memoria)}
             </variant>"""
 
 
 def build_product_xml(product):
-    color_idx = option_index(product, "Color")
-    memoria_idx = option_index(product, "Memoria")
+    disponibili = [v for v in product.get("variants", []) if v.get("available")]
+    if not disponibili:
+        return None  # nessuna variante disponibile -> prodotto escluso dal feed
 
-    available_variants = [
-        v for v in product.get("variants", [])
-        if (v.get("inventory_quantity") or 0) > 0
-    ]
-    if not available_variants:
-        return None  # nessuna variante disponibile -> salta l'intero prodotto
+    idx_color = option_index(product, "Color")
+    idx_memoria = option_index(product, "Memoria")
 
     variants_xml = "\n".join(
         build_variant_xml(
             v,
-            get_option_value(v, color_idx),
-            get_option_value(v, memoria_idx),
+            get_option_value(v, idx_color),
+            get_option_value(v, idx_memoria),
         )
-        for v in available_variants
+        for v in disponibili
     )
 
-    handle = product.get("handle", "")
-    product_url = f"{PUBLIC_STORE_URL}/products/{handle}"
-    image_url = product.get("images", [{}])[0].get("src", "") if product.get("images") else ""
-    description = product.get("body_html") or ""
-    category = product.get("product_type") or product.get("title", "")
+    titolo = product.get("title", "")
+    url_prodotto = f"{STORE_URL}/products/{product.get('handle', '')}"
 
     return f"""    <product>
         <ID>{product['id']}</ID>
-        <name>{escape(product.get('title', ''))}</name>
-        <description>{escape(description)}</description>
-        <productURL>{escape(product_url)}</productURL>
-        <imageURL>{escape(image_url)}</imageURL>
-        <categories>{escape(category)}</categories>
-        <brand>{escape(BRAND_NAME)}</brand>
-        <model>{escape(product.get('title', ''))}</model>
+        {tag('name', titolo)}
+        {tag('description', product.get('body_html') or '')}
+        {tag('productURL', url_prodotto)}
+        {tag('imageURL', product_image(product))}
+        {tag('categories', product.get('product_type') or titolo)}
+        {tag('brand', BRAND_NAME)}
+        {tag('model', titolo)}
         <variants>
 {variants_xml}
         </variants>
@@ -149,23 +131,32 @@ def build_product_xml(product):
 
 
 def main():
-    print("Scarico prodotti da Shopify...")
-    products = fetch_all_products()
-    print(f"Prodotti totali scaricati: {len(products)}")
+    print("Scarico il catalogo da Shopify (endpoint pubblico)...")
+    prodotti = fetch_all_products()
+    print(f"Prodotti pubblicati totali: {len(prodotti)}")
 
-    product_blocks = []
-    for product in products:
-        block = build_product_xml(product)
-        if block:
-            product_blocks.append(block)
+    blocchi = []
+    n_varianti = 0
+    for p in prodotti:
+        blocco = build_product_xml(p)
+        if blocco:
+            blocchi.append(blocco)
+            n_varianti += sum(1 for v in p.get("variants", []) if v.get("available"))
 
-    print(f"Prodotti con almeno una variante disponibile: {len(product_blocks)}")
+    print(f"Prodotti nel feed: {len(blocchi)}")
+    print(f"Varianti disponibili nel feed: {n_varianti}")
 
-    xml_content = "<?xml version='1.0'?>\n<products>\n" + "\n".join(product_blocks) + "\n</products>\n"
+    if not blocchi:
+        print("ATTENZIONE: nessun prodotto disponibile, il feed non viene sovrascritto.")
+        sys.exit(1)
 
-    os.makedirs(os.path.dirname(OUTPUT_PATH) or ".", exist_ok=True)
+    xml = "<?xml version='1.0' encoding='UTF-8'?>\n<products>\n" + "\n".join(blocchi) + "\n</products>\n"
+
+    cartella = os.path.dirname(OUTPUT_PATH)
+    if cartella:
+        os.makedirs(cartella, exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:
-        f.write(xml_content)
+        f.write(xml)
 
     print(f"Feed scritto in: {OUTPUT_PATH}")
 
