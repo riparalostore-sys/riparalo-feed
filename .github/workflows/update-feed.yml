@@ -1,39 +1,38 @@
+date feed · YML
 name: Aggiorna feed TradeTracker
-
+ 
 on:
   schedule:
     # Ogni 4 ore. Modifica il cron se vuoi una frequenza diversa.
     - cron: "0 */4 * * *"
-  workflow_dispatch: {}  # permette di lanciarlo anche manualmente da GitHub
-
+  workflow_dispatch: {}   # permette di lanciarlo a mano dal tab Actions
+ 
 permissions:
   contents: write
-
+ 
 jobs:
   update-feed:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-
+ 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
+ 
       - name: Installa dipendenze
         run: pip install requests
-
+ 
       - name: Genera il feed XML
-        env:
-          SHOPIFY_STORE_DOMAIN: ${{ secrets.SHOPIFY_STORE_DOMAIN }}
-          SHOPIFY_ADMIN_TOKEN: ${{ secrets.SHOPIFY_ADMIN_TOKEN }}
         run: python generate_feed.py docs/riparalo.xml
-
-      - name: Commit e push se il feed è cambiato
+ 
+      - name: Commit e push se il feed e' cambiato
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/riparalo.xml
           git diff --staged --quiet || git commit -m "Aggiorna feed TradeTracker"
           git push
+ 
