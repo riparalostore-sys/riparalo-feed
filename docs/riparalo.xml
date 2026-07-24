@@ -34,17 +34,6 @@
         <model>Apple iPhone 16 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59595804639566</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59595804705102</ID>
                 <sku/>
                 <price>769.00</price>
@@ -111,51 +100,6 @@
                 <sale>No</sale>
                 <color>Black</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59695434989902</ID>
-                <sku/>
-                <price>169.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15755932991822</ID>
-        <name>Apple iPhone 16 Pro Max Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display da 6,9 pollici, chip A18 Pro e zoom ottico 5xScopri l'Apple iPhone 16 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2024, con il display Super Retina XDR da 6,9 pollici il più grande mai realizzato su un iPhone, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-16-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16Promaxdeserttitanium-1.jpg?v=1780483048</imageURL>
-        <categories>Apple iPhone 16</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 16 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757527433550</ID>
-                <sku/>
-                <price>969.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Desert Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757527368014</ID>
-                <sku/>
-                <price>969.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>White Titanium</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -259,17 +203,6 @@
                 <color>Black</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59287798513998</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -305,17 +238,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59286914466126</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59764308771150</ID>
                 <sku/>
                 <price>419.00</price>
@@ -325,17 +247,6 @@
                 <sale>No</sale>
                 <color>Product (Red)</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757521797454</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>60079625273678</ID>
@@ -586,17 +497,6 @@
                 <sale>No</sale>
                 <color>Purple</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757524222286</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Purple</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59764210467150</ID>
