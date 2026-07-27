@@ -1,0 +1,50 @@
+name: Aggiorna feed Google Shopping
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-feed:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Installa dipendenze
+        run: pip install requests
+
+      - name: Genera il feed XML per Google
+        run: python generate_google_feed.py docs/google.xml
+
+      - name: Commit e push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/google.xml
+          git diff --staged --quiet || git commit -m "Aggiorna feed Google Shopping"
+          git push
+
+      - name: Controllo scadenza 60 giorni
+        run: |
+          ULTIMO=$(git log -1 --format=%ct --invert-grep --grep="Aggiorna feed Google Shopping")
+          if [ -z "$ULTIMO" ]; then ULTIMO=$(git log -1 --format=%ct); fi
+          GIORNI=$(( ( $(date +%s) - ULTIMO ) / 86400 ))
+          RESTANO=$(( 45 - GIORNI ))
+          echo "Giorni dall'ultimo commit non automatico: $GIORNI"
+          if [ "$GIORNI" -ge 45 ]; then
+            echo "::error::Il feed si fermera' tra circa $(( 60 - GIORNI )) giorni. Fai un commit qualsiasi nel repo per riazzerare il contatore."
+            exit 1
+          fi
+          echo "Tutto ok: mancano $RESTANO giorni al promemoria."
