@@ -69,9 +69,19 @@ def build_item_xml(product, variant, capacity_value):
     elif product.get("images"):
         image = product["images"][0]["src"]
 
-    # Immagini aggiuntive: tutte le altre immagini del prodotto, esclusa quella principale
-    all_images = [img["src"] for img in product.get("images", []) if img.get("src")]
-    additional_images = [img for img in all_images if img != image][:10]
+    # Immagini aggiuntive: solo quelle collegate a questa variante specifica (stesso colore),
+    # oppure immagini "generiche" del prodotto non associate a nessuna variante.
+    all_images = product.get("images", [])
+    additional_images = []
+    for img in all_images:
+        src = img.get("src")
+        if not src or src == image:
+            continue
+        img_variant_ids = img.get("variant_ids") or []
+        if img_variant_ids and variant_id not in img_variant_ids:
+            continue
+        additional_images.append(src)
+    additional_images = additional_images[:10]
     additional_images_xml = "".join(
         f"\n      <g:additional_image_link>{escape(img)}</g:additional_image_link>"
         for img in additional_images
