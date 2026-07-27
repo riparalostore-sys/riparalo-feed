@@ -12,12 +12,23 @@ Filtri applicati:
 import json
 import re
 import sys
+import time
+import urllib.error
 import urllib.request
 from xml.sax.saxutils import escape
 
 SHOP_DOMAIN = "www.riparalo.store"
 PRODUCTS_JSON_URL = f"https://{SHOP_DOMAIN}/products.json?limit=250"
 DEFAULT_OUTPUT_FILE = "docs/google.xml"
+
+REQUEST_HEADERS = {
+    "User-Agent": (
+        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+    ),
+    "Accept": "application/json,text/html,*/*",
+    "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
+}
 
 VALID_CAPACITY_RE = re.compile(r"^\d+\s*(GB|TB)$", re.IGNORECASE)
 
@@ -38,15 +49,32 @@ def fetch_all_products():
     page = 1
     while True:
         url = f"{PRODUCTS_JSON_URL}&page={page}"
-        req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
-        with urllib.request.urlopen(req, timeout=30) as resp:
-            data = json.loads(resp.read().decode("utf-8"))
-        batch = data.get("products", [])
+        batch = fetch_with_retry(url)
         if not batch:
             break
         products.extend(batch)
         page += 1
     return products
+
+
+def fetch_with_retry(url, max_retries=4):
+    """Esegue la richiesta con retry e attesa crescente in caso di blocco temporaneo."""
+    last_error = None
+    for attempt in range(1, max_retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=REQUEST_HEADERS)
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                data = json.loads(resp.read().decode("utf-8"))
+            return data.get("products", [])
+        except urllib.error.HTTPError as e:
+            last_error = e
+            if e.code in (403, 429) and attempt < max_retries:
+                wait_seconds = 10 * attempt
+                print(f"Tentativo {attempt} fallito ({e.code}), riprovo tra {wait_seconds}s...")
+                time.sleep(wait_seconds)
+                continue
+            raise
+    raise last_error
 
 
 def get_option_value(variant, product, option_name):
@@ -69,8 +97,6 @@ def build_item_xml(product, variant, capacity_value):
     elif product.get("images"):
         image = product["images"][0]["src"]
 
-    # Immagini aggiuntive: solo quelle collegate a questa variante specifica (stesso colore),
-    # oppure immagini "generiche" del prodotto non associate a nessuna variante.
     all_images = product.get("images", [])
     additional_images = []
     for img in all_images:
