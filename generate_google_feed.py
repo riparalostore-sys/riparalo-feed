@@ -62,11 +62,20 @@ def build_item_xml(product, variant, capacity_value):
     product_handle = product["handle"]
     title = f"{product['title']} {variant.get('title', '')}".replace(" / ", " ").strip()
     link = f"https://{SHOP_DOMAIN}/products/{product_handle}?variant={variant_id}"
+
     image = ""
     if variant.get("featured_image") and variant["featured_image"].get("src"):
         image = variant["featured_image"]["src"]
     elif product.get("images"):
         image = product["images"][0]["src"]
+
+    # Immagini aggiuntive: tutte le altre immagini del prodotto, esclusa quella principale
+    all_images = [img["src"] for img in product.get("images", []) if img.get("src")]
+    additional_images = [img for img in all_images if img != image][:10]
+    additional_images_xml = "".join(
+        f"\n      <g:additional_image_link>{escape(img)}</g:additional_image_link>"
+        for img in additional_images
+    )
 
     price = variant.get("price", "0.00")
     availability = "in_stock"
@@ -80,7 +89,7 @@ def build_item_xml(product, variant, capacity_value):
       <title>{escape(title)}</title>
       <description>{escape(description)}</description>
       <link>{escape(link)}</link>
-      <g:image_link>{escape(image)}</g:image_link>
+      <g:image_link>{escape(image)}</g:image_link>{additional_images_xml}
       <g:condition>refurbished</g:condition>
       <g:availability>{availability}</g:availability>
       <g:price>{price} EUR</g:price>
