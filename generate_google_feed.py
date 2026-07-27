@@ -97,22 +97,6 @@ def build_item_xml(product, variant, capacity_value):
     elif product.get("images"):
         image = product["images"][0]["src"]
 
-    all_images = product.get("images", [])
-    additional_images = []
-    for img in all_images:
-        src = img.get("src")
-        if not src or src == image:
-            continue
-        img_variant_ids = img.get("variant_ids") or []
-        if img_variant_ids and variant_id not in img_variant_ids:
-            continue
-        additional_images.append(src)
-    additional_images = additional_images[:10]
-    additional_images_xml = "".join(
-        f"\n      <g:additional_image_link>{escape(img)}</g:additional_image_link>"
-        for img in additional_images
-    )
-
     price = variant.get("price", "0.00")
     availability = "in_stock"
     brand = product.get("vendor", "").strip() or "Generico"
@@ -125,13 +109,13 @@ def build_item_xml(product, variant, capacity_value):
       <title>{escape(title)}</title>
       <description>{escape(description)}</description>
       <link>{escape(link)}</link>
-      <g:image_link>{escape(image)}</g:image_link>{additional_images_xml}
+      <g:image_link>{escape(image)}</g:image_link>
       <g:condition>refurbished</g:condition>
       <g:availability>{availability}</g:availability>
       <g:price>{price} EUR</g:price>
       <g:brand>{escape(brand)}</g:brand>
       <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>Elettronica &gt; Elettronica di consumo &gt; Telefoni cellulari</g:google_product_category>
+      <g:google_product_category>267</g:google_product_category>
     </item>"""
     return item
 
