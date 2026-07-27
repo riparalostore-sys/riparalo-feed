@@ -1,6 +1,74 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15850596925774</ID>
+        <name>Samsung Galaxy S24 Ultra Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Ultra ricondizionato&lt;/strong&gt; – Titanio, S Pen integrata e Galaxy AI per il flagship Android definitivo Scopri il Samsung Galaxy S24 Ultra ricondizionato: il top di gamma Samsung del 2024 con scocca in titanio di grado aerospaziale, S Pen integrata, chip Snapdragon 8 Gen 3 ottimizzato per Samsung e fotocamera principale da 200 MP. Certificato e testato, introduce Galaxy AI come sistema di intelligenza artificiale nativo per la produttività e la fotografia avanzata, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.store/products/samsung-galaxy-s24-ultra</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24ultranero-1.jpg?v=1780327376</imageURL>
+        <categories>Samsung Galaxy S24</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757538836814</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Black</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837625483598</ID>
+        <name>Apple iPhone 13 Mini Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.store/products/apple-iphone-13-mini</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
+        <categories>Apple iPhone 13</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 13 Mini Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59758271365454</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Starlight</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59758271463758</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59758271562062</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738162053454</ID>
         <name>Apple iPhone 12 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
@@ -20,29 +88,6 @@
                 <sale>No</sale>
                 <color>Black</color>
                 <memoria>64GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15815521730894</ID>
-        <name>Apple iPhone 16 Pro Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro ricondizionato &lt;/strong&gt;– Chip A18 Pro, display da 6,3 pollici e fotocamera da 48 MP con zoom ottico 5xScopri l'Apple iPhone 16 Pro ricondizionato: lo smartphone Apple Pro con il nuovo display Super Retina XDR da 6,3 pollici il più grande mai realizzato sulla serie Pro standard, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, offre prestazioni professionali e funzionalità Apple Intelligence di nuova generazione, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-16-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16Problack-1.jpg?v=1780474838</imageURL>
-        <categories>Apple iPhone 16 Pro</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 16 Pro Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59595804705102</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -76,29 +121,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Yellow</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837628301646</ID>
-        <name>Apple iPhone SE (2020) Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone SE 2020 ricondizionato&lt;/strong&gt; – Chip A13 Bionic e Touch ID nel formato compatto più accessibile di Apple Scopri l'Apple iPhone SE 2020 ricondizionato (seconda generazione): l'iPhone più economico di Apple con il potente chip A13 Bionic, Touch ID integrato nel tasto Home e display Retina HD da 4,7 pollici. Certificato e testato, è la scelta ideale per chi cerca le prestazioni dei moderni iPhone in un formato compatto e familiare a un prezzo davvero conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-se-2020</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhoneSEblack-1.jpg?v=1780317512</imageURL>
-        <categories>Apple iPhone SE</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone SE (2020) Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59695434957134</ID>
-                <sku/>
-                <price>159.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -148,6 +170,17 @@
         <model>Apple iPhone 12 Pro Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59757517766990</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Silver</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757518258510</ID>
                 <sku/>
                 <price>369.00</price>
@@ -170,6 +203,17 @@
                 <memoria>512GB</memoria>
             </variant>
             <variant>
+                <ID>59757517963598</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pacific Blue</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757517930830</ID>
                 <sku/>
                 <price>369.00</price>
@@ -179,6 +223,17 @@
                 <sale>No</sale>
                 <color>Gold</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757517898062</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Gold</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -201,6 +256,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757526253902</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -227,15 +293,15 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59286914531662</ID>
+                <ID>59286914564430</ID>
                 <sku/>
-                <price>369.00</price>
+                <price>419.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Midnight</color>
-                <memoria>128GB</memoria>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59764308771150</ID>
@@ -246,6 +312,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Product (Red)</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757521699150</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -444,29 +521,6 @@
         </variants>
     </product>
     <product>
-        <ID>15851056267598</ID>
-        <name>Samsung Galaxy S23 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S23 ricondizionato &lt;/strong&gt;– Prestazioni flagship con chip Snapdragon 8 Gen 2 e fotocamera da 50 MPSamsung Galaxy S23 ricondizionato – Prestazioni flagship con chip Snapdragon 8 Gen 2 e fotocamera da 50 MP Scopri il Samsung Galaxy S23 ricondizionato: lo smartphone Android di punta del 2023 con il potente chip Snapdragon 8 Gen 2 ottimizzato per Samsung, display Dynamic AMOLED 2X da 6,1 pollici e sistema fotografico avanzato con fotocamera principale da 50 MP. Certificato e testato, offre prestazioni eccellenti in un form factor compatto e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/samsung-galaxy-s23</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S23green-1.jpg?v=1780320213</imageURL>
-        <categories>Samsung Galaxy S23</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S23 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59759887548750</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Phantom Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15791397372238</ID>
         <name>Apple iPhone 14 Plus Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Plus ricondizionato &lt;/strong&gt;– Il grande display da 6,7 pollici con autonomia record nella gamma iPhone 14 standard Scopri l'Apple iPhone 14 Plus ricondizionato: il primo iPhone della serie standard ad adottare il formato da 6,7 pollici, con display Super Retina XDR OLED, chip A15 Bionic, fotocamera principale da 12 MP con stabilizzazione ottica di seconda generazione e autonomia fino a 26 ore. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -476,6 +530,17 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 14 Plus Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59757524123982</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
+                <memoria>128GB</memoria>
+            </variant>
             <variant>
                 <ID>59757524189518</ID>
                 <sku/>
@@ -676,6 +741,17 @@
                 <sale>No</sale>
                 <color>Natural Titanium</color>
                 <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59292147351886</ID>
+                <sku/>
+                <price>869.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>512GB</memoria>
             </variant>
             <variant>
                 <ID>59292147548494</ID>
