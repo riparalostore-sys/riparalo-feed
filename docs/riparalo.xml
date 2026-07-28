@@ -1,93 +1,48 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15850596925774</ID>
-        <name>Samsung Galaxy S24 Ultra Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Ultra ricondizionato&lt;/strong&gt; – Titanio, S Pen integrata e Galaxy AI per il flagship Android definitivo Scopri il Samsung Galaxy S24 Ultra ricondizionato: il top di gamma Samsung del 2024 con scocca in titanio di grado aerospaziale, S Pen integrata, chip Snapdragon 8 Gen 3 ottimizzato per Samsung e fotocamera principale da 200 MP. Certificato e testato, introduce Galaxy AI come sistema di intelligenza artificiale nativo per la produttività e la fotografia avanzata, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/samsung-galaxy-s24-ultra</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24ultranero-1.jpg?v=1780327376</imageURL>
-        <categories>Samsung Galaxy S24</categories>
+        <ID>15738108182862</ID>
+        <name>Apple iPhone 14 Pro Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A15 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.store/products/apple-iphone-14-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14black-1_220c0dd5-c232-450a-adc9-fe34bd331f42.jpg?v=1780322755</imageURL>
+        <categories>Apple iPhone 14</categories>
         <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
+        <model>Apple iPhone 14 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757538836814</ID>
+                <ID>59757524648270</ID>
                 <sku/>
-                <price>619.00</price>
+                <price>549.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Titanium Black</color>
+                <color>Space Black</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
     <product>
-        <ID>15837625483598</ID>
-        <name>Apple iPhone 13 Mini Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-13-mini</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 13 Mini Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59758271365454</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Starlight</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59758271463758</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59758271562062</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738162053454</ID>
-        <name>Apple iPhone 12 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-12</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12black-1.jpg?v=1780321500</imageURL>
+        <ID>15849985442126</ID>
+        <name>Apple iPhone 12 mini Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 mini ricondizionato&lt;/strong&gt; – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 polliciApple iPhone 12 mini ricondizionato – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 pollici Scopri l'Apple iPhone 12 mini ricondizionato: il più compatto e leggero iPhone della gamma 2020, con display Super Retina XDR OLED da 5,4 pollici, chip A14 Bionic, connettività 5G e supporto MagSafe. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.store/products/apple-iphone-12-mini</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12miniwhite-1.jpg?v=1780490636</imageURL>
         <categories>Apple iPhone 12</categories>
         <brand>Riparalo Store</brand>
-        <model>Apple iPhone 12 Ricondizionato</model>
+        <model>Apple iPhone 12 mini Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59288160633166</ID>
+                <ID>59757743833422</ID>
                 <sku/>
-                <price>219.00</price>
+                <price>269.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Black</color>
-                <memoria>64GB</memoria>
+                <color>Purple</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -259,6 +214,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59244515426638</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757526253902</ID>
                 <sku/>
                 <price>469.00</price>
@@ -312,17 +278,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Product (Red)</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757521699150</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -518,6 +473,17 @@
                 <color>Midnight</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59287581131086</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>256GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -561,17 +527,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Purple</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59764210467150</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Product (Red)</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
