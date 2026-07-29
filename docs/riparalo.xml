@@ -1,25 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15738108182862</ID>
-        <name>Apple iPhone 14 Pro Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A15 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-14-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14black-1_220c0dd5-c232-450a-adc9-fe34bd331f42.jpg?v=1780322755</imageURL>
-        <categories>Apple iPhone 14</categories>
+        <ID>15738162053454</ID>
+        <name>Apple iPhone 12 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.store/products/apple-iphone-12</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12black-1.jpg?v=1780321500</imageURL>
+        <categories>Apple iPhone 12</categories>
         <brand>Riparalo Store</brand>
-        <model>Apple iPhone 14 Pro Ricondizionato</model>
+        <model>Apple iPhone 12 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757524648270</ID>
+                <ID>59288160731470</ID>
                 <sku/>
-                <price>549.00</price>
+                <price>269.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Space Black</color>
-                <memoria>256GB</memoria>
+                <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59764201292110</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -65,17 +76,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59711258198350</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Yellow</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -212,17 +212,6 @@
                 <sale>No</sale>
                 <color>Black</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59244515426638</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59757526253902</ID>
@@ -472,17 +461,6 @@
                 <sale>No</sale>
                 <color>Midnight</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287581131086</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
