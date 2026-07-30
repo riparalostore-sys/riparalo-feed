@@ -17,7 +17,7 @@ import urllib.error
 import urllib.request
 from xml.sax.saxutils import escape
 
-SHOP_DOMAIN = "www.riparalo.store"
+SHOP_DOMAIN = "www.riparalo.com"
 PRODUCTS_JSON_URL = f"https://{SHOP_DOMAIN}/products.json?limit=250"
 DEFAULT_OUTPUT_FILE = "docs/google.xml"
 
