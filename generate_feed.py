@@ -16,7 +16,7 @@ import time
 import requests
 from xml.sax.saxutils import escape
 
-STORE_URL = "https://www.riparalo.store"
+STORE_URL = "https://www.riparalo.com"
 BRAND_NAME = "Riparalo Store"
 OUTPUT_PATH = sys.argv[1] if len(sys.argv) > 1 else "docs/riparalo.xml"
 
