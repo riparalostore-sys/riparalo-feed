@@ -1,44 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15738162053454</ID>
-        <name>Apple iPhone 12 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-12</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12black-1.jpg?v=1780321500</imageURL>
-        <categories>Apple iPhone 12</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 12 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59288160731470</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59764201292110</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15849985442126</ID>
         <name>Apple iPhone 12 mini Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 mini ricondizionato&lt;/strong&gt; – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 polliciApple iPhone 12 mini ricondizionato – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 pollici Scopri l'Apple iPhone 12 mini ricondizionato: il più compatto e leggero iPhone della gamma 2020, con display Super Retina XDR OLED da 5,4 pollici, chip A14 Bionic, connettività 5G e supporto MagSafe. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-12-mini</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-12-mini</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12miniwhite-1.jpg?v=1780490636</imageURL>
         <categories>Apple iPhone 12</categories>
         <brand>Riparalo Store</brand>
@@ -58,33 +24,10 @@
         </variants>
     </product>
     <product>
-        <ID>15837626696014</ID>
-        <name>Apple iPhone 15 Plus Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Plus ricondizionato&lt;/strong&gt; – Dynamic Island, USB-C e display da 6,7 pollici con autonomia record nella gamma iPhone 15 standard Scopri l'Apple iPhone 15 Plus ricondizionato: il modello dal grande formato della gamma iPhone 15, il primo della serie standard ad adottare Dynamic Island e connettore USB-C, con display Super Retina XDR OLED da 6,7 pollici, chip A16 Bionic e fotocamera principale da 48 MP. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-15-plus</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15plusblack-1.jpg?v=1780473717</imageURL>
-        <categories>Apple iPhone 15</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 15 Plus Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59695415624014</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738064142670</ID>
         <name>Apple iPhone 13 Pro Max Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro Max ricondizionato &lt;/strong&gt;– Il massimo della tecnologia Apple a prezzo conveniente Scopri l'Apple iPhone 13 Pro Max ricondizionato: lo smartphone Apple più potente e con la batteria più longeva della gamma 13, dotato di display ProMotion da 120Hz, sistema fotografico a tripla fotocamera professionale e chip A15 Bionic. Certificato e testato, è la scelta perfetta per chi vuole il massimo dell'esperienza Apple in modo sostenibile e conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-13-pro-max</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13-pro-max</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13Promaxgold-1.jpg?v=1780323612</imageURL>
         <categories>Apple iPhone 13</categories>
         <brand>Riparalo Store</brand>
@@ -118,7 +61,7 @@
         <ID>15738164347214</ID>
         <name>Apple iPhone 12 Pro Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 12 Pro ricondizionato&lt;/strong&gt;: il primo iPhone con scanner LiDAR, scocca in acciaio inossidabile e sistema a tripla fotocamera professionale con supporto ProRAW. Certificato e testato, abbina il potente chip A14 Bionic a funzionalità fotografiche avanzate e connettività 5G, il tutto disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-12-pro</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-12-pro</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12Prosilver-1.jpg?v=1780477936</imageURL>
         <categories>Apple iPhone 12</categories>
         <brand>Riparalo Store</brand>
@@ -166,7 +109,7 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Pacific Blue</color>
-                <memoria>256GB</memoria>
+                <memoria>256gb</memoria>
             </variant>
             <variant>
                 <ID>59757517930830</ID>
@@ -196,7 +139,7 @@
         <ID>15722871161166</ID>
         <name>Apple iPhone 15 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 ricondizionato&lt;/strong&gt; – Dynamic Island e USB-C per un'esperienza Apple moderna e conveniente Scopri l'Apple iPhone 15 ricondizionato: il primo iPhone della serie standard ad adottare il Dynamic Island e il connettore USB-C, insieme al potente chip A16 Bionic e a una fotocamera principale da 48 MP. Certificato e testato, rappresenta il punto di svolta nella gamma Apple standard, disponibile a un prezzo accessibile e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-15</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-15</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15black-1.jpg?v=1780308414</imageURL>
         <categories>Apple iPhone 15</categories>
         <brand>Riparalo Store</brand>
@@ -230,23 +173,12 @@
         <ID>15729133453646</ID>
         <name>Apple iPhone 13 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 ricondizionato &lt;/strong&gt;– Prestazioni top a prezzo accessibile Scopri l'Apple iPhone 13 ricondizionato: un dispositivo certificato e testato, perfetto per chi vuole uno smartphone Apple di fascia alta a un prezzo conveniente. Con il potente chip A15 Bionic, un display Super Retina XDR da 6,1 pollici e un sistema fotografico avanzato, l'iPhone 13 ricondizionato garantisce un'esperienza d'uso fluida, affidabile e sostenibile. &lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-13</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13white-1.jpg?v=1780315989</imageURL>
         <categories>Apple iPhone 13</categories>
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757521764686</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Starlight</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59286914564430</ID>
                 <sku/>
@@ -288,7 +220,7 @@
         <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 128 GB ricondizionato&lt;/strong&gt; &lt;strong&gt;RESCUE &lt;br&gt;SEGNI SULLA SCOCCA&lt;br&gt;Batteria 95%&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Leggi FAQ Rescue&lt;/strong&gt;&lt;br&gt;&lt;strong&gt;GUARDA IL VIDEO!&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024Samsung Galaxy S24 ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024 Scopri il Samsung Galaxy S24 ricondizionato: lo smartphone Android di punta del 2024 in formato compatto, con il potente chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata per funzionalità di intelligenza artificiale avanzate e display Dynamic AMOLED 2X da 6,2 pollici con luminosità fino a 2600 nit. Certificato e testato, offre prestazioni flagship in un design tascabile e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/samsung-galaxy-s24-ricondizionato-rescue</productURL>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-ricondizionato-rescue</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS24_viola_rescue-1.jpg?v=1783505820</imageURL>
         <categories>Samsung Galaxy S24</categories>
         <brand>Riparalo Store</brand>
@@ -313,7 +245,7 @@
         <description>&lt;p&gt;&lt;strong&gt;Apple Watch Series 6 40mm ricondizionato Rescue&lt;br&gt;SEGNI EVIDENTI SULLA SCOCCA&lt;br&gt;Funzionalità 100%&lt;br&gt;Batteria 91%&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Leggi FAQ condizioni Rescue &lt;/strong&gt;&lt;br&gt;&lt;strong&gt;GUARDA IL VIDEO!&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
 &lt;p&gt;Il primo Apple Watch con sensore di ossigeno nel sangue e display always-on migliorato Scopri l'Apple Watch Series 6 40mm ricondizionato (modello A2291): lo smartwatch Apple del 2020 che introduce per la prima volta il sensore di ossigeno nel sangue (SpO2), un display Always-On fino al 2,5 volte più luminoso rispetto alla generazione precedente e il chip S6 per prestazioni veloci e reattive. Certificato e testato, è la scelta ideale per chi cerca uno smartwatch Apple premium con funzionalità avanzate per la salute e il fitness a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-watch-6-40m-gps-a2291-32gb-ricondizionato-rescue</productURL>
+        <productURL>https://www.riparalo.com/products/apple-watch-6-40m-gps-a2291-32gb-ricondizionato-rescue</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/AppleWatchSerie6red-1.jpg?v=1783504995</imageURL>
         <categories>Apple Watch</categories>
         <brand>Riparalo Store</brand>
@@ -339,7 +271,7 @@
 &lt;p&gt;&lt;span style="color: rgb(64, 176, 95);"&gt;&lt;strong&gt;1 solo pezzo disponibile!&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;16 gb di Ram &lt;br&gt;256 gb hard disk&lt;br&gt;Colore Midnight&lt;br&gt;Sigillato&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Scopri l'Apple MacBook Air 13" M4 2025 ricondizionato (modello A3240): il MacBook Air più avanzato mai realizzato, con il potente chip Apple M4 realizzato a 3 nanometri, supporto simultaneo a due display esterni, fotocamera FaceTime HD da 12 MP e piena compatibilità con Apple Intelligence. Certificato e testato, rappresenta il laptop ultrasottile definitivo per studenti e professionisti, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-macbook-air-13-a3240-256gb-ssd-midnight-best-sigillato</productURL>
+        <productURL>https://www.riparalo.com/products/apple-macbook-air-13-a3240-256gb-ssd-midnight-best-sigillato</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacbookAir13midnight-1.jpg?v=1783000832</imageURL>
         <categories>Apple Macbook Air 13</categories>
         <brand>Riparalo Store</brand>
@@ -364,7 +296,7 @@
         <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Air 13" M1 2020 ricondizionato&lt;/strong&gt; – &lt;strong&gt;Il primo MacBook Air con chip Apple M1 per prestazioni rivoluzionarie e autonomia record &lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;16 gb di Ram &lt;br&gt;512 gb hard disk&lt;br&gt;Colore Space Gray&lt;br&gt;Batteria 85%&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Scopri l'Apple MacBook Air 13" M1 2020 ricondizionato (modello A2337): il primo MacBook Air dotato del rivoluzionario chip Apple M1, completamente silenzioso grazie all'assenza di ventole, con autonomia fino a 18 ore e prestazioni superiori rispetto alla generazione Intel precedente. Certificato e testato, rappresenta uno dei laptop più apprezzati di sempre per il suo eccezionale rapporto tra prestazioni, autonomia e portabilità, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-macbook-pro-13-touchbar-a2338-512gb-space-gray-prime</productURL>
+        <productURL>https://www.riparalo.com/products/apple-macbook-pro-13-touchbar-a2338-512gb-space-gray-prime</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookPro13spacegray-3.jpg?v=1782988631</imageURL>
         <categories>Apple Macbook Air 13</categories>
         <brand>Riparalo Store</brand>
@@ -389,7 +321,7 @@
         <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M1 2020 ricondizionato – Il primo MacBook Pro con chip Apple M1 per prestazioni rivoluzionarie&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;16 gb di Ram &lt;br&gt;512 gb hard disk&lt;br&gt;Colore Space Gray&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Scopri l'Apple MacBook Pro 13" M1 2020 ricondizionato (modello A2338): il primo MacBook Pro dotato del rivoluzionario chip Apple M1, che segna il passaggio dall'architettura Intel a quella ARM per prestazioni eccezionali, efficienza energetica senza precedenti e autonomia record fino a 20 ore. Certificato e testato, rappresenta un punto di svolta nella storia dei laptop Apple, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-macbook-pro-13-touchbar-a2338-512gb-space-gray-prime-1</productURL>
+        <productURL>https://www.riparalo.com/products/apple-macbook-pro-13-touchbar-a2338-512gb-space-gray-prime-1</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBook13spacegray-1.jpg?v=1782988444</imageURL>
         <categories>Apple Macbook Air 13</categories>
         <brand>Riparalo Store</brand>
@@ -412,7 +344,7 @@
         <ID>15729132175694</ID>
         <name>Apple iPhone 14 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A15 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-14</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-14</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14galassia-1.jpg?v=1780308977</imageURL>
         <categories>Apple iPhone 14</categories>
         <brand>Riparalo Store</brand>
@@ -468,7 +400,7 @@
         <ID>15791397372238</ID>
         <name>Apple iPhone 14 Plus Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Plus ricondizionato &lt;/strong&gt;– Il grande display da 6,7 pollici con autonomia record nella gamma iPhone 14 standard Scopri l'Apple iPhone 14 Plus ricondizionato: il primo iPhone della serie standard ad adottare il formato da 6,7 pollici, con display Super Retina XDR OLED, chip A15 Bionic, fotocamera principale da 12 MP con stabilizzazione ottica di seconda generazione e autonomia fino a 26 ore. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-14-plus</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-14-plus</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14plusblu-1.jpg?v=1780476815</imageURL>
         <categories>Apple iPhone 14</categories>
         <brand>Riparalo Store</brand>
@@ -507,24 +439,13 @@
                 <color>Purple</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>60127068553550</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>512GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
         <ID>15837628137806</ID>
         <name>Apple iPhone Air</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone Air ricondizionato&lt;/strong&gt; – Il più sottile iPhone di sempre con scocca in titanio, chip A19 Pro e display Super Retina XDR da 6,5 pollici Scopri l'Apple iPhone Air ricondizionato: il rivoluzionario iPhone dal design ultrasottile di soli 5,64 mm, il più sottile mai realizzato da Apple, con scocca in titanio, chip A19 Pro, display Super Retina XDR OLED ProMotion da 6,5 pollici e fotocamera Fusion da 48 MP. Certificato e testato, rappresenta il perfetto equilibrio tra leggerezza, prestazioni e tecnologia Apple Intelligence, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-air</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-air</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhoneAirblack-1.jpg?v=1780472570</imageURL>
         <categories>Apple iPhone Air</categories>
         <brand>Riparalo Store</brand>
@@ -569,7 +490,7 @@
         <ID>15738167361870</ID>
         <name>Apple iPhone 12 Pro Max Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 Pro Max ricondizionato&lt;/strong&gt; – Il più grande e potente iPhone del 2020 a un prezzo conveniente Scopri l'Apple iPhone 12 Pro Max ricondizionato: il top di gamma Apple del 2020 con il display più grande della lineup, sensore fotografico principale di dimensioni record, stabilizzazione ottica con spostamento del sensore di prima generazione e chip A14 Bionic. Certificato e testato, offre il massimo in termini di fotografia, display e autonomia della gamma iPhone 12, disponibile a un prezzo accessibile e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-12-pro-max</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-12-pro-max</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12Promaxgrafite-1.jpg?v=1780325809</imageURL>
         <categories>Apple iPhone 12</categories>
         <brand>Riparalo Store</brand>
@@ -658,23 +579,12 @@
         <ID>15738144850254</ID>
         <name>Apple iPhone 15 Pro Max Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro Max ricondizionato&lt;/strong&gt; – Titanio, zoom ottico 5x e chip A17 Pro per l'iPhone più avanzato di sempre Scopri l'Apple iPhone 15 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2023, con scocca in titanio di grado aerospaziale, il potente chip A17 Pro, il teleobiettivo con zoom ottico 5x esclusivo e il connettore USB-C con supporto USB 3. Certificato e testato, offre il massimo in termini di fotografia, prestazioni e autonomia, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-15-pro-max</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro-max</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Promaxtitaniobianco-1.jpg?v=1780306992</imageURL>
         <categories>Apple iPhone 15</categories>
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 15 Pro Max Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59287827022158</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59292147351886</ID>
                 <sku/>
@@ -705,7 +615,7 @@
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro ricondizionato&lt;/strong&gt; – Titanio, USB-C e chip A17 Pro per il massimo delle prestazioni Apple.&lt;/p&gt;
 &lt;p&gt;Scopri l'Apple iPhone 15 Pro ricondizionato: il primo iPhone realizzato in titanio di grado aerospaziale, con il rivoluzionario chip A17 Pro, il tasto Azione personalizzabile e il connettore USB-C con supporto USB 3.&lt;/p&gt;
 &lt;p&gt;Certificato e testato, offre prestazioni da console di gioco, un sistema fotografico a tripla fotocamera di livello professionale e una costruzione premium, il tutto a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/apple-iphone-15-pro</productURL>
+        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Problack-1.jpg?v=1780305681</imageURL>
         <categories>Apple iPhone 15</categories>
         <brand>Riparalo Store</brand>
@@ -739,7 +649,7 @@
         <ID>15851056431438</ID>
         <name>Samsung Galaxy S24 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 ricondizionato&lt;/strong&gt; – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024Samsung Galaxy S24 ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024 Scopri il Samsung Galaxy S24 ricondizionato: lo smartphone Android di punta del 2024 in formato compatto, con il potente chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata per funzionalità di intelligenza artificiale avanzate e display Dynamic AMOLED 2X da 6,2 pollici con luminosità fino a 2600 nit. Certificato e testato, offre prestazioni flagship in un design tascabile e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/samsung-galaxy-s24</productURL>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24black-1.jpg?v=1780067338</imageURL>
         <categories>Samsung Galaxy S24</categories>
         <brand>Riparalo Store</brand>
@@ -784,7 +694,7 @@
         <ID>15733018132814</ID>
         <name>Protezione Display 12 mesi</name>
         <description>&lt;p&gt;Proteggi il tuo dispositivo dagli imprevisti con il servizio &lt;strong&gt;Protezione Display&lt;/strong&gt;, pensato per offrirti maggiore tranquillità in caso di rottura accidentale dello schermo. Il servizione protezione Display &lt;strong&gt;ha una durata di 12 mesi &lt;/strong&gt;dal momento dell'ordine.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.store/products/protezione-display</productURL>
+        <productURL>https://www.riparalo.com/products/protezione-display</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/Display_Protetto.png?v=1777027871</imageURL>
         <categories>Garanzia</categories>
         <brand>Riparalo Store</brand>
