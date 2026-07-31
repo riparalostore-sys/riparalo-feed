@@ -1,6 +1,86 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15755932991822</ID>
+        <name>Apple iPhone 16 Pro Max Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display da 6,9 pollici, chip A18 Pro e zoom ottico 5xScopri l'Apple iPhone 16 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2024, con il display Super Retina XDR da 6,9 pollici il più grande mai realizzato su un iPhone, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-16-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16Promaxdeserttitanium-1.jpg?v=1780483048</imageURL>
+        <categories>Apple iPhone 16</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 16 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757527531854</ID>
+                <sku/>
+                <price>1119.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837627187534</ID>
+        <name>Apple iPhone 16e Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16e ricondizionato&lt;/strong&gt; – Chip A18, fotocamera Fusion da 48 MP e modem Apple C1 per l'iPhone più accessibile del 2025Scopri l'Apple iPhone 16e ricondizionato: il nuovo iPhone entry-level del 2025 che porta il potente chip A18, la fotocamera Fusion da 48 MP con zoom 2x di qualità ottica, il tasto Azione personalizzabile e il primo modem Apple C1 progettato internamente. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple Intelligence a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-16e</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16ebianco-1.jpg?v=1780491065</imageURL>
+        <categories>Apple iPhone 16</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 16e Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59695424536910</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738053263694</ID>
+        <name>Apple iPhone 13 Pro Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro ricondizionato&lt;/strong&gt; – Potenza professionale a un prezzo sostenibile Scopri l'Apple iPhone 13 Pro ricondizionato: lo smartphone Apple con sistema fotografico a tripla fotocamera, display ProMotion da 120Hz e chip A15 Bionic, disponibile certificato e testato per offrirti prestazioni professionali a un prezzo conveniente. La scelta ideale per chi cerca il meglio della tecnologia Apple in ottica sostenibile. &lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13Progold-1.jpg?v=1780478868</imageURL>
+        <categories>Apple iPhone 13</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 13 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59287156130126</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Gold</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757522714958</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Sierra Blue</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15849985442126</ID>
         <name>Apple iPhone 12 mini Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 mini ricondizionato&lt;/strong&gt; – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 polliciApple iPhone 12 mini ricondizionato – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 pollici Scopri l'Apple iPhone 12 mini ricondizionato: il più compatto e leggero iPhone della gamma 2020, con display Super Retina XDR OLED da 5,4 pollici, chip A14 Bionic, connettività 5G e supporto MagSafe. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -101,17 +181,6 @@
                 <memoria>512GB</memoria>
             </variant>
             <variant>
-                <ID>59757517963598</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pacific Blue</color>
-                <memoria>256gb</memoria>
-            </variant>
-            <variant>
                 <ID>59757517930830</ID>
                 <sku/>
                 <price>369.00</price>
@@ -156,17 +225,6 @@
                 <color>Black</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59757526253902</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -180,6 +238,17 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59286914564430</ID>
                 <sku/>
                 <price>419.00</price>
@@ -188,6 +257,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Midnight</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59286914466126</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pink</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -630,17 +710,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292152004942</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
