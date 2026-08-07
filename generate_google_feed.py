@@ -57,21 +57,35 @@ def fetch_all_products():
     return products
 
 
-def fetch_with_retry(url, max_retries=4):
+# Codici su cui vale la pena ritentare: rate limit (429), forbidden temporaneo (403)
+# e tutti gli errori server, incluso il 503 con cui Shopify blocca gli IP cloud (GitHub).
+RETRY_STATUS = {403, 429, 500, 502, 503, 504, 520, 521, 522, 523, 524}
+
+
+def fetch_with_retry(url, max_retries=6):
     """Esegue la richiesta con retry e attesa crescente in caso di blocco temporaneo."""
     last_error = None
+    wait_seconds = 8
     for attempt in range(1, max_retries + 1):
         try:
             req = urllib.request.Request(url, headers=REQUEST_HEADERS)
-            with urllib.request.urlopen(req, timeout=30) as resp:
+            with urllib.request.urlopen(req, timeout=45) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
             return data.get("products", [])
         except urllib.error.HTTPError as e:
             last_error = e
-            if e.code in (403, 429) and attempt < max_retries:
-                wait_seconds = 10 * attempt
-                print(f"Tentativo {attempt} fallito ({e.code}), riprovo tra {wait_seconds}s...")
+            if e.code in RETRY_STATUS and attempt < max_retries:
+                print(f"Tentativo {attempt} fallito (HTTP {e.code}), riprovo tra {wait_seconds}s...")
                 time.sleep(wait_seconds)
+                wait_seconds = min(wait_seconds * 2, 90)
+                continue
+            raise
+        except urllib.error.URLError as e:
+            last_error = e
+            if attempt < max_retries:
+                print(f"Tentativo {attempt} fallito (rete: {e.reason}), riprovo tra {wait_seconds}s...")
+                time.sleep(wait_seconds)
+                wait_seconds = min(wait_seconds * 2, 90)
                 continue
             raise
     raise last_error
