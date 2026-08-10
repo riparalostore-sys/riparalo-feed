@@ -1,6 +1,120 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15850596925774</ID>
+        <name>Samsung Galaxy S24 Ultra Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Ultra ricondizionato&lt;/strong&gt; – Titanio, S Pen integrata e Galaxy AI per il flagship Android definitivo Scopri il Samsung Galaxy S24 Ultra ricondizionato: il top di gamma Samsung del 2024 con scocca in titanio di grado aerospaziale, S Pen integrata, chip Snapdragon 8 Gen 3 ottimizzato per Samsung e fotocamera principale da 200 MP. Certificato e testato, introduce Galaxy AI come sistema di intelligenza artificiale nativo per la produttività e la fotografia avanzata, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-ultra</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24ultranero-1.jpg?v=1780327376</imageURL>
+        <categories>Samsung Galaxy S24</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757538836814</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Black</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15815521730894</ID>
+        <name>Apple iPhone 16 Pro Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro ricondizionato &lt;/strong&gt;– Chip A18 Pro, display da 6,3 pollici e fotocamera da 48 MP con zoom ottico 5xScopri l'Apple iPhone 16 Pro ricondizionato: lo smartphone Apple Pro con il nuovo display Super Retina XDR da 6,3 pollici il più grande mai realizzato sulla serie Pro standard, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, offre prestazioni professionali e funzionalità Apple Intelligence di nuova generazione, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-16-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16Problack-1.jpg?v=1780474838</imageURL>
+        <categories>Apple iPhone 16 Pro</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 16 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60134744097102</ID>
+                <sku/>
+                <price>919.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black Titanium</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>60346171687246</ID>
+                <sku/>
+                <price>919.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>White Titanium</color>
+                <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738144850254</ID>
+        <name>Apple iPhone 15 Pro Max Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro Max ricondizionato&lt;/strong&gt; – Titanio, zoom ottico 5x e chip A17 Pro per l'iPhone più avanzato di sempre Scopri l'Apple iPhone 15 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2023, con scocca in titanio di grado aerospaziale, il potente chip A17 Pro, il teleobiettivo con zoom ottico 5x esclusivo e il connettore USB-C con supporto USB 3. Certificato e testato, offre il massimo in termini di fotografia, prestazioni e autonomia, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Promaxtitaniobianco-1.jpg?v=1780306992</imageURL>
+        <categories>Apple iPhone 15</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 15 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59287827022158</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59292147548494</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837625483598</ID>
+        <name>Apple iPhone 13 Mini Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13-mini</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
+        <categories>Apple iPhone 13</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 13 Mini Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59758271332686</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15722871161166</ID>
         <name>Apple iPhone 15 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 ricondizionato&lt;/strong&gt; – Dynamic Island e USB-C per un'esperienza Apple moderna e conveniente Scopri l'Apple iPhone 15 ricondizionato: il primo iPhone della serie standard ad adottare il Dynamic Island e il connettore USB-C, insieme al potente chip A16 Bionic e a una fotocamera principale da 48 MP. Certificato e testato, rappresenta il punto di svolta nella gamma Apple standard, disponibile a un prezzo accessibile e in ottica sostenibile.&lt;/p&gt;</description>
@@ -11,15 +125,15 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59244515328334</ID>
+                <ID>59244515426638</ID>
                 <sku/>
-                <price>469.00</price>
+                <price>569.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
-                <memoria>128GB</memoria>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287799103822</ID>
@@ -30,17 +144,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Green</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757526253902</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -92,14 +195,14 @@
         <model>Apple iPhone 15 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59287808901454</ID>
+                <ID>60346161529166</ID>
                 <sku/>
                 <price>619.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Natural Titanium</color>
+                <color>Titanium Black</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -260,29 +363,6 @@
                 <sale>No</sale>
                 <color>Gold</color>
                 <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15729133453646</ID>
-        <name>Apple iPhone 13 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 ricondizionato &lt;/strong&gt;– Prestazioni top a prezzo accessibile Scopri l'Apple iPhone 13 ricondizionato: un dispositivo certificato e testato, perfetto per chi vuole uno smartphone Apple di fascia alta a un prezzo conveniente. Con il potente chip A15 Bionic, un display Super Retina XDR da 6,1 pollici e un sistema fotografico avanzato, l'iPhone 13 ricondizionato garantisce un'esperienza d'uso fluida, affidabile e sostenibile. &lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-13</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13white-1.jpg?v=1780315989</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 13 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60079625273678</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>(Product) Red</color>
-                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
