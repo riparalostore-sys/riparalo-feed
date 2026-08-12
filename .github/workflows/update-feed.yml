@@ -5,6 +5,9 @@ on:
   workflow_dispatch:
 permissions:
   contents: write
+concurrency:
+  group: push-feed
+  cancel-in-progress: false
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -26,8 +29,15 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/riparalo.xml
-          git diff --staged --quiet || git commit -m "Aggiorna feed TradeTracker"
-          git push
+          git diff --staged --quiet && echo "Nessuna modifica" && exit 0
+          git commit -m "Aggiorna feed TradeTracker"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && echo "Push riuscito" && exit 0
+            echo "Tentativo $i: push in conflitto, riallineo e riprovo..."
+            sleep 5
+          done
+          echo "Push fallito dopo 5 tentativi"
+          exit 1
       - name: Controllo scadenza 60 giorni
         run: |
           ULTIMO=$(git log -1 --format=%ct --invert-grep --grep="Aggiorna feed TradeTracker")
