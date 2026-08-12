@@ -1,13 +1,13 @@
 name: Aggiorna feed Google Shopping
-
 on:
   schedule:
     - cron: "0 */4 * * *"
   workflow_dispatch:
-
 permissions:
   contents: write
-
+concurrency:
+  group: push-feed
+  cancel-in-progress: false
 jobs:
   update-feed:
     runs-on: ubuntu-latest
@@ -16,26 +16,28 @@ jobs:
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
           python-version: "3.11"
-
       - name: Installa dipendenze
         run: pip install requests
-
       - name: Genera il feed XML per Google
         run: python generate_google_feed.py docs/google.xml
-
       - name: Commit e push
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add docs/google.xml
-          git diff --staged --quiet || git commit -m "Aggiorna feed Google Shopping"
-          git push
-
+          git diff --staged --quiet && echo "Nessuna modifica" && exit 0
+          git commit -m "Aggiorna feed Google Shopping"
+          for i in 1 2 3 4 5; do
+            git pull --rebase origin main && git push && echo "Push riuscito" && exit 0
+            echo "Tentativo $i: push in conflitto, riallineo e riprovo..."
+            sleep 5
+          done
+          echo "Push fallito dopo 5 tentativi"
+          exit 1
       - name: Controllo scadenza 60 giorni
         run: |
           ULTIMO=$(git log -1 --format=%ct --invert-grep --grep="Aggiorna feed Google Shopping")
