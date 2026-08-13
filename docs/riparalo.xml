@@ -1,6 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15901944185166</ID>
+        <name>Apple iPhone 17 Air Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Air ricondizionato &lt;/strong&gt;– L'iPhone più sottile di sempre con scocca in titanio, chip A19 Pro e display Super Retina XDR da 6,5 pollici Scopri l'Apple iPhone 17 Air ricondizionato: il modello più sottile e leggero mai realizzato da Apple, con soli 5,64 mm di spessore e 165 grammi di peso, scocca in titanio, chip A19 Pro, display Super Retina XDR ProMotion da 6,5 pollici e fotocamera Fusion da 48 MP. Certificato e testato, inaugura una nuova categoria nella gamma iPhone che unisce design ultrasottile, prestazioni Pro e Apple Intelligence, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-17-air</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17Airnero-2.jpg?v=1782812180</imageURL>
+        <categories>Apple iPhone 17</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 17 Air Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59990421373262</ID>
+                <sku/>
+                <price>991.13</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Sky Blue</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15755923521870</ID>
         <name>Apple iPhone 16 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 ricondizionato &lt;/strong&gt;– Il primo iPhone progettato per Apple Intelligence con chip A18 e fotocamera con tasto Controllo fotocamera Scopri l'Apple iPhone 16 ricondizionato: il primo iPhone nativamente progettato per Apple Intelligence, con il nuovo chip A18, il rivoluzionario tasto Controllo fotocamera, il tasto Azione personalizzabile e un sistema fotografico avanzato con fusione audio video. Certificato e testato, rappresenta l'ingresso nella nuova era dell'intelligenza artificiale Apple, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -22,14 +45,14 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59757527171406</ID>
+                <ID>59374997569870</ID>
                 <sku/>
                 <price>619.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Teal</color>
+                <color>White</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -112,17 +135,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59287156425038</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59287156719950</ID>
                 <sku/>
@@ -503,17 +515,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59757526253902</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757526319438</ID>
                 <sku/>
                 <price>569.00</price>
@@ -595,17 +596,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59292152037710</ID>
-                <sku/>
-                <price>823.50</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287808901454</ID>
                 <sku/>
                 <price>619.00</price>
@@ -685,6 +675,17 @@
         <model>Apple iPhone 12 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59288160633166</ID>
+                <sku/>
+                <price>219.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>64GB</memoria>
+            </variant>
+            <variant>
                 <ID>59288160731470</ID>
                 <sku/>
                 <price>269.00</price>
@@ -693,6 +694,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59764201292110</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -869,31 +881,6 @@
         </variants>
     </product>
     <product>
-        <ID>15907807265102</ID>
-        <name>APPLE Watch 6 40m GPS A2291 - 32GB Ricondizionato Rescue</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple Watch Series 6 40mm ricondizionato Rescue&lt;br&gt;SEGNI EVIDENTI SULLA SCOCCA&lt;br&gt;Funzionalità 100%&lt;br&gt;Batteria 91%&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Leggi FAQ condizioni Rescue &lt;/strong&gt;&lt;br&gt;&lt;strong&gt;GUARDA IL VIDEO!&lt;/strong&gt;&lt;br&gt;&lt;/p&gt;
-&lt;p&gt;Il primo Apple Watch con sensore di ossigeno nel sangue e display always-on migliorato Scopri l'Apple Watch Series 6 40mm ricondizionato (modello A2291): lo smartwatch Apple del 2020 che introduce per la prima volta il sensore di ossigeno nel sangue (SpO2), un display Always-On fino al 2,5 volte più luminoso rispetto alla generazione precedente e il chip S6 per prestazioni veloci e reattive. Certificato e testato, è la scelta ideale per chi cerca uno smartwatch Apple premium con funzionalità avanzate per la salute e il fitness a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-watch-6-40m-gps-a2291-32gb-ricondizionato-rescue</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/AppleWatchSerie6red-1.jpg?v=1783504995</imageURL>
-        <categories>Apple Watch</categories>
-        <brand>Riparalo Store</brand>
-        <model>APPLE Watch 6 40m GPS A2291 - 32GB Ricondizionato Rescue</model>
-        <variants>
-            <variant>
-                <ID>60016136978766</ID>
-                <sku/>
-                <price>139.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color/>
-                <memoria/>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15908167647566</ID>
         <name>APPLE Macbook Air 13 A3240 256GB SSD Midnight Best</name>
         <description>&lt;p&gt;Apple MacBook Air 13" M4 2025 ricondizionato – Il laptop ultrasottile con chip M4, supporto a due display e Apple Intelligence integrata&lt;/p&gt;
@@ -1032,6 +1019,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Yellow</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59244556517710</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
