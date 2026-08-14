@@ -1,29 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15901944185166</ID>
-        <name>Apple iPhone 17 Air Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Air ricondizionato &lt;/strong&gt;– L'iPhone più sottile di sempre con scocca in titanio, chip A19 Pro e display Super Retina XDR da 6,5 pollici Scopri l'Apple iPhone 17 Air ricondizionato: il modello più sottile e leggero mai realizzato da Apple, con soli 5,64 mm di spessore e 165 grammi di peso, scocca in titanio, chip A19 Pro, display Super Retina XDR ProMotion da 6,5 pollici e fotocamera Fusion da 48 MP. Certificato e testato, inaugura una nuova categoria nella gamma iPhone che unisce design ultrasottile, prestazioni Pro e Apple Intelligence, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-17-air</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17Airnero-2.jpg?v=1782812180</imageURL>
-        <categories>Apple iPhone 17</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 17 Air Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59990421373262</ID>
-                <sku/>
-                <price>991.13</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Sky Blue</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15755923521870</ID>
         <name>Apple iPhone 16 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 ricondizionato &lt;/strong&gt;– Il primo iPhone progettato per Apple Intelligence con chip A18 e fotocamera con tasto Controllo fotocamera Scopri l'Apple iPhone 16 ricondizionato: il primo iPhone nativamente progettato per Apple Intelligence, con il nuovo chip A18, il rivoluzionario tasto Controllo fotocamera, il tasto Azione personalizzabile e un sistema fotografico avanzato con fusione audio video. Certificato e testato, rappresenta l'ingresso nella nuova era dell'intelligenza artificiale Apple, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -42,17 +19,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374997569870</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>White</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -100,28 +66,6 @@
                 <sale>No</sale>
                 <color>Space Black</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757524779342</ID>
-                <sku/>
-                <price>599.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Space Black</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287639425358</ID>
-                <sku/>
-                <price>599.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Gold</color>
-                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
@@ -203,50 +147,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59695428698446</ID>
-                <sku/>
-                <price>869.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Desert Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59595804705102</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59695428731214</ID>
-                <sku/>
-                <price>869.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59595804737870</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>White Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>60134744097102</ID>
                 <sku/>
                 <price>919.00</price>
@@ -256,29 +156,6 @@
                 <sale>No</sale>
                 <color>Black Titanium</color>
                 <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15851056267598</ID>
-        <name>Samsung Galaxy S23 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S23 ricondizionato &lt;/strong&gt;– Prestazioni flagship con chip Snapdragon 8 Gen 2 e fotocamera da 50 MPSamsung Galaxy S23 ricondizionato – Prestazioni flagship con chip Snapdragon 8 Gen 2 e fotocamera da 50 MP Scopri il Samsung Galaxy S23 ricondizionato: lo smartphone Android di punta del 2023 con il potente chip Snapdragon 8 Gen 2 ottimizzato per Samsung, display Dynamic AMOLED 2X da 6,1 pollici e sistema fotografico avanzato con fotocamera principale da 50 MP. Certificato e testato, offre prestazioni eccellenti in un form factor compatto e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s23</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S23green-1.jpg?v=1780320213</imageURL>
-        <categories>Samsung Galaxy S23</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S23 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59759887810894</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Phantom Black</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -427,29 +304,6 @@
         </variants>
     </product>
     <product>
-        <ID>15850596925774</ID>
-        <name>Samsung Galaxy S24 Ultra Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Ultra ricondizionato&lt;/strong&gt; – Titanio, S Pen integrata e Galaxy AI per il flagship Android definitivo Scopri il Samsung Galaxy S24 Ultra ricondizionato: il top di gamma Samsung del 2024 con scocca in titanio di grado aerospaziale, S Pen integrata, chip Snapdragon 8 Gen 3 ottimizzato per Samsung e fotocamera principale da 200 MP. Certificato e testato, introduce Galaxy AI come sistema di intelligenza artificiale nativo per la produttività e la fotografia avanzata, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-ultra</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24ultranero-1.jpg?v=1780327376</imageURL>
-        <categories>Samsung Galaxy S24</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757538836814</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Black</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15722871161166</ID>
         <name>Apple iPhone 15 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 ricondizionato&lt;/strong&gt; – Dynamic Island e USB-C per un'esperienza Apple moderna e conveniente Scopri l'Apple iPhone 15 ricondizionato: il primo iPhone della serie standard ad adottare il Dynamic Island e il connettore USB-C, insieme al potente chip A16 Bionic e a una fotocamera principale da 48 MP. Certificato e testato, rappresenta il punto di svolta nella gamma Apple standard, disponibile a un prezzo accessibile e in ottica sostenibile.&lt;/p&gt;</description>
@@ -559,6 +413,17 @@
                 <color>Black Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
+            <variant>
+                <ID>59757527335246</ID>
+                <sku/>
+                <price>1119.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black Titanium</color>
+                <memoria>512GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -594,6 +459,17 @@
                 <sale>No</sale>
                 <color>Blue Titanium</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59292152037710</ID>
+                <sku/>
+                <price>823.50</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue Titanium</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287808901454</ID>
@@ -694,17 +570,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59764201292110</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
