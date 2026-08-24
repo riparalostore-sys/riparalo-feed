@@ -1,6 +1,108 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837641146702</ID>
+        <name>Samsung Galaxy Z Flip 5 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip5 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con Flex Window da 3,4 pollici e cerniera senza gap per una chiusura completamente piattaScopri il Samsung Galaxy Z Flip5 5G ricondizionato: lo smartphone pieghevole a conchiglia di nuova generazione con il rivoluzionario Flex Window da 3,4 pollici, chip Snapdragon 8 Gen 2 e cerniera Flex Hinge senza gap per una chiusura completamente piatta. Certificato e testato, offre il massimo della portabilità senza rinunciare alle prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-5</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/GalaxyZFlip5grigio-1.jpg?v=1780493167</imageURL>
+        <categories>Samsung Galaxy Z Flip 5</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy Z Flip 5 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59707909308750</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Graphite</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738116637006</ID>
+        <name>Apple iPhone 14 Pro Max Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display Always-On e autonomia record Scopri l'Apple iPhone 14 Pro Max ricondizionato: lo smartphone Apple più grande e autonomo della gamma 14 Pro, con Dynamic Island, display Always-On ProMotion da 6,7 pollici, fotocamera principale da 48 MP e chip A16 Bionic. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-14-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14Promaxsilver-1.jpg?v=1780319784</imageURL>
+        <categories>Apple iPhone 14</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 14 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757525139790</ID>
+                <sku/>
+                <price>589.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Silver</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757525008718</ID>
+                <sku/>
+                <price>589.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Space Black</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757525238094</ID>
+                <sku/>
+                <price>689.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Space Black</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757525205326</ID>
+                <sku/>
+                <price>589.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Deep Purple</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837625483598</ID>
+        <name>Apple iPhone 13 Mini Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13-mini</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
+        <categories>Apple iPhone 13</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 13 Mini Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59758271332686</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15755923521870</ID>
         <name>Apple iPhone 16 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 ricondizionato &lt;/strong&gt;– Il primo iPhone progettato per Apple Intelligence con chip A18 e fotocamera con tasto Controllo fotocamera Scopri l'Apple iPhone 16 ricondizionato: il primo iPhone nativamente progettato per Apple Intelligence, con il nuovo chip A18, il rivoluzionario tasto Controllo fotocamera, il tasto Azione personalizzabile e un sistema fotografico avanzato con fusione audio video. Certificato e testato, rappresenta l'ingresso nella nuova era dell'intelligenza artificiale Apple, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -34,6 +136,28 @@
         <model>Apple iPhone 15 Pro Max Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59292147941710</ID>
+                <sku/>
+                <price>869.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>White Titanium</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287827022158</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59305135571278</ID>
                 <sku/>
                 <price>869.00</price>
@@ -43,6 +167,17 @@
                 <sale>No</sale>
                 <color>Black Titanium</color>
                 <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59292147548494</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue Titanium</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -67,6 +202,17 @@
                 <color>Space Black</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59757524615502</ID>
+                <sku/>
+                <price>599.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Deep Purple</color>
+                <memoria>512GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -80,6 +226,28 @@
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59287156130126</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Gold</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287156228430</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Gold</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287156719950</ID>
                 <sku/>
                 <price>419.00</price>
@@ -88,6 +256,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Graphite</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757522649422</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Alpine Green</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -100,6 +279,17 @@
                 <sale>No</sale>
                 <color>Sierra Blue</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757522452814</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Sierra Blue</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -144,6 +334,39 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Desert Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59695428698446</ID>
+                <sku/>
+                <price>869.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Desert Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59595804705102</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59595804737870</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>White Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -258,17 +481,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59286914335054</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59286914367822</ID>
                 <sku/>
                 <price>419.00</price>
@@ -347,6 +559,17 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59287798710606</ID>
+                <sku/>
+                <price>669.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pink</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287799103822</ID>
                 <sku/>
                 <price>469.00</price>
@@ -369,6 +592,17 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59374990852430</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Yellow</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757526319438</ID>
                 <sku/>
                 <price>569.00</price>
@@ -378,6 +612,17 @@
                 <sale>No</sale>
                 <color>Blue</color>
                 <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>60511678529870</ID>
+                <sku/>
+                <price>669.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Green</color>
+                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
@@ -414,14 +659,14 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59757527335246</ID>
+                <ID>59757527531854</ID>
                 <sku/>
                 <price>1119.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Black Titanium</color>
+                <color>Natural Titanium</color>
                 <memoria>512GB</memoria>
             </variant>
         </variants>
@@ -463,7 +708,7 @@
             <variant>
                 <ID>59292152037710</ID>
                 <sku/>
-                <price>823.50</price>
+                <price>719.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
@@ -528,6 +773,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59711258132814</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pink</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59711258198350</ID>
                 <sku/>
                 <price>519.00</price>
@@ -550,17 +806,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 12 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59288160633166</ID>
-                <sku/>
-                <price>219.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>64GB</memoria>
-            </variant>
             <variant>
                 <ID>59288160731470</ID>
                 <sku/>
@@ -650,6 +895,28 @@
                 <sale>No</sale>
                 <color>Sierra Blue</color>
                 <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757523140942</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Sierra Blue</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>60255584649550</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -854,15 +1121,15 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59757523403086</ID>
+                <ID>59757523370318</ID>
                 <sku/>
-                <price>419.00</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Blue</color>
-                <memoria>128GB</memoria>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287581917518</ID>
@@ -876,15 +1143,26 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59374981022030</ID>
+                <ID>59287582015822</ID>
                 <sku/>
-                <price>419.00</price>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Purple</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59374981054798</ID>
+                <sku/>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Yellow</color>
-                <memoria>128GB</memoria>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59244556517710</ID>
