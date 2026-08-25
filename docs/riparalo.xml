@@ -103,29 +103,6 @@
         </variants>
     </product>
     <product>
-        <ID>15837625483598</ID>
-        <name>Apple iPhone 13 Mini Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-13-mini</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 13 Mini Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59758271332686</ID>
-                <sku/>
-                <price>319.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15755923521870</ID>
         <name>Apple iPhone 16 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 ricondizionato &lt;/strong&gt;– Il primo iPhone progettato per Apple Intelligence con chip A18 e fotocamera con tasto Controllo fotocamera Scopri l'Apple iPhone 16 ricondizionato: il primo iPhone nativamente progettato per Apple Intelligence, con il nuovo chip A18, il rivoluzionario tasto Controllo fotocamera, il tasto Azione personalizzabile e un sistema fotografico avanzato con fusione audio video. Certificato e testato, rappresenta l'ingresso nella nuova era dell'intelligenza artificiale Apple, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -392,17 +369,6 @@
                 <color>White Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>60134744097102</ID>
-                <sku/>
-                <price>919.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>512GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -449,17 +415,6 @@
                 <memoria>512GB</memoria>
             </variant>
             <variant>
-                <ID>59286914531662</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59286914564430</ID>
                 <sku/>
                 <price>419.00</price>
@@ -469,17 +424,6 @@
                 <sale>No</sale>
                 <color>Midnight</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914433358</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59286914466126</ID>
@@ -513,17 +457,6 @@
                 <sale>No</sale>
                 <color>Green</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757521797454</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59757521699150</ID>
@@ -681,17 +614,6 @@
                 <color>Black Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
-            <variant>
-                <ID>59757527531854</ID>
-                <sku/>
-                <price>1119.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>512GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -727,17 +649,6 @@
                 <sale>No</sale>
                 <color>Blue Titanium</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292152037710</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287808901454</ID>
@@ -1198,6 +1109,29 @@
         </variants>
     </product>
     <product>
+        <ID>15815521927502</ID>
+        <name>Samsung Galaxy Z Flip 6 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip6 5G ricondizionato &lt;/strong&gt;– Il pieghevole compatto più intelligente con Galaxy AI e batteria potenziata da 4.000 mAhScopri il Samsung Galaxy Z Flip6 5G ricondizionato: lo smartphone pieghevole a conchiglia di ultima generazione con il potente chip Snapdragon 8 Gen 3, batteria potenziata da 4.000 mAh e funzionalità Galaxy AI integrate per la fotografia e la produttività intelligente. Certificato e testato, rappresenta il pieghevole compatto più avanzato di Samsung, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-6</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFlip6blu-1.jpg?v=1780316837</imageURL>
+        <categories>Samsung Galaxy Z Flip 6</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy Z Flip 6 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60522420928846</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue/black</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15791397372238</ID>
         <name>Apple iPhone 14 Plus Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Plus ricondizionato &lt;/strong&gt;– Il grande display da 6,7 pollici con autonomia record nella gamma iPhone 14 standard Scopri l'Apple iPhone 14 Plus ricondizionato: il primo iPhone della serie standard ad adottare il formato da 6,7 pollici, con display Super Retina XDR OLED, chip A15 Bionic, fotocamera principale da 12 MP con stabilizzazione ottica di seconda generazione e autonomia fino a 26 ore. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -1283,6 +1217,29 @@
                 <sale>No</sale>
                 <color>(Product) Red</color>
                 <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837641015630</ID>
+        <name>Samsung Galaxy Z Flip 3 5G Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip3 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con certificazione IPX8, display esterno da 1,9 pollici e chip Snapdragon 888 Scopri il Samsung Galaxy Z Flip3 5G ricondizionato: lo smartphone pieghevole a conchiglia di Samsung del 2021 che introduce per la prima volta nella lineup la certificazione IPX8 per la resistenza all'acqua, il display esterno da 1,9 pollici e la connettività 5G a un prezzo più accessibile rispetto alla generazione precedente. Certificato e testato, offre un design iconico e prestazioni solide, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-3-5g</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFlip35Gbeige-2.jpg?v=1780497884</imageURL>
+        <categories>Samsung Galaxy Z Flip 3 5G</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy Z Flip 3 5G Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60522420896078</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Phantom Black/lavender</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
