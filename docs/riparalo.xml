@@ -1,52 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15892781891918</ID>
-        <name>Samsung Galaxy Z Fold 7 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Fold7 5G ricondizionato &lt;/strong&gt;– Il pieghevole più sottile e leggero di sempre con fotocamera da 200 MP, chip Snapdragon 8 Elite e display interno da 8 polliciScopri il Samsung Galaxy Z Fold7 5G ricondizionato: lo smartphone pieghevole top di gamma Samsung del 2025, il più sottile e leggero della serie Galaxy Z Fold con soli 4,2 mm da aperto e 215 grammi di peso, fotocamera principale da 200 MP per la prima volta sulla serie Fold, chip Snapdragon 8 Elite e Galaxy AI di nuova generazione con Google Gemini Live integrato. Certificato e testato, rappresenta il massimo della tecnologia pieghevole Samsung disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-fold-7</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/zfold7black-1.jpg?v=1787577274</imageURL>
-        <categories>Samsung Galaxy Z Fold 7</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy Z Fold 7 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60233518154062</ID>
-                <sku/>
-                <price>1219.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver Shadow</color>
-                <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837641146702</ID>
-        <name>Samsung Galaxy Z Flip 5 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip5 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con Flex Window da 3,4 pollici e cerniera senza gap per una chiusura completamente piattaScopri il Samsung Galaxy Z Flip5 5G ricondizionato: lo smartphone pieghevole a conchiglia di nuova generazione con il rivoluzionario Flex Window da 3,4 pollici, chip Snapdragon 8 Gen 2 e cerniera Flex Hinge senza gap per una chiusura completamente piatta. Certificato e testato, offre il massimo della portabilità senza rinunciare alle prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-5</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/GalaxyZFlip5grigio-1.jpg?v=1780493167</imageURL>
-        <categories>Samsung Galaxy Z Flip 5</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy Z Flip 5 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59707909308750</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738116637006</ID>
         <name>Apple iPhone 14 Pro Max Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display Always-On e autonomia record Scopri l'Apple iPhone 14 Pro Max ricondizionato: lo smartphone Apple più grande e autonomo della gamma 14 Pro, con Dynamic Island, display Always-On ProMotion da 6,7 pollici, fotocamera principale da 48 MP e chip A16 Bionic. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -56,17 +10,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 14 Pro Max Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757525139790</ID>
-                <sku/>
-                <price>589.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59757525008718</ID>
                 <sku/>
@@ -88,6 +31,17 @@
                 <sale>No</sale>
                 <color>Space Black</color>
                 <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757525303630</ID>
+                <sku/>
+                <price>539.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Deep Purple</color>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59757525205326</ID>
@@ -136,17 +90,6 @@
         <model>Apple iPhone 15 Pro Max Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59292147941710</ID>
-                <sku/>
-                <price>869.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>White Titanium</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287827022158</ID>
                 <sku/>
                 <price>769.00</price>
@@ -155,6 +98,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Natural Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59305135472974</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -168,17 +122,6 @@
                 <color>Black Titanium</color>
                 <memoria>512GB</memoria>
             </variant>
-            <variant>
-                <ID>59292147548494</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -191,17 +134,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 14 Pro Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757524746574</ID>
-                <sku/>
-                <price>499.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Space Black</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59757524615502</ID>
                 <sku/>
@@ -315,17 +247,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59695428665678</ID>
-                <sku/>
-                <price>869.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59595804672334</ID>
                 <sku/>
                 <price>769.00</price>
@@ -335,17 +256,6 @@
                 <sale>No</sale>
                 <color>Desert Titanium</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59695428698446</ID>
-                <sku/>
-                <price>869.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Desert Titanium</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59595804705102</ID>
@@ -382,17 +292,6 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757521928526</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Starlight</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757521764686</ID>
                 <sku/>
                 <price>419.00</price>
@@ -415,6 +314,17 @@
                 <memoria>512GB</memoria>
             </variant>
             <variant>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59286914564430</ID>
                 <sku/>
                 <price>419.00</price>
@@ -423,17 +333,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Midnight</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914466126</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -446,6 +345,17 @@
                 <sale>No</sale>
                 <color>(Product) Red</color>
                 <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59286914335054</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Green</color>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59286914367822</ID>
@@ -491,17 +401,6 @@
                 <sale>No</sale>
                 <color>Black</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59244515426638</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287798612302</ID>
@@ -604,6 +503,17 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59757527564622</ID>
+                <sku/>
+                <price>1119.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Desert Titanium</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757527630158</ID>
                 <sku/>
                 <price>969.00</price>
@@ -613,53 +523,6 @@
                 <sale>No</sale>
                 <color>Black Titanium</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738142359886</ID>
-        <name>Apple iPhone 15 Pro Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro ricondizionato&lt;/strong&gt; – Titanio, USB-C e chip A17 Pro per il massimo delle prestazioni Apple.&lt;/p&gt;
-&lt;p&gt;Scopri l'Apple iPhone 15 Pro ricondizionato: il primo iPhone realizzato in titanio di grado aerospaziale, con il rivoluzionario chip A17 Pro, il tasto Azione personalizzabile e il connettore USB-C con supporto USB 3.&lt;/p&gt;
-&lt;p&gt;Certificato e testato, offre prestazioni da console di gioco, un sistema fotografico a tripla fotocamera di livello professionale e una costruzione premium, il tutto a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Problack-1.jpg?v=1780305681</imageURL>
-        <categories>Apple iPhone 15</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 15 Pro Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59305024160078</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292152004942</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287808901454</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -682,17 +545,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59711257903438</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -749,29 +601,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15849985442126</ID>
-        <name>Apple iPhone 12 mini Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 mini ricondizionato&lt;/strong&gt; – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 polliciApple iPhone 12 mini ricondizionato – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 pollici Scopri l'Apple iPhone 12 mini ricondizionato: il più compatto e leggero iPhone della gamma 2020, con display Super Retina XDR OLED da 5,4 pollici, chip A14 Bionic, connettività 5G e supporto MagSafe. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-12-mini</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12miniwhite-1.jpg?v=1780490636</imageURL>
-        <categories>Apple iPhone 12</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 12 mini Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757743833422</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Purple</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -1020,6 +849,17 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59956206895438</ID>
+                <sku/>
+                <price>494.10</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>(Product) Red</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59997749739854</ID>
                 <sku/>
                 <price>469.00</price>
@@ -1028,29 +868,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>(Product) Red</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15815521927502</ID>
-        <name>Samsung Galaxy Z Flip 6 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip6 5G ricondizionato &lt;/strong&gt;– Il pieghevole compatto più intelligente con Galaxy AI e batteria potenziata da 4.000 mAhScopri il Samsung Galaxy Z Flip6 5G ricondizionato: lo smartphone pieghevole a conchiglia di ultima generazione con il potente chip Snapdragon 8 Gen 3, batteria potenziata da 4.000 mAh e funzionalità Galaxy AI integrate per la fotografia e la produttività intelligente. Certificato e testato, rappresenta il pieghevole compatto più avanzato di Samsung, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-6</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFlip6blu-1.jpg?v=1780316837</imageURL>
-        <categories>Samsung Galaxy Z Flip 6</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy Z Flip 6 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60522420928846</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue/black</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -1223,17 +1040,6 @@
         <model>Apple iPhone 12 Pro Max Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59288201167182</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59288201265486</ID>
                 <sku/>
                 <price>469.00</price>
@@ -1242,17 +1048,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Graphite</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59288201560398</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -1320,17 +1115,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Onyx Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759888367950</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Marble Gray</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
