@@ -111,40 +111,6 @@
                 <color>Black Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
-            <variant>
-                <ID>59305135571278</ID>
-                <sku/>
-                <price>869.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738108182862</ID>
-        <name>Apple iPhone 14 Pro Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A15 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-14-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14black-1_220c0dd5-c232-450a-adc9-fe34bd331f42.jpg?v=1780322755</imageURL>
-        <categories>Apple iPhone 14</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 14 Pro Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757524615502</ID>
-                <sku/>
-                <price>599.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Deep Purple</color>
-                <memoria>512GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -157,17 +123,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59287156130126</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Gold</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59287156228430</ID>
                 <sku/>
@@ -211,17 +166,6 @@
                 <sale>No</sale>
                 <color>Sierra Blue</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757522452814</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Sierra Blue</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -301,17 +245,6 @@
                 <sale>No</sale>
                 <color>Starlight</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757521895758</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Starlight</color>
-                <memoria>512GB</memoria>
             </variant>
             <variant>
                 <ID>59286914531662</ID>
@@ -403,28 +336,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59287798612302</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287798710606</ID>
-                <sku/>
-                <price>669.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287799103822</ID>
                 <sku/>
                 <price>469.00</price>
@@ -457,28 +368,6 @@
                 <color>Yellow</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59757526319438</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>60511678529870</ID>
-                <sku/>
-                <price>669.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
-                <memoria>512GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -501,17 +390,6 @@
                 <sale>No</sale>
                 <color>Desert Titanium</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757527564622</ID>
-                <sku/>
-                <price>1119.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Desert Titanium</color>
-                <memoria>512GB</memoria>
             </variant>
             <variant>
                 <ID>59757527630158</ID>
@@ -557,17 +435,6 @@
                 <sale>No</sale>
                 <color>Pink</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59711258132814</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59711258198350</ID>
@@ -624,17 +491,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Gold</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287199973710</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
