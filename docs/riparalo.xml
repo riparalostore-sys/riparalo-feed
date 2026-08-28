@@ -1,6 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837641015630</ID>
+        <name>Samsung Galaxy Z Flip 3 5G Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip3 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con certificazione IPX8, display esterno da 1,9 pollici e chip Snapdragon 888 Scopri il Samsung Galaxy Z Flip3 5G ricondizionato: lo smartphone pieghevole a conchiglia di Samsung del 2021 che introduce per la prima volta nella lineup la certificazione IPX8 per la resistenza all'acqua, il display esterno da 1,9 pollici e la connettività 5G a un prezzo più accessibile rispetto alla generazione precedente. Certificato e testato, offre un design iconico e prestazioni solide, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-3-5g</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFlip35Gbeige-2.jpg?v=1780497884</imageURL>
+        <categories>Samsung Galaxy Z Flip 3 5G</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy Z Flip 3 5G Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60522420896078</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Phantom Black/lavender</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837625483598</ID>
+        <name>Apple iPhone 13 Mini Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13-mini</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
+        <categories>Apple iPhone 13</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 13 Mini Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59758271529294</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Starlight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59758271398222</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738116637006</ID>
         <name>Apple iPhone 14 Pro Max Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display Always-On e autonomia record Scopri l'Apple iPhone 14 Pro Max ricondizionato: lo smartphone Apple più grande e autonomo della gamma 14 Pro, con Dynamic Island, display Always-On ProMotion da 6,7 pollici, fotocamera principale da 48 MP e chip A16 Bionic. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -42,17 +99,6 @@
                 <sale>No</sale>
                 <color>Deep Purple</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757525205326</ID>
-                <sku/>
-                <price>589.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Deep Purple</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -236,6 +282,17 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59757521928526</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Starlight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757521764686</ID>
                 <sku/>
                 <price>419.00</price>
@@ -267,6 +324,17 @@
                 <sale>No</sale>
                 <color>Midnight</color>
                 <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59956202209614</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>(Product) Red</color>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59871482675534</ID>
@@ -302,6 +370,17 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59757521797454</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757521699150</ID>
                 <sku/>
                 <price>419.00</price>
@@ -325,17 +404,6 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59244515328334</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287799103822</ID>
                 <sku/>
                 <price>469.00</price>
@@ -344,28 +412,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Green</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287799202126</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374990852430</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Yellow</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -492,6 +538,17 @@
                 <sale>No</sale>
                 <color>Gold</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287200072014</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Graphite</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287200170318</ID>
@@ -705,17 +762,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59956206895438</ID>
-                <sku/>
-                <price>494.10</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>(Product) Red</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59997749739854</ID>
                 <sku/>
                 <price>469.00</price>
@@ -893,17 +939,6 @@
                 <sale>No</sale>
                 <color>Pacific Blue</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757520617806</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pacific Blue</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59757520519502</ID>
