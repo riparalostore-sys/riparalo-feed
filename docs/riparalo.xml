@@ -1,6 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>16038941524302</ID>
+        <name>Apple Macbook Pro 13 TouchBar Apple M2 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M2 Ricondizionato&lt;/strong&gt; – Il MacBook Pro con chip M2, Touch Bar e autonomia fino a 20 ore per i professionisti in movimento Scopri l'Apple MacBook Pro 13" M2 ricondizionato: il MacBook Pro 13" con il potente chip Apple M2 di seconda generazione, Touch Bar OLED personalizzabile, sistema di raffreddamento attivo con ventola per prestazioni sostenute anche nei carichi di lavoro più intensi e autonomia fino a 20 ore. Certificato e testato, è la scelta ideale per chi cerca un laptop Apple compatto con potenza professionale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/applemacbook-pro-13-touchbar-apple-m2</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookpro13M2touchbarsilver-1.jpg?v=1788346767</imageURL>
+        <categories>Apple Macbook Pro 13 Touchbar M2</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple Macbook Pro 13 TouchBar Apple M2 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60628479476046</ID>
+                <sku/>
+                <price>1079.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Silver</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>16038942474574</ID>
+        <name>Apple Macbook Pro 13 TouchBar M1 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M1 Ricondizionato&lt;/strong&gt; – Il primo MacBook Pro con chip Apple M1 per prestazioni rivoluzionarie e autonomia record fino a 20 ore Scopri l'Apple MacBook Pro 13" M1 ricondizionato: il primo MacBook Pro dotato del rivoluzionario chip Apple M1 che segna il passaggio dall'architettura Intel a quella ARM, con prestazioni CPU fino a 2,8 volte superiori, autonomia record fino a 20 ore e Touch Bar OLED personalizzabile. Certificato e testato, rappresenta un punto di svolta nella storia dei laptop Apple, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/applemacbook-pro-13-touchbar-m1</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookpr13M1touchbarsilver-1.jpg?v=1788346607</imageURL>
+        <categories>Apple Macbook Pro 13 TouchBar M1 Ricondizionato</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple Macbook Pro 13 TouchBar M1 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60628482916686</ID>
+                <sku/>
+                <price>939.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Silver</color>
+                <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738108182862</ID>
         <name>Apple iPhone 14 Pro Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A15 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
