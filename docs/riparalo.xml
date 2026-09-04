@@ -1,6 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15738142359886</ID>
+        <name>Apple iPhone 15 Pro Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro ricondizionato&lt;/strong&gt; – Titanio, USB-C e chip A17 Pro per il massimo delle prestazioni Apple.&lt;/p&gt;
+&lt;p&gt;Scopri l'Apple iPhone 15 Pro ricondizionato: il primo iPhone realizzato in titanio di grado aerospaziale, con il rivoluzionario chip A17 Pro, il tasto Azione personalizzabile e il connettore USB-C con supporto USB 3.&lt;/p&gt;
+&lt;p&gt;Certificato e testato, offre prestazioni da console di gioco, un sistema fotografico a tripla fotocamera di livello professionale e una costruzione premium, il tutto a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Problack-1.jpg?v=1780305681</imageURL>
+        <categories>Apple iPhone 15</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 15 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59287808901454</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>16038942474574</ID>
         <name>Apple Macbook Pro 13 TouchBar M1 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M1 Ricondizionato&lt;/strong&gt; – Il primo MacBook Pro con chip Apple M1 per prestazioni rivoluzionarie e autonomia record fino a 20 ore Scopri l'Apple MacBook Pro 13" M1 ricondizionato: il primo MacBook Pro dotato del rivoluzionario chip Apple M1 che segna il passaggio dall'architettura Intel a quella ARM, con prestazioni CPU fino a 2,8 volte superiori, autonomia record fino a 20 ore e Touch Bar OLED personalizzabile. Certificato e testato, rappresenta un punto di svolta nella storia dei laptop Apple, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -100,6 +125,17 @@
                 <color>Deep Purple</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59757525205326</ID>
+                <sku/>
+                <price>589.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Deep Purple</color>
+                <memoria>256GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -178,6 +214,17 @@
                 <sale>No</sale>
                 <color>Graphite</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287156818254</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Graphite</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59757522649422</ID>
@@ -270,26 +317,15 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757521764686</ID>
+                <ID>59286914531662</ID>
                 <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Starlight</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914564430</ID>
-                <sku/>
-                <price>419.00</price>
+                <price>369.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Midnight</color>
-                <memoria>256GB</memoria>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59871482675534</ID>
@@ -337,6 +373,17 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59244515328334</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59244515426638</ID>
                 <sku/>
                 <price>569.00</price>
@@ -348,15 +395,15 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59287798612302</ID>
+                <ID>59287798513998</ID>
                 <sku/>
-                <price>569.00</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Pink</color>
-                <memoria>256GB</memoria>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59287799103822</ID>
@@ -423,28 +470,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Desert Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757527335246</ID>
-                <sku/>
-                <price>1119.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757527466318</ID>
-                <sku/>
-                <price>969.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -526,40 +551,6 @@
                 <color>Black</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59288122949966</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738064142670</ID>
-        <name>Apple iPhone 13 Pro Max Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro Max ricondizionato &lt;/strong&gt;– Il massimo della tecnologia Apple a prezzo conveniente Scopri l'Apple iPhone 13 Pro Max ricondizionato: lo smartphone Apple più potente e con la batteria più longeva della gamma 13, dotato di display ProMotion da 120Hz, sistema fotografico a tripla fotocamera professionale e chip A15 Bionic. Certificato e testato, è la scelta perfetta per chi vuole il massimo dell'esperienza Apple in modo sostenibile e conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-13-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13Promaxgold-1.jpg?v=1780323612</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 13 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757523009870</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Sierra Blue</color>
-                <memoria>512GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -605,17 +596,6 @@
                 <color>Pacific Blue</color>
                 <memoria>256GB</memoria>
             </variant>
-            <variant>
-                <ID>59757517930830</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Gold</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -648,17 +628,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Starlight</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757523370318</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
