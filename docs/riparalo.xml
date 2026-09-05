@@ -317,14 +317,14 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59286914531662</ID>
+                <ID>59286914433358</ID>
                 <sku/>
                 <price>369.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Midnight</color>
+                <color>Pink</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -384,17 +384,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59244515426638</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287798513998</ID>
                 <sku/>
                 <price>469.00</price>
@@ -425,28 +414,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Green</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374990885198</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Yellow</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757526319438</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -573,17 +540,6 @@
                 <sale>No</sale>
                 <color>Graphite</color>
                 <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757518192974</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59757517963598</ID>
