@@ -317,17 +317,6 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59286914433358</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59871482675534</ID>
                 <sku/>
                 <price>419.00</price>
@@ -373,17 +362,6 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59244515328334</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287798513998</ID>
                 <sku/>
                 <price>469.00</price>
@@ -404,17 +382,6 @@
                 <sale>No</sale>
                 <color>Green</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287799202126</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
