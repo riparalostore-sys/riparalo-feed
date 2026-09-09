@@ -1,26 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15738142359886</ID>
-        <name>Apple iPhone 15 Pro Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro ricondizionato&lt;/strong&gt; – Titanio, USB-C e chip A17 Pro per il massimo delle prestazioni Apple.&lt;/p&gt;
-&lt;p&gt;Scopri l'Apple iPhone 15 Pro ricondizionato: il primo iPhone realizzato in titanio di grado aerospaziale, con il rivoluzionario chip A17 Pro, il tasto Azione personalizzabile e il connettore USB-C con supporto USB 3.&lt;/p&gt;
-&lt;p&gt;Certificato e testato, offre prestazioni da console di gioco, un sistema fotografico a tripla fotocamera di livello professionale e una costruzione premium, il tutto a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Problack-1.jpg?v=1780305681</imageURL>
-        <categories>Apple iPhone 15</categories>
+        <ID>16054732751182</ID>
+        <name>Apple iPhone 17e Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 17e ricondizionato&lt;/strong&gt; – Chip A19, fotocamera Fusion da 48 MP, tasto Azione e MagSafe per l'iPhone più accessibile del 2026 Scopri l'Apple iPhone 17e ricondizionato: il nuovo iPhone entry-level del 2026 che porta il potente chip A19, la fotocamera Fusion da 48 MP con teleobiettivo 2x di qualità ottica, il tasto Azione personalizzabile, la ricarica wireless MagSafe e modem Apple C1X di nuova generazione. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple Intelligence a un prezzo conveniente e in ottica sostenibile. &lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-17e</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17enero-2.jpg?v=1788940285</imageURL>
+        <categories>Apple iPhone 17e Ricondizionato</categories>
         <brand>Riparalo Store</brand>
-        <model>Apple iPhone 15 Pro Ricondizionato</model>
+        <model>Apple iPhone 17e Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59287808901454</ID>
+                <ID>60719878472014</ID>
                 <sku/>
-                <price>619.00</price>
+                <price>884.50</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Natural Titanium</color>
+                <color>Pink</color>
+                <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>16054768238926</ID>
+        <name>Apple Macbook Pro 13 TouchBar Apple M2 (8-core CPU) Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M2 ricondizionato&lt;/strong&gt; – Chip M2 con CPU 8-core, Touch Bar e autonomia fino a 20 ore per i professionisti in movimento Scopri l'Apple MacBook Pro 13" M2 ricondizionato: il MacBook Pro compatto con il chip Apple M2 con CPU 8-core e GPU 10-core, Touch Bar OLED personalizzabile, sistema di raffreddamento attivo con ventola per prestazioni sostenute anche nei carichi di lavoro più intensi e autonomia fino a 20 ore. Certificato e testato, è la scelta ideale per chi cerca un laptop Apple compatto con potenza professionale a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/applemacbook-pro-13-touchbar-apple-m2-8-core-cpu</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookpro13touchbarsilver-1.jpg?v=1788939579</imageURL>
+        <categories>MacBook</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple Macbook Pro 13 TouchBar Apple M2 (8-core CPU) Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60720153526606</ID>
+                <sku/>
+                <price>1119.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Silver</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837641015630</ID>
+        <name>Samsung Galaxy Z Flip 3 5G Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip3 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con certificazione IPX8, display esterno da 1,9 pollici e chip Snapdragon 888 Scopri il Samsung Galaxy Z Flip3 5G ricondizionato: lo smartphone pieghevole a conchiglia di Samsung del 2021 che introduce per la prima volta nella lineup la certificazione IPX8 per la resistenza all'acqua, il display esterno da 1,9 pollici e la connettività 5G a un prezzo più accessibile rispetto alla generazione precedente. Certificato e testato, offre un design iconico e prestazioni solide, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-3-5g</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFlip35Gbeige-2.jpg?v=1780497884</imageURL>
+        <categories>Samsung Galaxy Z Flip 3 5G</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy Z Flip 3 5G Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60522420896078</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Phantom Black/lavender</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837625483598</ID>
+        <name>Apple iPhone 13 Mini Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13-mini</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
+        <categories>Apple iPhone 13</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 13 Mini Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59758271332686</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59758271398222</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -125,17 +203,6 @@
                 <color>Deep Purple</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59757525205326</ID>
-                <sku/>
-                <price>589.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Deep Purple</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -213,28 +280,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Graphite</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287156818254</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757522649422</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Alpine Green</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -317,14 +362,25 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59871482675534</ID>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59286914564430</ID>
                 <sku/>
                 <price>419.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>(Product) Red</color>
+                <color>Midnight</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -337,51 +393,6 @@
                 <sale>No</sale>
                 <color>Green</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757521699150</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15722871161166</ID>
-        <name>Apple iPhone 15 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 ricondizionato&lt;/strong&gt; – Dynamic Island e USB-C per un'esperienza Apple moderna e conveniente Scopri l'Apple iPhone 15 ricondizionato: il primo iPhone della serie standard ad adottare il Dynamic Island e il connettore USB-C, insieme al potente chip A16 Bionic e a una fotocamera principale da 48 MP. Certificato e testato, rappresenta il punto di svolta nella gamma Apple standard, disponibile a un prezzo accessibile e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-15</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15black-1.jpg?v=1780308414</imageURL>
-        <categories>Apple iPhone 15</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 15 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59287798513998</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287799103822</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
