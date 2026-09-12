@@ -777,6 +777,17 @@
         <model>Apple iPhone 12 Pro Max Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59288201265486</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Graphite</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757520716110</ID>
                 <sku/>
                 <price>419.00</price>
