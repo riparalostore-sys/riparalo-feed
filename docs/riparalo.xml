@@ -1,24 +1,136 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>16054732751182</ID>
-        <name>Apple iPhone 17e Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 17e ricondizionato&lt;/strong&gt; – Chip A19, fotocamera Fusion da 48 MP, tasto Azione e MagSafe per l'iPhone più accessibile del 2026 Scopri l'Apple iPhone 17e ricondizionato: il nuovo iPhone entry-level del 2026 che porta il potente chip A19, la fotocamera Fusion da 48 MP con teleobiettivo 2x di qualità ottica, il tasto Azione personalizzabile, la ricarica wireless MagSafe e modem Apple C1X di nuova generazione. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple Intelligence a un prezzo conveniente e in ottica sostenibile. &lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-17e</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17enero-2.jpg?v=1788940285</imageURL>
-        <categories>Apple iPhone 17</categories>
+        <ID>15892781891918</ID>
+        <name>Samsung Galaxy Z Fold 7 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Fold7 5G ricondizionato &lt;/strong&gt;– Il pieghevole più sottile e leggero di sempre con fotocamera da 200 MP, chip Snapdragon 8 Elite e display interno da 8 polliciScopri il Samsung Galaxy Z Fold7 5G ricondizionato: lo smartphone pieghevole top di gamma Samsung del 2025, il più sottile e leggero della serie Galaxy Z Fold con soli 4,2 mm da aperto e 215 grammi di peso, fotocamera principale da 200 MP per la prima volta sulla serie Fold, chip Snapdragon 8 Elite e Galaxy AI di nuova generazione con Google Gemini Live integrato. Certificato e testato, rappresenta il massimo della tecnologia pieghevole Samsung disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-fold-7</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/zfold7black-1.jpg?v=1787577274</imageURL>
+        <categories>Samsung Galaxy Z Fold 7</categories>
         <brand>Riparalo Store</brand>
-        <model>Apple iPhone 17e Ricondizionato</model>
+        <model>Samsung Galaxy Z Fold 7 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>60719878472014</ID>
+                <ID>60794566541646</ID>
                 <sku/>
-                <price>819.00</price>
+                <price>1119.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Pink</color>
+                <color>Blue Shadow</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15850596925774</ID>
+        <name>Samsung Galaxy S24 Ultra Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Ultra ricondizionato&lt;/strong&gt; – Titanio, S Pen integrata e Galaxy AI per il flagship Android definitivo Scopri il Samsung Galaxy S24 Ultra ricondizionato: il top di gamma Samsung del 2024 con scocca in titanio di grado aerospaziale, S Pen integrata, chip Snapdragon 8 Gen 3 ottimizzato per Samsung e fotocamera principale da 200 MP. Certificato e testato, introduce Galaxy AI come sistema di intelligenza artificiale nativo per la produttività e la fotografia avanzata, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-ultra</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24ultranero-1.jpg?v=1780327376</imageURL>
+        <categories>Samsung Galaxy S24</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757538279758</ID>
+                <sku/>
+                <price>669.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Black</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757538410830</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Violet</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757538345294</ID>
+                <sku/>
+                <price>669.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Violet</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>60794563756366</ID>
+                <sku/>
+                <price>817.58</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Yellow</color>
+                <memoria>1TB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15756759859534</ID>
+        <name>Samsung Galaxy S24 Plus Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Plus ricondizionato&lt;/strong&gt; – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship Samsung dal grande display da 6,7 polliciSamsung Galaxy S24+ ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship Samsung dal grande display da 6,7 pollici Scopri il Samsung Galaxy S24+ ricondizionato: lo smartphone Android di fascia alta del 2024 con display Dynamic AMOLED 2X da 6,7 pollici, chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata e ricarica rapida cablata da 45W. Certificato e testato, offre prestazioni flagship in un formato generoso e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-plus</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24plusblack-1.jpg?v=1780306201</imageURL>
+        <categories>Samsung Galaxy S24</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy S24 Plus Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59695544336718</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Onyx Black</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59695543058766</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Marble Gray</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757535396174</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Amber Yellow</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59695544172878</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Amber Yellow</color>
                 <memoria>512GB</memoria>
             </variant>
         </variants>
@@ -104,29 +216,6 @@
         </variants>
     </product>
     <product>
-        <ID>16038942474574</ID>
-        <name>Apple Macbook Pro 13 TouchBar M1 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M1 Ricondizionato&lt;/strong&gt; – Il primo MacBook Pro con chip Apple M1 per prestazioni rivoluzionarie e autonomia record fino a 20 ore Scopri l'Apple MacBook Pro 13" M1 ricondizionato: il primo MacBook Pro dotato del rivoluzionario chip Apple M1 che segna il passaggio dall'architettura Intel a quella ARM, con prestazioni CPU fino a 2,8 volte superiori, autonomia record fino a 20 ore e Touch Bar OLED personalizzabile. Certificato e testato, rappresenta un punto di svolta nella storia dei laptop Apple, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/applemacbook-pro-13-touchbar-m1</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookpr13M1touchbarsilver-1.jpg?v=1788346607</imageURL>
-        <categories>MacBook</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple Macbook Pro 13 TouchBar M1 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60628482916686</ID>
-                <sku/>
-                <price>939.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver</color>
-                <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738108182862</ID>
         <name>Apple iPhone 14 Pro Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A15 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
@@ -146,28 +235,6 @@
                 <sale>No</sale>
                 <color>Space Black</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757524681038</ID>
-                <sku/>
-                <price>499.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Deep Purple</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287639130446</ID>
-                <sku/>
-                <price>599.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver</color>
-                <memoria>512GB</memoria>
             </variant>
             <variant>
                 <ID>59287639228750</ID>
@@ -227,17 +294,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59305135472974</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59292147548494</ID>
                 <sku/>
                 <price>769.00</price>
@@ -260,17 +316,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59287156425038</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59287156719950</ID>
                 <sku/>
@@ -362,17 +407,6 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59286914531662</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59286914564430</ID>
                 <sku/>
                 <price>419.00</price>
@@ -381,17 +415,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Midnight</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914367822</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -441,17 +464,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59711258100046</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59711258198350</ID>
                 <sku/>
                 <price>519.00</price>
@@ -461,17 +473,6 @@
                 <sale>No</sale>
                 <color>Yellow</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59711258231118</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Yellow</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -519,17 +520,6 @@
                 <color>Graphite</color>
                 <memoria>512GB</memoria>
             </variant>
-            <variant>
-                <ID>59757517963598</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pacific Blue</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -552,17 +542,6 @@
                 <sale>No</sale>
                 <color>Starlight</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757523337550</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Starlight</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287581917518</ID>
@@ -607,17 +586,6 @@
                 <sale>No</sale>
                 <color>Midnight</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287581131086</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59997749739854</ID>
@@ -676,17 +644,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59757524255054</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757524353358</ID>
                 <sku/>
                 <price>469.00</price>
@@ -718,6 +675,118 @@
                 <sale>No</sale>
                 <color>(Product) Red</color>
                 <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837641539918</ID>
+        <name>Samsung Galaxy Z Flip 7 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip7 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con display esterno edge-to-edge da 4,1 pollici e batteria da 4.300 mAh Scopri il Samsung Galaxy Z Flip7 5G ricondizionato: lo smartphone pieghevole a conchiglia di ultima generazione con il rivoluzionario display esterno edge-to-edge da 4,1 pollici senza cornice, chip Exynos 2500, batteria da 4.300 mAh la più capiente mai integrata in un Galaxy Z Flip e Galaxy AI di nuova generazione. Certificato e testato, rappresenta il pieghevole compatto più evoluto di Samsung, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-7</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/GalaxyZFlip7nero-1.jpg?v=1780493572</imageURL>
+        <categories>Samsung Galaxy Z Flip 7</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy Z Flip 7 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60794565951822</ID>
+                <sku/>
+                <price>719.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue Shadow</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>60794565984590</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Jet Black</color>
+                <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738720846158</ID>
+        <name>Samsung Galaxy S25 Ultra Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Ultra ricondizionato &lt;/strong&gt;– Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-ultra</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S25ultragrigio-1.jpg?v=1780492147</imageURL>
+        <categories>Samsung Galaxy S25</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757543653710</ID>
+                <sku/>
+                <price>819.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Gray</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757543784782</ID>
+                <sku/>
+                <price>819.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Black</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>60233514975566</ID>
+                <sku/>
+                <price>819.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Silverblue</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>60233515008334</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Silverblue</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>60794564542798</ID>
+                <sku/>
+                <price>1008.45</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Gray</color>
+                <memoria>1TB</memoria>
+            </variant>
+            <variant>
+                <ID>60794564575566</ID>
+                <sku/>
+                <price>1008.45</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Black</color>
+                <memoria>1TB</memoria>
             </variant>
         </variants>
     </product>
@@ -832,17 +901,6 @@
         <brand>Riparalo Store</brand>
         <model>Samsung Galaxy S24 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59759888695630</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Onyx Black</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59759888793934</ID>
                 <sku/>
