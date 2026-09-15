@@ -1,6 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15874168488270</ID>
+        <name>Apple iPhone 17 Pro Max Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro Max ricondizionato &lt;/strong&gt;– Il top di gamma Apple con display da 6,9 pollici, chip A19 Pro, zoom ottico 8x e batteria record da 5.088 mAh Scopri l'Apple iPhone 17 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2025, con il rivoluzionario design unibody in alluminio forgiato, display Super Retina XDR ProMotion da 6,9 pollici, chip A19 Pro con camera di vapore integrata, sistema a tripla fotocamera Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, e la batteria più capiente mai montata su un iPhone. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17promaxargento-1.jpg?v=1789459607</imageURL>
+        <categories>Apple iPhone 17</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 17 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59956215972174</ID>
+                <sku/>
+                <price>1269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Cosmic Orange</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738142359886</ID>
+        <name>Apple iPhone 15 Pro Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro ricondizionato&lt;/strong&gt; – Titanio, USB-C e chip A17 Pro per il massimo delle prestazioni Apple.&lt;/p&gt;
+&lt;p&gt;Scopri l'Apple iPhone 15 Pro ricondizionato: il primo iPhone realizzato in titanio di grado aerospaziale, con il rivoluzionario chip A17 Pro, il tasto Azione personalizzabile e il connettore USB-C con supporto USB 3.&lt;/p&gt;
+&lt;p&gt;Certificato e testato, offre prestazioni da console di gioco, un sistema fotografico a tripla fotocamera di livello professionale e una costruzione premium, il tutto a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Problack-1.jpg?v=1780305681</imageURL>
+        <categories>Apple iPhone 15</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 15 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59292152004942</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287808901454</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15722871161166</ID>
+        <name>Apple iPhone 15 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 ricondizionato&lt;/strong&gt; – Dynamic Island e USB-C per un'esperienza Apple moderna e conveniente Scopri l'Apple iPhone 15 ricondizionato: il primo iPhone della serie standard ad adottare il Dynamic Island e il connettore USB-C, insieme al potente chip A16 Bionic e a una fotocamera principale da 48 MP. Certificato e testato, rappresenta il punto di svolta nella gamma Apple standard, disponibile a un prezzo accessibile e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-15</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15black-1.jpg?v=1780308414</imageURL>
+        <categories>Apple iPhone 15</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 15 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59244515328334</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>16054733930830</ID>
         <name>Samsung Galaxy Z Fold8 Ultra Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Fold8 Ultra 5G ricondizionato&lt;/strong&gt; – Il pieghevole più avanzato di Samsung con display interno da 8 pollici, fotocamera da 200 MP e chip Snapdragon 8 Elite Gen 5 Scopri il Samsung Galaxy Z Fold8 Ultra 5G ricondizionato: il top di gamma assoluto della lineup pieghevole Samsung del 2026, con display interno Dynamic AMOLED 2X da 8 pollici, fotocamera principale da 200 MP, chip Snapdragon 8 Elite Gen 5 e batteria da 5.000 mAh con ricarica a doppio circuito da 45W. Certificato e testato, rappresenta il massimo della tecnologia pieghevole Samsung disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -148,29 +230,6 @@
         </variants>
     </product>
     <product>
-        <ID>16054768238926</ID>
-        <name>Apple Macbook Pro 13 TouchBar Apple M2 (8-core CPU) Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M2 ricondizionato&lt;/strong&gt; – Chip M2 con CPU 8-core, Touch Bar e autonomia fino a 20 ore per i professionisti in movimento Scopri l'Apple MacBook Pro 13" M2 ricondizionato: il MacBook Pro compatto con il chip Apple M2 con CPU 8-core e GPU 10-core, Touch Bar OLED personalizzabile, sistema di raffreddamento attivo con ventola per prestazioni sostenute anche nei carichi di lavoro più intensi e autonomia fino a 20 ore. Certificato e testato, è la scelta ideale per chi cerca un laptop Apple compatto con potenza professionale a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/applemacbook-pro-13-touchbar-apple-m2-8-core-cpu</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookpro13touchbarsilver-1.jpg?v=1788939579</imageURL>
-        <categories>MacBook</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple Macbook Pro 13 TouchBar Apple M2 (8-core CPU) Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60720153526606</ID>
-                <sku/>
-                <price>1119.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15837641015630</ID>
         <name>Samsung Galaxy Z Flip 3 5G Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip3 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con certificazione IPX8, display esterno da 1,9 pollici e chip Snapdragon 888 Scopri il Samsung Galaxy Z Flip3 5G ricondizionato: lo smartphone pieghevole a conchiglia di Samsung del 2021 che introduce per la prima volta nella lineup la certificazione IPX8 per la resistenza all'acqua, il display esterno da 1,9 pollici e la connettività 5G a un prezzo più accessibile rispetto alla generazione precedente. Certificato e testato, offre un design iconico e prestazioni solide, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -248,17 +307,6 @@
                 <color>Space Black</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59287639228750</ID>
-                <sku/>
-                <price>499.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Gold</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -271,6 +319,17 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 14 Pro Max Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59757525270862</ID>
+                <sku/>
+                <price>539.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Space Black</color>
+                <memoria>128GB</memoria>
+            </variant>
             <variant>
                 <ID>59757525303630</ID>
                 <sku/>
@@ -340,6 +399,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59757522649422</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Alpine Green</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757522714958</ID>
                 <sku/>
                 <price>419.00</price>
@@ -363,14 +433,14 @@
         <model>Apple iPhone 16 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59595804639566</ID>
+                <ID>59595804672334</ID>
                 <sku/>
                 <price>769.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Black Titanium</color>
+                <color>Desert Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -431,14 +501,14 @@
         <model>Apple iPhone 16 Pro Max Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757527433550</ID>
+                <ID>59757527630158</ID>
                 <sku/>
                 <price>969.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Desert Titanium</color>
+                <color>Black Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -462,17 +532,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59711258198350</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Yellow</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -824,17 +883,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 12 Pro Max Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59288201265486</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59757520716110</ID>
                 <sku/>
