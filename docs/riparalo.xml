@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15874168488270</ID>
-        <name>Apple iPhone 17 Pro Max Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro Max ricondizionato &lt;/strong&gt;– Il top di gamma Apple con display da 6,9 pollici, chip A19 Pro, zoom ottico 8x e batteria record da 5.088 mAh Scopri l'Apple iPhone 17 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2025, con il rivoluzionario design unibody in alluminio forgiato, display Super Retina XDR ProMotion da 6,9 pollici, chip A19 Pro con camera di vapore integrata, sistema a tripla fotocamera Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, e la batteria più capiente mai montata su un iPhone. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17promaxargento-1.jpg?v=1789459607</imageURL>
-        <categories>Apple iPhone 17</categories>
+        <ID>16038941524302</ID>
+        <name>Apple Macbook Pro 13 TouchBar Apple M2 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M2 Ricondizionato&lt;/strong&gt; – Il MacBook Pro con chip M2, Touch Bar e autonomia fino a 20 ore per i professionisti in movimento Scopri l'Apple MacBook Pro 13" M2 ricondizionato: il MacBook Pro 13" con il potente chip Apple M2 di seconda generazione, Touch Bar OLED personalizzabile, sistema di raffreddamento attivo con ventola per prestazioni sostenute anche nei carichi di lavoro più intensi e autonomia fino a 20 ore. Certificato e testato, è la scelta ideale per chi cerca un laptop Apple compatto con potenza professionale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/applemacbook-pro-13-touchbar-apple-m2</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookpro13M2touchbarsilver-1.jpg?v=1788346767</imageURL>
+        <categories>MacBook</categories>
         <brand>Riparalo Store</brand>
-        <model>Apple iPhone 17 Pro Max Ricondizionato</model>
+        <model>Apple Macbook Pro 13 TouchBar Apple M2 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59956215972174</ID>
+                <ID>60628479476046</ID>
                 <sku/>
-                <price>1269.00</price>
+                <price>1139.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Cosmic Orange</color>
+                <color>Silver</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -35,6 +35,17 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 15 Pro Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59305024160078</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
             <variant>
                 <ID>59292152004942</ID>
                 <sku/>
@@ -56,6 +67,17 @@
                 <sale>No</sale>
                 <color>Natural Titanium</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59292151906638</ID>
+                <sku/>
+                <price>719.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -79,6 +101,72 @@
                 <sale>No</sale>
                 <color>Black</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59244515426638</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287798513998</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pink</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287798612302</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pink</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287799202126</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Green</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59374990885198</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Yellow</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757526319438</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -320,17 +408,6 @@
         <model>Apple iPhone 14 Pro Max Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757525270862</ID>
-                <sku/>
-                <price>539.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Space Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757525303630</ID>
                 <sku/>
                 <price>539.00</price>
@@ -365,6 +442,17 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59305135472974</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59292147548494</ID>
                 <sku/>
                 <price>769.00</price>
@@ -374,6 +462,17 @@
                 <sale>No</sale>
                 <color>Blue Titanium</color>
                 <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59292147646798</ID>
+                <sku/>
+                <price>869.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue Titanium</color>
+                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
@@ -407,17 +506,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Alpine Green</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757522714958</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Sierra Blue</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -478,6 +566,17 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59286914564430</ID>
                 <sku/>
                 <price>419.00</price>
@@ -500,6 +599,17 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 16 Pro Max Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59757527564622</ID>
+                <sku/>
+                <price>1119.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Desert Titanium</color>
+                <memoria>512GB</memoria>
+            </variant>
             <variant>
                 <ID>59757527630158</ID>
                 <sku/>
@@ -646,6 +756,17 @@
                 <sale>No</sale>
                 <color>Midnight</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287581131086</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59997749739854</ID>
