@@ -57,28 +57,6 @@
                 <color>Blue Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59287808901454</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292151906638</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -92,17 +70,6 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59244515328334</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59244515426638</ID>
                 <sku/>
                 <price>569.00</price>
@@ -112,17 +79,6 @@
                 <sale>No</sale>
                 <color>Black</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287798513998</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59287798612302</ID>
@@ -238,17 +194,6 @@
                 <memoria>512GB</memoria>
             </variant>
             <variant>
-                <ID>59757538345294</ID>
-                <sku/>
-                <price>669.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Violet</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
                 <ID>60794563756366</ID>
                 <sku/>
                 <price>817.58</price>
@@ -361,17 +306,6 @@
                 <color>Midnight</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59758271398222</ID>
-                <sku/>
-                <price>319.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -462,17 +396,6 @@
                 <sale>No</sale>
                 <color>Blue Titanium</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292147646798</ID>
-                <sku/>
-                <price>869.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
@@ -600,17 +523,6 @@
         <model>Apple iPhone 16 Pro Max Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757527564622</ID>
-                <sku/>
-                <price>1119.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Desert Titanium</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757527630158</ID>
                 <sku/>
                 <price>969.00</price>
@@ -637,29 +549,6 @@
                 <ID>59695415624014</ID>
                 <sku/>
                 <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738162053454</ID>
-        <name>Apple iPhone 12 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-12</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12black-1.jpg?v=1780321500</imageURL>
-        <categories>Apple iPhone 12</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 12 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59288160731470</ID>
-                <sku/>
-                <price>269.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
