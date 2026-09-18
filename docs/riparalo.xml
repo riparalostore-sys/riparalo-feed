@@ -57,6 +57,28 @@
                 <color>Blue Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59287808901454</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59292152136014</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>White Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -70,6 +92,17 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59244515328334</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59244515426638</ID>
                 <sku/>
                 <price>569.00</price>
@@ -81,6 +114,17 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59287798513998</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pink</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287798612302</ID>
                 <sku/>
                 <price>569.00</price>
@@ -90,6 +134,17 @@
                 <sale>No</sale>
                 <color>Pink</color>
                 <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287799103822</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Green</color>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59287799202126</ID>
@@ -145,29 +200,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Graphite</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15892781891918</ID>
-        <name>Samsung Galaxy Z Fold 7 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Fold7 5G ricondizionato &lt;/strong&gt;– Il pieghevole più sottile e leggero di sempre con fotocamera da 200 MP, chip Snapdragon 8 Elite e display interno da 8 polliciScopri il Samsung Galaxy Z Fold7 5G ricondizionato: lo smartphone pieghevole top di gamma Samsung del 2025, il più sottile e leggero della serie Galaxy Z Fold con soli 4,2 mm da aperto e 215 grammi di peso, fotocamera principale da 200 MP per la prima volta sulla serie Fold, chip Snapdragon 8 Elite e Galaxy AI di nuova generazione con Google Gemini Live integrato. Certificato e testato, rappresenta il massimo della tecnologia pieghevole Samsung disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-fold-7</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/zfold7black-1.jpg?v=1787577274</imageURL>
-        <categories>Samsung Galaxy Z Fold 7</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy Z Fold 7 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60794566541646</ID>
-                <sku/>
-                <price>1119.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Shadow</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -329,6 +361,17 @@
                 <color>Space Black</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59757524582734</ID>
+                <sku/>
+                <price>549.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Deep Purple</color>
+                <memoria>256GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -421,6 +464,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59287156818254</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Graphite</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757522649422</ID>
                 <sku/>
                 <price>419.00</price>
@@ -510,6 +564,17 @@
                 <color>Midnight</color>
                 <memoria>256GB</memoria>
             </variant>
+            <variant>
+                <ID>59757521699150</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
+                <memoria>256GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -523,6 +588,17 @@
         <model>Apple iPhone 16 Pro Max Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59358481350990</ID>
+                <sku/>
+                <price>1371.28</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Desert Titanium</color>
+                <memoria>1TB</memoria>
+            </variant>
+            <variant>
                 <ID>59757527630158</ID>
                 <sku/>
                 <price>969.00</price>
@@ -532,29 +608,6 @@
                 <sale>No</sale>
                 <color>Black Titanium</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837626696014</ID>
-        <name>Apple iPhone 15 Plus Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Plus ricondizionato&lt;/strong&gt; – Dynamic Island, USB-C e display da 6,7 pollici con autonomia record nella gamma iPhone 15 standard Scopri l'Apple iPhone 15 Plus ricondizionato: il modello dal grande formato della gamma iPhone 15, il primo della serie standard ad adottare Dynamic Island e connettore USB-C, con display Super Retina XDR OLED da 6,7 pollici, chip A16 Bionic e fotocamera principale da 48 MP. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-15-plus</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15plusblack-1.jpg?v=1780473717</imageURL>
-        <categories>Apple iPhone 15</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 15 Plus Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59695415624014</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -792,17 +845,6 @@
         <brand>Riparalo Store</brand>
         <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757543653710</ID>
-                <sku/>
-                <price>819.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Gray</color>
-                <memoria>512GB</memoria>
-            </variant>
             <variant>
                 <ID>60233514975566</ID>
                 <sku/>
