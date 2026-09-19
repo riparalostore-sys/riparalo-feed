@@ -68,17 +68,6 @@
                 <color>Natural Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59292152136014</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>White Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -134,17 +123,6 @@
                 <sale>No</sale>
                 <color>Pink</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287799103822</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
-                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59287799202126</ID>
@@ -269,17 +247,6 @@
                 <sale>No</sale>
                 <color>Marble Gray</color>
                 <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757535396174</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Amber Yellow</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59695544172878</ID>
@@ -464,17 +431,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59287156818254</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757522649422</ID>
                 <sku/>
                 <price>419.00</price>
@@ -506,28 +462,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Desert Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59595804705102</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59595804737870</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>White Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -587,17 +521,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 16 Pro Max Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59358481350990</ID>
-                <sku/>
-                <price>1419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Desert Titanium</color>
-                <memoria>1TB</memoria>
-            </variant>
             <variant>
                 <ID>59757527630158</ID>
                 <sku/>
@@ -698,17 +621,6 @@
                 <sale>No</sale>
                 <color>Midnight</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287581131086</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59997749739854</ID>
