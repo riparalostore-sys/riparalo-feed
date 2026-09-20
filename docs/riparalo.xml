@@ -57,17 +57,6 @@
                 <color>Blue Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59287808901454</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -101,17 +90,6 @@
                 <sale>No</sale>
                 <color>Black</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287798513998</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59287798612302</ID>
@@ -193,17 +171,6 @@
         <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757538279758</ID>
-                <sku/>
-                <price>669.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Black</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
                 <ID>60794563756366</ID>
                 <sku/>
                 <price>769.00</price>
@@ -226,17 +193,6 @@
         <brand>Riparalo Store</brand>
         <model>Samsung Galaxy S24 Plus Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59695544336718</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Onyx Black</color>
-                <memoria>512GB</memoria>
-            </variant>
             <variant>
                 <ID>59695543058766</ID>
                 <sku/>
@@ -444,29 +400,6 @@
         </variants>
     </product>
     <product>
-        <ID>15815521730894</ID>
-        <name>Apple iPhone 16 Pro Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro ricondizionato &lt;/strong&gt;– Chip A18 Pro, display da 6,3 pollici e fotocamera da 48 MP con zoom ottico 5xScopri l'Apple iPhone 16 Pro ricondizionato: lo smartphone Apple Pro con il nuovo display Super Retina XDR da 6,3 pollici il più grande mai realizzato sulla serie Pro standard, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, offre prestazioni professionali e funzionalità Apple Intelligence di nuova generazione, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-16-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16Problack-1.jpg?v=1780474838</imageURL>
-        <categories>Apple iPhone 16 Pro</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 16 Pro Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59595804672334</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Desert Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15729133453646</ID>
         <name>Apple iPhone 13 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 ricondizionato &lt;/strong&gt;– Prestazioni top a prezzo accessibile Scopri l'Apple iPhone 13 ricondizionato: un dispositivo certificato e testato, perfetto per chi vuole uno smartphone Apple di fascia alta a un prezzo conveniente. Con il potente chip A15 Bionic, un display Super Retina XDR da 6,1 pollici e un sistema fotografico avanzato, l'iPhone 13 ricondizionato garantisce un'esperienza d'uso fluida, affidabile e sostenibile. &lt;/p&gt;</description>
@@ -507,29 +440,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Blue</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15755932991822</ID>
-        <name>Apple iPhone 16 Pro Max Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display da 6,9 pollici, chip A18 Pro e zoom ottico 5xScopri l'Apple iPhone 16 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2024, con il display Super Retina XDR da 6,9 pollici il più grande mai realizzato su un iPhone, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-16-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16Promaxdeserttitanium-1.jpg?v=1780483048</imageURL>
-        <categories>Apple iPhone 16</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 16 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757527630158</ID>
-                <sku/>
-                <price>969.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -757,17 +667,6 @@
         <brand>Riparalo Store</brand>
         <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>60233514975566</ID>
-                <sku/>
-                <price>819.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Silverblue</color>
-                <memoria>512GB</memoria>
-            </variant>
             <variant>
                 <ID>60794564542798</ID>
                 <sku/>
