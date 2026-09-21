@@ -70,17 +70,6 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59244515328334</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59244515426638</ID>
                 <sku/>
                 <price>569.00</price>
