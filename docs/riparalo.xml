@@ -1,25 +1,70 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>16038941524302</ID>
-        <name>Apple Macbook Pro 13 TouchBar Apple M2 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple MacBook Pro 13" M2 Ricondizionato&lt;/strong&gt; – Il MacBook Pro con chip M2, Touch Bar e autonomia fino a 20 ore per i professionisti in movimento Scopri l'Apple MacBook Pro 13" M2 ricondizionato: il MacBook Pro 13" con il potente chip Apple M2 di seconda generazione, Touch Bar OLED personalizzabile, sistema di raffreddamento attivo con ventola per prestazioni sostenute anche nei carichi di lavoro più intensi e autonomia fino a 20 ore. Certificato e testato, è la scelta ideale per chi cerca un laptop Apple compatto con potenza professionale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/applemacbook-pro-13-touchbar-apple-m2</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookpro13M2touchbarsilver-1.jpg?v=1788346767</imageURL>
-        <categories>MacBook</categories>
+        <ID>15755932991822</ID>
+        <name>Apple iPhone 16 Pro Max Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display da 6,9 pollici, chip A18 Pro e zoom ottico 5xScopri l'Apple iPhone 16 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2024, con il display Super Retina XDR da 6,9 pollici il più grande mai realizzato su un iPhone, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-16-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16Promaxdeserttitanium-1.jpg?v=1780483048</imageURL>
+        <categories>Apple iPhone 16</categories>
         <brand>Riparalo Store</brand>
-        <model>Apple Macbook Pro 13 TouchBar Apple M2 Ricondizionato</model>
+        <model>Apple iPhone 16 Pro Max Ricondizionato</model>
         <variants>
             <variant>
-                <ID>60628479476046</ID>
+                <ID>59757527630158</ID>
                 <sku/>
-                <price>1139.00</price>
+                <price>919.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757527466318</ID>
+                <sku/>
+                <price>919.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738064142670</ID>
+        <name>Apple iPhone 13 Pro Max Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro Max ricondizionato &lt;/strong&gt;– Il massimo della tecnologia Apple a prezzo conveniente Scopri l'Apple iPhone 13 Pro Max ricondizionato: lo smartphone Apple più potente e con la batteria più longeva della gamma 13, dotato di display ProMotion da 120Hz, sistema fotografico a tripla fotocamera professionale e chip A15 Bionic. Certificato e testato, è la scelta perfetta per chi vuole il massimo dell'esperienza Apple in modo sostenibile e conveniente.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13Promaxgold-1.jpg?v=1780323612</imageURL>
+        <categories>Apple iPhone 13</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 13 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59287199678798</ID>
+                <sku/>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Silver</color>
-                <memoria>256GB</memoria>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757523140942</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Sierra Blue</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -47,6 +92,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59305024192846</ID>
+                <sku/>
+                <price>719.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59292152004942</ID>
                 <sku/>
                 <price>619.00</price>
@@ -55,6 +111,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Blue Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287808901454</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Natural Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -69,17 +136,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59244515426638</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59287798612302</ID>
                 <sku/>
@@ -240,6 +296,28 @@
         <model>Apple iPhone 13 Mini Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59758271234382</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Green</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59758271267150</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pink</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59758271332686</ID>
                 <sku/>
                 <price>319.00</price>
@@ -274,6 +352,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59757524648270</ID>
+                <sku/>
+                <price>549.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Space Black</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757524582734</ID>
                 <sku/>
                 <price>549.00</price>
@@ -296,6 +385,50 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 14 Pro Max Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59287740023118</ID>
+                <sku/>
+                <price>539.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Silver</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287740318030</ID>
+                <sku/>
+                <price>539.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Gold</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757525270862</ID>
+                <sku/>
+                <price>539.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Space Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757525008718</ID>
+                <sku/>
+                <price>589.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Space Black</color>
+                <memoria>256GB</memoria>
+            </variant>
             <variant>
                 <ID>59757525303630</ID>
                 <sku/>
@@ -365,6 +498,17 @@
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59287156228430</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Gold</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287156719950</ID>
                 <sku/>
                 <price>419.00</price>
@@ -374,6 +518,28 @@
                 <sale>No</sale>
                 <color>Graphite</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287156818254</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Graphite</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287156916558</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Graphite</color>
+                <memoria>512GB</memoria>
             </variant>
             <variant>
                 <ID>59757522649422</ID>
@@ -399,6 +565,17 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59757521928526</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Starlight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59286914531662</ID>
                 <sku/>
                 <price>369.00</price>
@@ -421,15 +598,37 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59757521699150</ID>
+                <ID>59286914433358</ID>
                 <sku/>
-                <price>419.00</price>
+                <price>369.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Blue</color>
-                <memoria>256GB</memoria>
+                <color>Pink</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59286914498894</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Pink</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>60079625273678</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>(Product) Red</color>
+                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
@@ -767,29 +966,6 @@
                 <sale>No</sale>
                 <color>Gold</color>
                 <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15851056431438</ID>
-        <name>Samsung Galaxy S24 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 ricondizionato&lt;/strong&gt; – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024. Samsung Galaxy S24 ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024 Scopri il Samsung Galaxy S24 ricondizionato: lo smartphone Android di punta del 2024 in formato compatto, con il potente chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata per funzionalità di intelligenza artificiale avanzate e display Dynamic AMOLED 2X da 6,2 pollici con luminosità fino a 2600 nit. Certificato e testato, offre prestazioni flagship in un design tascabile e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24black-1.jpg?v=1780067338</imageURL>
-        <categories>Samsung Galaxy S24</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S24 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59759888793934</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Cobalt Violet</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
