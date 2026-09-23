@@ -1,6 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15815521927502</ID>
+        <name>Samsung Galaxy Z Flip 6 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip6 5G ricondizionato &lt;/strong&gt;– Il pieghevole compatto più intelligente con Galaxy AI e batteria potenziata da 4.000 mAhScopri il Samsung Galaxy Z Flip6 5G ricondizionato: lo smartphone pieghevole a conchiglia di ultima generazione con il potente chip Snapdragon 8 Gen 3, batteria potenziata da 4.000 mAh e funzionalità Galaxy AI integrate per la fotografia e la produttività intelligente. Certificato e testato, rappresenta il pieghevole compatto più avanzato di Samsung, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-6</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFlip6blu-1.jpg?v=1780316837</imageURL>
+        <categories>Samsung Galaxy Z Flip 6</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy Z Flip 6 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59595805229390</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15755932991822</ID>
         <name>Apple iPhone 16 Pro Max Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display da 6,9 pollici, chip A18 Pro e zoom ottico 5xScopri l'Apple iPhone 16 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2024, con il display Super Retina XDR da 6,9 pollici il più grande mai realizzato su un iPhone, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -92,17 +115,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59305024192846</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59292152004942</ID>
                 <sku/>
                 <price>619.00</price>
@@ -137,6 +149,17 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59244515328334</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287798612302</ID>
                 <sku/>
                 <price>569.00</price>
@@ -167,17 +190,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Yellow</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757526319438</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -351,28 +363,6 @@
                 <color>Space Black</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59757524648270</ID>
-                <sku/>
-                <price>549.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Space Black</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757524582734</ID>
-                <sku/>
-                <price>549.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Deep Purple</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -417,17 +407,6 @@
                 <sale>No</sale>
                 <color>Space Black</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757525008718</ID>
-                <sku/>
-                <price>589.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Space Black</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59757525303630</ID>
@@ -564,28 +543,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757521928526</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Starlight</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914531662</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Midnight</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59286914564430</ID>
                 <sku/>
