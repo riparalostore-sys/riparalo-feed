@@ -1,6 +1,96 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15874168488270</ID>
+        <name>Apple iPhone 17 Pro Max Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro Max ricondizionato &lt;/strong&gt;– Il top di gamma Apple con display da 6,9 pollici, chip A19 Pro, zoom ottico 8x e batteria record da 5.088 mAh Scopri l'Apple iPhone 17 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2025, con il rivoluzionario design unibody in alluminio forgiato, display Super Retina XDR ProMotion da 6,9 pollici, chip A19 Pro con camera di vapore integrata, sistema a tripla fotocamera Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, e la batteria più capiente mai montata su un iPhone. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17promaxargento-1.jpg?v=1789459607</imageURL>
+        <categories>Apple iPhone 17</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 17 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60151663034702</ID>
+                <sku/>
+                <price>1269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Silver</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59956215972174</ID>
+                <sku/>
+                <price>1269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Cosmic Orange</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>60935905902926</ID>
+                <sku/>
+                <price>1469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Deep Blue</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>60935905935694</ID>
+                <sku/>
+                <price>1469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Cosmic Orange</color>
+                <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15815521730894</ID>
+        <name>Apple iPhone 16 Pro Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Pro ricondizionato &lt;/strong&gt;– Chip A18 Pro, display da 6,3 pollici e fotocamera da 48 MP con zoom ottico 5xScopri l'Apple iPhone 16 Pro ricondizionato: lo smartphone Apple Pro con il nuovo display Super Retina XDR da 6,3 pollici il più grande mai realizzato sulla serie Pro standard, chip A18 Pro, fotocamera principale da 48 MP con zoom ottico 5x e il nuovo tasto Controllo fotocamera. Certificato e testato, offre prestazioni professionali e funzionalità Apple Intelligence di nuova generazione, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-16-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16Problack-1.jpg?v=1780474838</imageURL>
+        <categories>Apple iPhone 16 Pro</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 16 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59595804639566</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59595804672334</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Desert Titanium</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15815521927502</ID>
         <name>Samsung Galaxy Z Flip 6 Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip6 5G ricondizionato &lt;/strong&gt;– Il pieghevole compatto più intelligente con Galaxy AI e batteria potenziata da 4.000 mAhScopri il Samsung Galaxy Z Flip6 5G ricondizionato: lo smartphone pieghevole a conchiglia di ultima generazione con il potente chip Snapdragon 8 Gen 3, batteria potenziata da 4.000 mAh e funzionalità Galaxy AI integrate per la fotografia e la produttività intelligente. Certificato e testato, rappresenta il pieghevole compatto più avanzato di Samsung, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -58,40 +148,6 @@
         </variants>
     </product>
     <product>
-        <ID>15738064142670</ID>
-        <name>Apple iPhone 13 Pro Max Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro Max ricondizionato &lt;/strong&gt;– Il massimo della tecnologia Apple a prezzo conveniente Scopri l'Apple iPhone 13 Pro Max ricondizionato: lo smartphone Apple più potente e con la batteria più longeva della gamma 13, dotato di display ProMotion da 120Hz, sistema fotografico a tripla fotocamera professionale e chip A15 Bionic. Certificato e testato, è la scelta perfetta per chi vuole il massimo dell'esperienza Apple in modo sostenibile e conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-13-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13Promaxgold-1.jpg?v=1780323612</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 13 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59287199678798</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757523140942</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Sierra Blue</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738142359886</ID>
         <name>Apple iPhone 15 Pro Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro ricondizionato&lt;/strong&gt; – Titanio, USB-C e chip A17 Pro per il massimo delle prestazioni Apple.&lt;/p&gt;
@@ -112,17 +168,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Black Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292152004942</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -158,39 +203,6 @@
                 <sale>No</sale>
                 <color>Black</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287798612302</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287799202126</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374990885198</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Yellow</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -319,17 +331,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59758271267150</ID>
-                <sku/>
-                <price>319.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59758271332686</ID>
                 <sku/>
                 <price>319.00</price>
@@ -419,6 +420,17 @@
                 <color>Deep Purple</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59757525205326</ID>
+                <sku/>
+                <price>589.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Deep Purple</color>
+                <memoria>256GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -464,6 +476,17 @@
                 <color>Blue Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
+            <variant>
+                <ID>60935900725582</ID>
+                <sku/>
+                <price>869.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Naturale</color>
+                <memoria>512GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -499,17 +522,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59287156818254</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287156916558</ID>
                 <sku/>
                 <price>569.00</price>
@@ -519,17 +531,6 @@
                 <sale>No</sale>
                 <color>Graphite</color>
                 <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757522649422</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Alpine Green</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -555,17 +556,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59286914433358</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59286914498894</ID>
                 <sku/>
                 <price>469.00</price>
@@ -575,6 +565,17 @@
                 <sale>No</sale>
                 <color>Pink</color>
                 <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757521994062</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Product (Red)</color>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>60079625273678</ID>
@@ -587,28 +588,16 @@
                 <color>(Product) Red</color>
                 <memoria>512GB</memoria>
             </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738164347214</ID>
-        <name>Apple iPhone 12 Pro Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 12 Pro ricondizionato&lt;/strong&gt;: il primo iPhone con scanner LiDAR, scocca in acciaio inossidabile e sistema a tripla fotocamera professionale con supporto ProRAW. Certificato e testato, abbina il potente chip A14 Bionic a funzionalità fotografiche avanzate e connettività 5G, il tutto disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-12-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12Prosilver-1.jpg?v=1780477936</imageURL>
-        <categories>Apple iPhone 12</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 12 Pro Ricondizionato</model>
-        <variants>
             <variant>
-                <ID>59757518061902</ID>
+                <ID>59757521797454</ID>
                 <sku/>
-                <price>469.00</price>
+                <price>369.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>512GB</memoria>
+                <color>Blue</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -833,6 +822,40 @@
                 <sale>No</sale>
                 <color>Titanium Black</color>
                 <memoria>1TB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837627679054</ID>
+        <name>Apple iPhone 17 Pro Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro ricondizionato&lt;/strong&gt; – Design unibody in alluminio, sistema di fotocamere Pro Fusion da 48 MP con zoom ottico 8x e chip A19 Pro Scopri l'Apple iPhone 17 Pro ricondizionato: il flagship Apple Pro del 2025 con rivoluzionario design unibody in alluminio forgiato, sistema di quattro fotocamere Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, chip A19 Pro e display Super Retina XDR ProMotion da 6,3 pollici. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17Proarancione-2.jpg?v=1780481397</imageURL>
+        <categories>Apple iPhone 17</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 17 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59695432925518</ID>
+                <sku/>
+                <price>1019.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Cosmic Orange</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>60364289016142</ID>
+                <sku/>
+                <price>1019.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Deep Blue</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
