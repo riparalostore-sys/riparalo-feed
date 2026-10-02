@@ -57,28 +57,6 @@
         <model>Samsung Galaxy S24 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59759888826702</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Onyx Black</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759888695630</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Onyx Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59759888302414</ID>
                 <sku/>
                 <price>469.00</price>
@@ -112,50 +90,6 @@
                 <color>Black</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59358407000398</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374997569870</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>White</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59358571987278</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Ultramarine</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757527138638</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Teal</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -168,28 +102,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59287798612302</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Pink</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374990885198</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Yellow</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59757526319438</ID>
                 <sku/>
@@ -534,6 +446,17 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Midnight</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59286914564430</ID>
                 <sku/>
                 <price>419.00</price>
@@ -656,28 +579,6 @@
         <brand>Riparalo Store</brand>
         <model>Samsung Galaxy S25 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59759889383758</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Navy</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759889416526</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Silver Shadow</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>60233514123598</ID>
                 <sku/>
