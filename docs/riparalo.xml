@@ -1,29 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15837641146702</ID>
-        <name>Samsung Galaxy Z Flip 5 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip5 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con Flex Window da 3,4 pollici e cerniera senza gap per una chiusura completamente piattaScopri il Samsung Galaxy Z Flip5 5G ricondizionato: lo smartphone pieghevole a conchiglia di nuova generazione con il rivoluzionario Flex Window da 3,4 pollici, chip Snapdragon 8 Gen 2 e cerniera Flex Hinge senza gap per una chiusura completamente piatta. Certificato e testato, offre il massimo della portabilità senza rinunciare alle prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-5</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/GalaxyZFlip5grigio-1.jpg?v=1780493167</imageURL>
-        <categories>Samsung Galaxy Z Flip 5</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy Z Flip 5 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59707909308750</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Graphite</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15851055841614</ID>
         <name>Samsung Galaxy S22 Ricondizionato</name>
         <description>Samsung Galaxy S22 ricondizionato – Display Dynamic AMOLED 2X da 6,1 pollici, chip Exynos 2200 e tripla fotocamera da 50 MP per il flagship compatto del 2022Scopri il Samsung Galaxy S22 ricondizionato: lo smartphone Android di punta del 2022 in formato compatto, con il chip Exynos 2200 realizzato a 4 nanometri con GPU AMD, display Dynamic AMOLED 2X da 6,1 pollici con frequenza di aggiornamento adattiva a 120Hz e tripla fotocamera con sensore principale da 50 MP. Certificato e testato, offre prestazioni flagship in un design tascabile e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.</description>
@@ -42,29 +19,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Green</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15851056431438</ID>
-        <name>Samsung Galaxy S24 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 ricondizionato&lt;/strong&gt; – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024. Samsung Galaxy S24 ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024 Scopri il Samsung Galaxy S24 ricondizionato: lo smartphone Android di punta del 2024 in formato compatto, con il potente chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata per funzionalità di intelligenza artificiale avanzate e display Dynamic AMOLED 2X da 6,2 pollici con luminosità fino a 2600 nit. Certificato e testato, offre prestazioni flagship in un design tascabile e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24black-1.jpg?v=1780067338</imageURL>
-        <categories>Samsung Galaxy S24</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S24 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59759888302414</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Cobalt Violet</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
