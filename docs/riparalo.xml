@@ -44,6 +44,17 @@
                 <color>Black</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59374997569870</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>White</color>
+                <memoria>128GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -99,31 +110,6 @@
                 <sale>No</sale>
                 <color>White Titanium</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738142359886</ID>
-        <name>Apple iPhone 15 Pro Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro ricondizionato&lt;/strong&gt; – Titanio, USB-C e chip A17 Pro per il massimo delle prestazioni Apple.&lt;/p&gt;
-&lt;p&gt;Scopri l'Apple iPhone 15 Pro ricondizionato: il primo iPhone realizzato in titanio di grado aerospaziale, con il rivoluzionario chip A17 Pro, il tasto Azione personalizzabile e il connettore USB-C con supporto USB 3.&lt;/p&gt;
-&lt;p&gt;Certificato e testato, offre prestazioni da console di gioco, un sistema fotografico a tripla fotocamera di livello professionale e una costruzione premium, il tutto a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Problack-1.jpg?v=1780305681</imageURL>
-        <categories>Apple iPhone 15</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 15 Pro Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59292152004942</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -319,17 +305,6 @@
                 <color>Natural Titanium</color>
                 <memoria>256GB</memoria>
             </variant>
-            <variant>
-                <ID>59292147548494</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -365,6 +340,17 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59757521895758</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Starlight</color>
+                <memoria>512GB</memoria>
+            </variant>
             <variant>
                 <ID>59286914531662</ID>
                 <sku/>
@@ -444,17 +430,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59374981054798</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Yellow</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59244556517710</ID>
                 <sku/>
                 <price>419.00</price>
@@ -475,29 +450,6 @@
                 <sale>No</sale>
                 <color>(Product) Red</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15851056562510</ID>
-        <name>Samsung Galaxy S25 Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 ricondizionato&lt;/strong&gt; – Intelligenza artificiale avanzata e prestazioni flagship a prezzo accessibileSamsung Galaxy S25 ricondizionato – Intelligenza artificiale avanzata e prestazioni flagship a prezzo accessibile Scopri il Samsung Galaxy S25 ricondizionato: lo smartphone Android di punta del 2025, dotato del potente chip Snapdragon 8 Elite, Galaxy AI per funzionalità di intelligenza artificiale avanzate e un display Dynamic AMOLED 2X da 6,2 pollici. Certificato e testato, rappresenta il top della tecnologia Samsung disponibile a un prezzo conveniente e in ottica sostenibile. &lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25blu-1.jpg?v=1780326475</imageURL>
-        <categories>Samsung Galaxy S25</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S25 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60233514123598</ID>
-                <sku/>
-                <price>669.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Navy</color>
-                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
