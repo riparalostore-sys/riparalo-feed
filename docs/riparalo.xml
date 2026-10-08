@@ -35,29 +35,6 @@
         </variants>
     </product>
     <product>
-        <ID>15837627187534</ID>
-        <name>Apple iPhone 16e Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 16e ricondizionato&lt;/strong&gt; – Chip A18, fotocamera Fusion da 48 MP e modem Apple C1 per l'iPhone più accessibile del 2025Scopri l'Apple iPhone 16e ricondizionato: il nuovo iPhone entry-level del 2025 che porta il potente chip A18, la fotocamera Fusion da 48 MP con zoom 2x di qualità ottica, il tasto Azione personalizzabile e il primo modem Apple C1 progettato internamente. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple Intelligence a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-16e</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16ebianco-1.jpg?v=1780491065</imageURL>
-        <categories>Apple iPhone 16</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 16e Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59695424536910</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738142359886</ID>
         <name>Apple iPhone 15 Pro Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro ricondizionato&lt;/strong&gt; – Titanio, USB-C e chip A17 Pro per il massimo delle prestazioni Apple.&lt;/p&gt;
@@ -423,40 +400,6 @@
         </variants>
     </product>
     <product>
-        <ID>15738144850254</ID>
-        <name>Apple iPhone 15 Pro Max Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro Max ricondizionato&lt;/strong&gt; – Titanio, zoom ottico 5x e chip A17 Pro per l'iPhone più avanzato di sempre Scopri l'Apple iPhone 15 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2023, con scocca in titanio di grado aerospaziale, il potente chip A17 Pro, il teleobiettivo con zoom ottico 5x esclusivo e il connettore USB-C con supporto USB 3. Certificato e testato, offre il massimo in termini di fotografia, prestazioni e autonomia, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-15-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15Promaxtitaniobianco-1.jpg?v=1780306992</imageURL>
-        <categories>Apple iPhone 15</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple iPhone 15 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59287827022158</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59305135472974</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738053263694</ID>
         <name>Apple iPhone 13 Pro Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro ricondizionato&lt;/strong&gt; – Potenza professionale a un prezzo sostenibile Scopri l'Apple iPhone 13 Pro ricondizionato: lo smartphone Apple con sistema fotografico a tripla fotocamera, display ProMotion da 120Hz e chip A15 Bionic, disponibile certificato e testato per offrirti prestazioni professionali a un prezzo conveniente. La scelta ideale per chi cerca il meglio della tecnologia Apple in ottica sostenibile. &lt;/p&gt;</description>
@@ -554,17 +497,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Starlight</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757523403086</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
