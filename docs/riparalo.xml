@@ -56,17 +56,6 @@
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59244515328334</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287798513998</ID>
                 <sku/>
                 <price>469.00</price>
@@ -86,17 +75,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Green</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59997751181646</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -190,17 +168,6 @@
                 <sale>No</sale>
                 <color>Blue Titanium</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292152037710</ID>
-                <sku/>
-                <price>823.50</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287808901454</ID>
@@ -337,17 +304,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59358571987278</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Ultramarine</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757527171406</ID>
                 <sku/>
                 <price>619.00</price>
@@ -459,29 +415,6 @@
                 <sale>No</sale>
                 <color>Titanium Yellow</color>
                 <memoria>1TB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15756759859534</ID>
-        <name>Samsung Galaxy S24 Plus Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Plus ricondizionato&lt;/strong&gt; – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship Samsung dal grande display da 6,7 polliciSamsung Galaxy S24+ ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship Samsung dal grande display da 6,7 pollici Scopri il Samsung Galaxy S24+ ricondizionato: lo smartphone Android di fascia alta del 2024 con display Dynamic AMOLED 2X da 6,7 pollici, chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata e ricarica rapida cablata da 45W. Certificato e testato, offre prestazioni flagship in un formato generoso e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-plus</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24plusblack-1.jpg?v=1780306201</imageURL>
-        <categories>Samsung Galaxy S24</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S24 Plus Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59695543058766</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Marble Gray</color>
-                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
