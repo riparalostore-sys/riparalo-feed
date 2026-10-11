@@ -170,6 +170,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59292152037710</ID>
+                <sku/>
+                <price>823.50</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue Titanium</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287808901454</ID>
                 <sku/>
                 <price>619.00</price>
@@ -179,17 +190,6 @@
                 <sale>No</sale>
                 <color>Natural Titanium</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292151906638</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59292152136014</ID>
