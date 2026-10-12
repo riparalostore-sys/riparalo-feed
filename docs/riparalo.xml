@@ -172,7 +172,7 @@
             <variant>
                 <ID>59292152037710</ID>
                 <sku/>
-                <price>823.50</price>
+                <price>719.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
@@ -392,29 +392,6 @@
                 <sale>No</sale>
                 <color>Graphite</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15850596925774</ID>
-        <name>Samsung Galaxy S24 Ultra Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Ultra ricondizionato&lt;/strong&gt; – Titanio, S Pen integrata e Galaxy AI per il flagship Android definitivo Scopri il Samsung Galaxy S24 Ultra ricondizionato: il top di gamma Samsung del 2024 con scocca in titanio di grado aerospaziale, S Pen integrata, chip Snapdragon 8 Gen 3 ottimizzato per Samsung e fotocamera principale da 200 MP. Certificato e testato, introduce Galaxy AI come sistema di intelligenza artificiale nativo per la produttività e la fotografia avanzata, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-ultra</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24ultranero-1.jpg?v=1780327376</imageURL>
-        <categories>Samsung Galaxy S24</categories>
-        <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60794563756366</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Yellow</color>
-                <memoria>1TB</memoria>
             </variant>
         </variants>
     </product>
