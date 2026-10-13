@@ -1,6 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837640622414</ID>
+        <name>Samsung Galaxy S25 Edge Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Edge ricondizionato &lt;/strong&gt;– Il flagship Samsung più sottile di sempre con fotocamera da 200 MP e scocca in titanio da soli 5,8 mmScopri il Samsung Galaxy S25 Edge ricondizionato: il modello più sottile e leggero della gamma Galaxy S25, con scocca in titanio spessa appena 5,8 mm, fotocamera principale da 200 MP mutuata dal Galaxy S25 Ultra, chip Snapdragon 8 Elite e display Dynamic AMOLED 2X da 6,7 pollici. Certificato e testato, ridefinisce il concetto di smartphone premium ultrasottile senza rinunciare alle prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-edge</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25_nero-3.jpg?v=1791882200</imageURL>
+        <categories>Samsung Galaxy S25</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy S25 Edge Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59708110405966</ID>
+                <sku/>
+                <price>646.54</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Jetblack</color>
+                <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738144850254</ID>
         <name>Apple iPhone 15 Pro Max Ricondizionato</name>
         <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Pro Max ricondizionato&lt;/strong&gt; – Titanio, zoom ottico 5x e chip A17 Pro per l'iPhone più avanzato di sempre Scopri l'Apple iPhone 15 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2023, con scocca in titanio di grado aerospaziale, il potente chip A17 Pro, il teleobiettivo con zoom ottico 5x esclusivo e il connettore USB-C con supporto USB 3. Certificato e testato, offre il massimo in termini di fotografia, prestazioni e autonomia, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -64,17 +87,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Pink</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287799103822</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Green</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -170,17 +182,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59292152037710</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blue Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287808901454</ID>
                 <sku/>
                 <price>619.00</price>
@@ -189,17 +190,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Natural Titanium</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59292152136014</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>White Titanium</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -214,28 +204,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 14 Pro Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757524746574</ID>
-                <sku/>
-                <price>499.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Space Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757524681038</ID>
-                <sku/>
-                <price>499.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Deep Purple</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59287638933838</ID>
                 <sku/>
@@ -498,17 +466,6 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757521895758</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Starlight</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
                 <ID>59286914498894</ID>
                 <sku/>
                 <price>469.00</price>
@@ -562,17 +519,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Purple</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59997749739854</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>(Product) Red</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
