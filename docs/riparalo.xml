@@ -1,25 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15837640622414</ID>
-        <name>Samsung Galaxy S25 Edge Ricondizionato</name>
-        <description>&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Edge ricondizionato &lt;/strong&gt;– Il flagship Samsung più sottile di sempre con fotocamera da 200 MP e scocca in titanio da soli 5,8 mmScopri il Samsung Galaxy S25 Edge ricondizionato: il modello più sottile e leggero della gamma Galaxy S25, con scocca in titanio spessa appena 5,8 mm, fotocamera principale da 200 MP mutuata dal Galaxy S25 Ultra, chip Snapdragon 8 Elite e display Dynamic AMOLED 2X da 6,7 pollici. Certificato e testato, ridefinisce il concetto di smartphone premium ultrasottile senza rinunciare alle prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-edge</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25_nero-3.jpg?v=1791882200</imageURL>
-        <categories>Samsung Galaxy S25</categories>
+        <ID>15738164347214</ID>
+        <name>Apple iPhone 12 Pro Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 12 Pro ricondizionato&lt;/strong&gt;: il primo iPhone con scanner LiDAR, scocca in acciaio inossidabile e sistema a tripla fotocamera professionale con supporto ProRAW. Certificato e testato, abbina il potente chip A14 Bionic a funzionalità fotografiche avanzate e connettività 5G, il tutto disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-12-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12Prosilver-1.jpg?v=1780477936</imageURL>
+        <categories>Apple iPhone 12</categories>
         <brand>Riparalo Store</brand>
-        <model>Samsung Galaxy S25 Edge Ricondizionato</model>
+        <model>Apple iPhone 12 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59708110405966</ID>
+                <ID>59757518061902</ID>
                 <sku/>
-                <price>646.54</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Titanium Jetblack</color>
+                <color>Graphite</color>
                 <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738162053454</ID>
+        <name>Apple iPhone 12 Ricondizionato</name>
+        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-12</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12black-1.jpg?v=1780321500</imageURL>
+        <categories>Apple iPhone 12</categories>
+        <brand>Riparalo Store</brand>
+        <model>Apple iPhone 12 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59288160731470</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Black</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>60199682507086</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>(Product) Red</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -33,28 +67,6 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 15 Pro Max Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59287827022158</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Natural Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59305135472974</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Black Titanium</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59292147548494</ID>
                 <sku/>
@@ -499,6 +511,17 @@
         <brand>Riparalo Store</brand>
         <model>Apple iPhone 14 Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59757523566926</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Starlight</color>
+                <memoria>128GB</memoria>
+            </variant>
             <variant>
                 <ID>59287581917518</ID>
                 <sku/>
