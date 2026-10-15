@@ -1,12 +1,20 @@
 #!/usr/bin/env python3
 """
 Genera un feed Google Shopping (RSS 2.0 + namespace g:) leggendo
-l'endpoint pubblico products.json di Shopify per riparalo.store.
+l'endpoint pubblico products.json di Shopify per riparalo.com.
 
 Filtri applicati:
 - Esclude varianti con valore capacita non valido (N/D, n/d, vuoto, -1, malformato)
-- Esclude varianti con inventario disponibile <= 0
+- Esclude varianti non disponibili (campo "available" di products.json)
 - Include un prodotto solo se ha almeno una variante valida e disponibile
+
+Ottimizzazioni per Google Shopping:
+- Titolo: modello + memoria + colore in italiano + "Ricondizionato Premium - Batteria Nuova"
+  (solo per i prodotti ricondizionati, cioe' con "Ricondizionato" nel titolo Shopify)
+- g:product_highlight: punti di forza (Premium, batteria nuova, garanzia 24 mesi, spedizione, Klarna)
+- g:color in italiano, g:item_group_id per raggruppare le varianti dello stesso modello
+- g:custom_label_0 = fascia di prezzo, g:custom_label_1 = famiglia prodotto (per segmentare le campagne)
+- g:shipping gratuita per l'Italia
 """
 
 import json
@@ -31,6 +39,124 @@ REQUEST_HEADERS = {
 }
 
 VALID_CAPACITY_RE = re.compile(r"^\d+\s*(GB|TB)$", re.IGNORECASE)
+
+# ---------------------------------------------------------------------------
+# Testi di marketing (modificabili qui senza toccare il resto dello script)
+# ---------------------------------------------------------------------------
+
+# Suffisso del titolo per i ricondizionati. Google vieta testi promozionali nei
+# titoli (prezzi, spedizione, "offerta"...), quindi qui solo attributi del prodotto.
+TITLE_REFURB_MAIN = "Ricondizionato Premium"
+TITLE_REFURB_TAIL = "Batteria Nuova"
+
+# Punti di forza mostrati sotto l'annuncio (max 10, max 150 caratteri ciascuno)
+HIGHLIGHTS_REFURB = [
+    "Condizioni Premium: grado Best Prime, estetica come nuova",
+    "Batteria nuova inclusa, autonomia al 100%",
+    "Garanzia 24 mesi",
+    "Spedizione Express gratuita e tracciata in 24/72 ore",
+    "Pagamento anche in 3 rate con Klarna",
+]
+
+# Frase aggiunta in testa alla descrizione dei ricondizionati
+DESCRIPTION_INTRO_REFURB = (
+    "Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% "
+    "e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore."
+)
+
+# Spedizione gratuita in Italia (deve coincidere con quanto mostrato sul sito)
+SHIPPING_COUNTRY = "IT"
+SHIPPING_PRICE = "0.00 EUR"
+
+# Fasce di prezzo per custom_label_0 (limite superiore escluso)
+PRICE_BANDS = [
+    (400, "fino-400"),
+    (600, "400-599"),
+    (800, "600-799"),
+    (1000, "800-999"),
+]
+PRICE_BAND_TOP = "1000-plus"
+
+# ---------------------------------------------------------------------------
+# Colori: inglese -> italiano (chiavi in minuscolo, senza "(product)")
+# ---------------------------------------------------------------------------
+
+COLOR_MAP = {
+    # Titanio (Pro 15 / 16 / 17)
+    "natural titanium": "Titanio Naturale",
+    "black titanium": "Titanio Nero",
+    "white titanium": "Titanio Bianco",
+    "blue titanium": "Titanio Blu",
+    "titanium blue": "Titanio Blu",
+    "desert titanium": "Titanio Sabbia",
+    # Colori Apple storici
+    "midnight": "Mezzanotte",
+    "starlight": "Galassia",
+    "space black": "Nero Siderale",
+    "space gray": "Grigio Siderale",
+    "space grey": "Grigio Siderale",
+    "graphite": "Grafite",
+    "deep purple": "Viola Scuro",
+    "pacific blue": "Blu Pacifico",
+    "sierra blue": "Azzurro Sierra",
+    "alpine green": "Verde Alpino",
+    "sky blue": "Azzurro Cielo",
+    "cloud white": "Bianco Nuvola",
+    "light gold": "Oro Chiaro",
+    "deep blue": "Blu Intenso",
+    "cosmic orange": "Arancione Cosmico",
+    "mist blue": "Blu Nebbia",
+    "sage": "Salvia",
+    "lavender": "Lavanda",
+    "ultramarine": "Blu Oltremare",
+    "teal": "Verde Acqua",
+    "red": "Rosso",
+    "product red": "Rosso",
+    # Colori base
+    "black": "Nero",
+    "white": "Bianco",
+    "silver": "Argento",
+    "gold": "Oro",
+    "blue": "Blu",
+    "green": "Verde",
+    "pink": "Rosa",
+    "yellow": "Giallo",
+    "purple": "Viola",
+    "gray": "Grigio",
+    "grey": "Grigio",
+    "orange": "Arancione",
+    # Samsung
+    "phantom black": "Nero Phantom",
+    "phantom black/lavender": "Nero Phantom / Lavanda",
+    "cobalt violet": "Viola Cobalto",
+    "onyx black": "Nero Onice",
+    "marble grey": "Grigio Marmo",
+    "amber yellow": "Giallo Ambra",
+    "titanium gray": "Titanio Grigio",
+    "titanium black": "Titanio Nero",
+    "titanium violet": "Titanio Viola",
+    "titanium yellow": "Titanio Giallo",
+    "cream": "Crema",
+}
+
+
+def translate_color(value: str) -> str:
+    """Traduce il colore in italiano; se non e' in mappa lo lascia com'e'."""
+    if not value:
+        return ""
+    v = value.strip()
+    if v.lower() in ("n/d", "nd", "-1"):
+        return ""
+    key = re.sub(r"\(?product\)?", "product", v, flags=re.IGNORECASE)
+    key = re.sub(r"\s+", " ", key).strip().lower()
+    if key in COLOR_MAP:
+        return COLOR_MAP[key]
+    # "(Product) Red" -> "product red", "Product (Red)" -> "product red"
+    key_clean = re.sub(r"[()]", "", key).strip()
+    key_clean = re.sub(r"\s+", " ", key_clean)
+    if key_clean in COLOR_MAP:
+        return COLOR_MAP[key_clean]
+    return v
 
 
 def is_valid_capacity(value: str) -> bool:
@@ -91,18 +217,85 @@ def fetch_with_retry(url, max_retries=6):
     raise last_error
 
 
-def get_option_value(variant, product, option_name):
+def get_option_value(variant, product, *option_names):
+    """Valore dell'opzione cercata per nome (accetta piu' nomi alternativi)."""
+    wanted = {n.strip().lower() for n in option_names}
     for i, opt in enumerate(product.get("options", []), start=1):
-        if opt.get("name", "").strip().lower() == option_name.strip().lower():
-            key = f"option{i}"
-            return variant.get(key)
+        if str(opt.get("name", "")).strip().lower() in wanted:
+            return variant.get(f"option{i}")
     return None
+
+
+def is_refurbished(product) -> bool:
+    return "ricondizionat" in product.get("title", "").lower()
+
+
+def base_model_name(product_title: str) -> str:
+    """'Apple iPhone 15 Pro Max Ricondizionato' -> 'Apple iPhone 15 Pro Max'."""
+    name = re.sub(r"\bricondizionat[oaie]\b", "", product_title, flags=re.IGNORECASE)
+    return re.sub(r"\s+", " ", name).strip(" -")
+
+
+def build_title(product, capacity, color_it) -> str:
+    # Ordine pensato per il troncamento negli annunci (Google mostra i primi 30-70
+    # caratteri): prima modello e memoria, poi "Ricondizionato Premium", poi il colore
+    # e per ultima "Batteria Nuova", che compare comunque negli highlight.
+    model = base_model_name(product["title"])
+    parts = [model, capacity.replace(" ", "")]
+    if is_refurbished(product):
+        parts.append(TITLE_REFURB_MAIN)
+    if color_it:
+        parts.append(color_it)
+    title = " ".join(p for p in parts if p)
+    if is_refurbished(product):
+        title = f"{title} - {TITLE_REFURB_TAIL}"
+    return title[:150]
+
+
+def price_band(price: float) -> str:
+    for limit, label in PRICE_BANDS:
+        if price < limit:
+            return label
+    return PRICE_BAND_TOP
+
+
+def product_family(product) -> str:
+    """Famiglia per custom_label_1: iphone-pro-max, iphone-pro, iphone-plus, iphone, samsung-fold, ..."""
+    t = product.get("title", "").lower()
+    if "iphone" in t:
+        if "pro max" in t:
+            return "iphone-pro-max"
+        if " pro" in t:
+            return "iphone-pro"
+        if "plus" in t:
+            return "iphone-plus"
+        if "air" in t:
+            return "iphone-air"
+        if "mini" in t:
+            return "iphone-mini"
+        return "iphone"
+    if "galaxy" in t or "samsung" in t:
+        if "fold" in t:
+            return "samsung-fold"
+        if "flip" in t:
+            return "samsung-flip"
+        return "samsung"
+    if "macbook" in t:
+        return "macbook"
+    if "ipad" in t:
+        return "ipad"
+    return "altro"
 
 
 def build_item_xml(product, variant, capacity_value):
     variant_id = variant["id"]
     product_handle = product["handle"]
-    title = f"{product['title']} {variant.get('title', '')}".replace(" / ", " ").strip()
+    refurb = is_refurbished(product)
+
+    color_raw = get_option_value(variant, product, "Color", "Colore") or ""
+    color_it = translate_color(color_raw)
+
+    title = build_title(product, capacity_value, color_it)
     link = f"https://{SHOP_DOMAIN}/products/{product_handle}?variant={variant_id}"
 
     image = ""
@@ -112,24 +305,48 @@ def build_item_xml(product, variant, capacity_value):
         image = product["images"][0]["src"]
 
     price = variant.get("price", "0.00")
-    availability = "in_stock"
+    try:
+        price_value = float(price)
+    except (TypeError, ValueError):
+        price_value = 0.0
+
     brand = product.get("vendor", "").strip() or "Generico"
-    description = re.sub("<[^<]+?>", "", product.get("body_html", "")).strip()
+
+    description = re.sub("<[^<]+?>", " ", product.get("body_html", "") or "")
+    description = re.sub(r"\s+", " ", description).strip()
+    if refurb:
+        description = f"{DESCRIPTION_INTRO_REFURB} {description}".strip()
     description = description[:5000] if description else title
+
+    highlights_xml = ""
+    if refurb:
+        highlights_xml = "".join(
+            f"\n      <g:product_highlight>{escape(h[:150])}</g:product_highlight>"
+            for h in HIGHLIGHTS_REFURB[:10]
+        )
+
+    color_xml = f"\n      <g:color>{escape(color_it)}</g:color>" if color_it else ""
 
     item = f"""
     <item>
       <g:id>{escape(str(variant_id))}</g:id>
+      <g:item_group_id>{escape(str(product["id"]))}</g:item_group_id>
       <title>{escape(title)}</title>
       <description>{escape(description)}</description>
       <link>{escape(link)}</link>
       <g:image_link>{escape(image)}</g:image_link>
       <g:condition>refurbished</g:condition>
-      <g:availability>{availability}</g:availability>
+      <g:availability>in_stock</g:availability>
       <g:price>{price} EUR</g:price>
-      <g:brand>{escape(brand)}</g:brand>
+      <g:brand>{escape(brand)}</g:brand>{color_xml}
       <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>267</g:google_product_category>
+      <g:google_product_category>267</g:google_product_category>{highlights_xml}
+      <g:shipping>
+        <g:country>{SHIPPING_COUNTRY}</g:country>
+        <g:price>{SHIPPING_PRICE}</g:price>
+      </g:shipping>
+      <g:custom_label_0>{price_band(price_value)}</g:custom_label_0>
+      <g:custom_label_1>{product_family(product)}</g:custom_label_1>
     </item>"""
     return item
 
@@ -141,6 +358,7 @@ def main():
     total_variants = 0
     skipped_capacity = 0
     skipped_stock = 0
+    not_refurb_titles = set()
 
     for product in products:
         for variant in product.get("variants", []):
@@ -155,6 +373,9 @@ def main():
             if not available:
                 skipped_stock += 1
                 continue
+
+            if not is_refurbished(product):
+                not_refurb_titles.add(product.get("title", ""))
 
             items_xml.append(build_item_xml(product, variant, capacity_value))
 
@@ -177,6 +398,10 @@ def main():
     print(f"Escluse per capacita non valida: {skipped_capacity}")
     print(f"Escluse per stock/non disponibili: {skipped_stock}")
     print(f"Varianti incluse nel feed: {len(items_xml)}")
+    if not_refurb_titles:
+        print("Attenzione - prodotti senza 'Ricondizionato' nel titolo (titolo base, niente testi Premium):")
+        for t in sorted(not_refurb_titles):
+            print(f"  - {t}")
 
 
 if __name__ == "__main__":
