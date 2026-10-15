@@ -11,18 +11,114 @@ Uso:
 """
 
 import os
+import re
 import sys
 import time
 import requests
 from xml.sax.saxutils import escape
 
 STORE_URL = "https://www.riparalo.com"
-BRAND_NAME = "Riparalo Store"
+# Marca usata solo se il prodotto non ha il campo Vendor compilato su Shopify
+BRAND_FALLBACK = "Riparalo Store"
 OUTPUT_PATH = sys.argv[1] if len(sys.argv) > 1 else "docs/riparalo.xml"
 
 # Quando una variante e' disponibile, questo valore finisce in <stock>.
 # A TradeTracker serve solo sapere che c'e' disponibilita'.
 STOCK_DISPONIBILE = 1
+
+# ---------------------------------------------------------------------------
+# Testi di marketing per i ricondizionati (modificabili qui)
+# ---------------------------------------------------------------------------
+
+# Aggiunto in coda al nome dei prodotti con "Ricondizionato" nel titolo Shopify
+NAME_SUFFIX_REFURB = "Premium - Batteria Nuova"
+
+# Paragrafo aggiunto in testa alla descrizione dei ricondizionati
+DESCRIPTION_INTRO_REFURB = (
+    "<p><strong>Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · "
+    "Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore</strong></p>"
+)
+
+# ---------------------------------------------------------------------------
+# Colori: inglese -> italiano (chiavi in minuscolo)
+# ---------------------------------------------------------------------------
+
+COLOR_MAP = {
+    # Titanio (Pro 15 / 16 / 17)
+    "natural titanium": "Titanio Naturale",
+    "black titanium": "Titanio Nero",
+    "white titanium": "Titanio Bianco",
+    "blue titanium": "Titanio Blu",
+    "titanium blue": "Titanio Blu",
+    "desert titanium": "Titanio Sabbia",
+    # Colori Apple storici
+    "midnight": "Mezzanotte",
+    "starlight": "Galassia",
+    "space black": "Nero Siderale",
+    "space gray": "Grigio Siderale",
+    "space grey": "Grigio Siderale",
+    "graphite": "Grafite",
+    "deep purple": "Viola Scuro",
+    "pacific blue": "Blu Pacifico",
+    "sierra blue": "Azzurro Sierra",
+    "alpine green": "Verde Alpino",
+    "sky blue": "Azzurro Cielo",
+    "cloud white": "Bianco Nuvola",
+    "light gold": "Oro Chiaro",
+    "deep blue": "Blu Intenso",
+    "cosmic orange": "Arancione Cosmico",
+    "mist blue": "Blu Nebbia",
+    "sage": "Salvia",
+    "lavender": "Lavanda",
+    "ultramarine": "Blu Oltremare",
+    "teal": "Verde Acqua",
+    "red": "Rosso",
+    "product red": "Rosso",
+    # Colori base
+    "black": "Nero",
+    "white": "Bianco",
+    "silver": "Argento",
+    "gold": "Oro",
+    "blue": "Blu",
+    "green": "Verde",
+    "pink": "Rosa",
+    "yellow": "Giallo",
+    "purple": "Viola",
+    "gray": "Grigio",
+    "grey": "Grigio",
+    "orange": "Arancione",
+    # Samsung
+    "phantom black": "Nero Phantom",
+    "phantom black/lavender": "Nero Phantom / Lavanda",
+    "cobalt violet": "Viola Cobalto",
+    "onyx black": "Nero Onice",
+    "marble grey": "Grigio Marmo",
+    "amber yellow": "Giallo Ambra",
+    "titanium gray": "Titanio Grigio",
+    "titanium black": "Titanio Nero",
+    "titanium violet": "Titanio Viola",
+    "titanium yellow": "Titanio Giallo",
+    "cream": "Crema",
+}
+
+
+def translate_color(value):
+    """Traduce il colore in italiano; se non e' in mappa lo lascia com'e'."""
+    if not value:
+        return ""
+    v = str(value).strip()
+    if v.lower() in ("n/d", "nd", "-1"):
+        return ""
+    key = re.sub(r"\s+", " ", v).strip().lower()
+    if key in COLOR_MAP:
+        return COLOR_MAP[key]
+    # "(Product) Red" / "Product (Red)" -> "product red"
+    key_clean = re.sub(r"\s+", " ", re.sub(r"[()]", "", key)).strip()
+    return COLOR_MAP.get(key_clean, v)
+
+
+def is_refurbished(product):
+    return "ricondizionat" in product.get("title", "").lower()
 
 
 # Shopify blocca le richieste che sembrano fatte da bot: usiamo header da browser.
@@ -132,23 +228,31 @@ def build_product_xml(product):
     variants_xml = "\n".join(
         build_variant_xml(
             v,
-            get_option_value(v, idx_color),
+            translate_color(get_option_value(v, idx_color)),
             get_option_value(v, idx_memoria),
         )
         for v in disponibili
     )
 
     titolo = product.get("title", "")
+    refurb = is_refurbished(product)
+
+    nome = f"{titolo} {NAME_SUFFIX_REFURB}" if refurb else titolo
+    descrizione = product.get("body_html") or ""
+    if refurb:
+        descrizione = DESCRIPTION_INTRO_REFURB + descrizione
+    marca = (product.get("vendor") or "").strip() or BRAND_FALLBACK
+
     url_prodotto = f"{STORE_URL}/products/{product.get('handle', '')}"
 
     return f"""    <product>
         <ID>{product['id']}</ID>
-        {tag('name', titolo)}
-        {tag('description', product.get('body_html') or '')}
+        {tag('name', nome)}
+        {tag('description', descrizione)}
         {tag('productURL', url_prodotto)}
         {tag('imageURL', product_image(product))}
         {tag('categories', product.get('product_type') or titolo)}
-        {tag('brand', BRAND_NAME)}
+        {tag('brand', marca)}
         {tag('model', titolo)}
         <variants>
 {variants_xml}
