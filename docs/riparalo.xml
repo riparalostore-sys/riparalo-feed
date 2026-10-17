@@ -24,29 +24,6 @@
         </variants>
     </product>
     <product>
-        <ID>15849985442126</ID>
-        <name>Apple iPhone 12 mini Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 12 mini ricondizionato&lt;/strong&gt; – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 polliciApple iPhone 12 mini ricondizionato – Il più piccolo iPhone 5G con chip A14 Bionic e display Super Retina XDR da 5,4 pollici Scopri l'Apple iPhone 12 mini ricondizionato: il più compatto e leggero iPhone della gamma 2020, con display Super Retina XDR OLED da 5,4 pollici, chip A14 Bionic, connettività 5G e supporto MagSafe. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-12-mini</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12miniwhite-1.jpg?v=1780490636</imageURL>
-        <categories>Apple iPhone 12</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 12 mini Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757743800654</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738162053454</ID>
         <name>Apple iPhone 12 Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
@@ -56,17 +33,6 @@
         <brand>Apple</brand>
         <model>Apple iPhone 12 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59288160731470</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59764201259342</ID>
                 <sku/>
@@ -169,17 +135,6 @@
         <brand>Apple</brand>
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59244515328334</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59287798513998</ID>
                 <sku/>
@@ -360,17 +315,6 @@
                 <sale>No</sale>
                 <color>Argento</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287639327054</ID>
-                <sku/>
-                <price>549.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Oro</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -642,17 +586,6 @@
                 <sale>No</sale>
                 <color>Grafite</color>
                 <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757522714958</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Azzurro Sierra</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
