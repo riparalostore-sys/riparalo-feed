@@ -24,29 +24,6 @@
         </variants>
     </product>
     <product>
-        <ID>15738162053454</ID>
-        <name>Apple iPhone 12 Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-12</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12black-1.jpg?v=1780321500</imageURL>
-        <categories>Apple iPhone 12</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 12 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59764201259342</ID>
-                <sku/>
-                <price>319.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738164347214</ID>
         <name>Apple iPhone 12 Pro Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 12 Pro ricondizionato&lt;/strong&gt;: il primo iPhone con scanner LiDAR, scocca in acciaio inossidabile e sistema a tripla fotocamera professionale con supporto ProRAW. Certificato e testato, abbina il potente chip A14 Bionic a funzionalità fotografiche avanzate e connettività 5G, il tutto disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -56,17 +33,6 @@
         <brand>Apple</brand>
         <model>Apple iPhone 12 Pro Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757518061902</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Grafite</color>
-                <memoria>512GB</memoria>
-            </variant>
             <variant>
                 <ID>59757517963598</ID>
                 <sku/>
@@ -147,28 +113,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59287799103822</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287799202126</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59374990852430</ID>
                 <sku/>
                 <price>469.00</price>
@@ -178,17 +122,6 @@
                 <sale>No</sale>
                 <color>Giallo</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757526319438</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -600,17 +533,6 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757521764686</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Galassia</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59286914498894</ID>
                 <sku/>
                 <price>469.00</price>
@@ -645,17 +567,6 @@
         <model>Apple iPhone 14 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757523566926</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Galassia</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287581917518</ID>
                 <sku/>
                 <price>419.00</price>
@@ -675,17 +586,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Viola</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287581131086</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
