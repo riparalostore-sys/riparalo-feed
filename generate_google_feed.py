@@ -346,6 +346,7 @@ def build_item_xml(product, variant, capacity_value):
         <g:price>{SHIPPING_PRICE}</g:price>
       </g:shipping>
       <g:custom_label_0>{price_band(price_value)}</g:custom_label_0>
+      <g:custom_label_1>{product_family(product)}</g:custom_label_1>
       <g:custom_label_2>{escape(base_model_name(product["title"]))}</g:custom_label_2>
     </item>"""
     return item
