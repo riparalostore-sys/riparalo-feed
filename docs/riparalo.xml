@@ -1,6 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837627187534</ID>
+        <name>Apple iPhone 16e Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 16e ricondizionato&lt;/strong&gt; – Chip A18, fotocamera Fusion da 48 MP e modem Apple C1 per l'iPhone più accessibile del 2025Scopri l'Apple iPhone 16e ricondizionato: il nuovo iPhone entry-level del 2025 che porta il potente chip A18, la fotocamera Fusion da 48 MP con zoom 2x di qualità ottica, il tasto Azione personalizzabile e il primo modem Apple C1 progettato internamente. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple Intelligence a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-16e</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16ebianco-1.jpg?v=1780491065</imageURL>
+        <categories>Apple iPhone 16</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 16e Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59695424569678</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738064142670</ID>
+        <name>Apple iPhone 13 Pro Max Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro Max ricondizionato &lt;/strong&gt;– Il massimo della tecnologia Apple a prezzo conveniente Scopri l'Apple iPhone 13 Pro Max ricondizionato: lo smartphone Apple più potente e con la batteria più longeva della gamma 13, dotato di display ProMotion da 120Hz, sistema fotografico a tripla fotocamera professionale e chip A15 Bionic. Certificato e testato, è la scelta perfetta per chi vuole il massimo dell'esperienza Apple in modo sostenibile e conveniente.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-13-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13Promaxgold-1.jpg?v=1780323612</imageURL>
+        <categories>Apple iPhone 13</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 13 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757523075406</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Azzurro Sierra</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738164347214</ID>
         <name>Apple iPhone 12 Pro Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 12 Pro ricondizionato&lt;/strong&gt;: il primo iPhone con scanner LiDAR, scocca in acciaio inossidabile e sistema a tripla fotocamera professionale con supporto ProRAW. Certificato e testato, abbina il potente chip A14 Bionic a funzionalità fotografiche avanzate e connettività 5G, il tutto disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -90,6 +136,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59287799202126</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59374990852430</ID>
                 <sku/>
                 <price>469.00</price>
@@ -98,6 +155,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Giallo</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757526253902</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -398,29 +466,6 @@
         </variants>
     </product>
     <product>
-        <ID>15837625483598</ID>
-        <name>Apple iPhone 13 Mini Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-13-mini</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 13 Mini Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59758271332686</ID>
-                <sku/>
-                <price>319.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738116637006</ID>
         <name>Apple iPhone 14 Pro Max Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display Always-On e autonomia record Scopri l'Apple iPhone 14 Pro Max ricondizionato: lo smartphone Apple più grande e autonomo della gamma 14 Pro, con Dynamic Island, display Always-On ProMotion da 6,7 pollici, fotocamera principale da 48 MP e chip A16 Bionic. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -439,17 +484,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Oro</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757525270862</ID>
-                <sku/>
-                <price>539.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero Siderale</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -544,6 +578,17 @@
         <model>Apple iPhone 14 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59757523566926</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Galassia</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287581917518</ID>
                 <sku/>
                 <price>419.00</price>
@@ -611,17 +656,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59757524353358</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Viola</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757524418894</ID>
                 <sku/>
                 <price>469.00</price>
@@ -647,13 +681,13 @@
     </product>
     <product>
         <ID>15837628137806</ID>
-        <name>Apple iPhone Air</name>
-        <description>&lt;p&gt;&lt;strong&gt;Apple iPhone Air ricondizionato&lt;/strong&gt; – Il più sottile iPhone di sempre con scocca in titanio, chip A19 Pro e display Super Retina XDR da 6,5 pollici Scopri l'Apple iPhone Air ricondizionato: il rivoluzionario iPhone dal design ultrasottile di soli 5,64 mm, il più sottile mai realizzato da Apple, con scocca in titanio, chip A19 Pro, display Super Retina XDR OLED ProMotion da 6,5 pollici e fotocamera Fusion da 48 MP. Certificato e testato, rappresenta il perfetto equilibrio tra leggerezza, prestazioni e tecnologia Apple Intelligence, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <name>Apple iPhone Air Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone Air ricondizionato&lt;/strong&gt; – Il più sottile iPhone di sempre con scocca in titanio, chip A19 Pro e display Super Retina XDR da 6,5 pollici Scopri l'Apple iPhone Air ricondizionato: il rivoluzionario iPhone dal design ultrasottile di soli 5,64 mm, il più sottile mai realizzato da Apple, con scocca in titanio, chip A19 Pro, display Super Retina XDR OLED ProMotion da 6,5 pollici e fotocamera Fusion da 48 MP. Certificato e testato, rappresenta il perfetto equilibrio tra leggerezza, prestazioni e tecnologia Apple Intelligence, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
         <productURL>https://www.riparalo.com/products/apple-iphone-air</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhoneAirblack-1.jpg?v=1780472570</imageURL>
         <categories>Apple iPhone Air</categories>
         <brand>Apple</brand>
-        <model>Apple iPhone Air</model>
+        <model>Apple iPhone Air Ricondizionato</model>
         <variants>
             <variant>
                 <ID>59695434400078</ID>
