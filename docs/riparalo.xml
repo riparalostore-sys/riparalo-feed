@@ -1,6 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837639999822</ID>
+        <name>Samsung Galaxy S24 FE Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 FE ricondizionato&lt;/strong&gt; – Galaxy AI e chip Exynos 2400 per il flagship Samsung più accessibile del 2024 Scopri il Samsung Galaxy S24 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2400, display Dynamic AMOLED 2X da 6,7 pollici, tripla fotocamera con zoom ottico 3x e Galaxy AI integrata. Certificato e testato, è la scelta intelligente per chi vuole il meglio di Samsung senza compromessi, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-fe</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS24FEblu-1.jpg?v=1792569704</imageURL>
+        <categories>Samsung Galaxy S24</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy S24 FE Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59708130001230</ID>
+                <sku/>
+                <price>518.44</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Grafite</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15874168488270</ID>
+        <name>Apple iPhone 17 Pro Max Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro Max ricondizionato &lt;/strong&gt;– Il top di gamma Apple con display da 6,9 pollici, chip A19 Pro, zoom ottico 8x e batteria record da 5.088 mAh Scopri l'Apple iPhone 17 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2025, con il rivoluzionario design unibody in alluminio forgiato, display Super Retina XDR ProMotion da 6,9 pollici, chip A19 Pro con camera di vapore integrata, sistema a tripla fotocamera Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, e la batteria più capiente mai montata su un iPhone. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17promaxargento-1.jpg?v=1789459607</imageURL>
+        <categories>Apple iPhone 17</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 17 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59956215972174</ID>
+                <sku/>
+                <price>1269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Arancione Cosmico</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15837627187534</ID>
         <name>Apple iPhone 16e Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 16e ricondizionato&lt;/strong&gt; – Chip A18, fotocamera Fusion da 48 MP e modem Apple C1 per l'iPhone più accessibile del 2025Scopri l'Apple iPhone 16e ricondizionato: il nuovo iPhone entry-level del 2025 che porta il potente chip A18, la fotocamera Fusion da 48 MP con zoom 2x di qualità ottica, il tasto Azione personalizzabile e il primo modem Apple C1 progettato internamente. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple Intelligence a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -11,38 +57,15 @@
         <model>Apple iPhone 16e Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59695424569678</ID>
+                <ID>59711196397902</ID>
                 <sku/>
-                <price>519.00</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Nero</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738064142670</ID>
-        <name>Apple iPhone 13 Pro Max Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro Max ricondizionato &lt;/strong&gt;– Il massimo della tecnologia Apple a prezzo conveniente Scopri l'Apple iPhone 13 Pro Max ricondizionato: lo smartphone Apple più potente e con la batteria più longeva della gamma 13, dotato di display ProMotion da 120Hz, sistema fotografico a tripla fotocamera professionale e chip A15 Bionic. Certificato e testato, è la scelta perfetta per chi vuole il massimo dell'esperienza Apple in modo sostenibile e conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-13-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13Promaxgold-1.jpg?v=1780323612</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 13 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757523075406</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Azzurro Sierra</color>
-                <memoria>256GB</memoria>
+                <color>Bianco</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -136,14 +159,14 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59287799202126</ID>
+                <ID>59287798612302</ID>
                 <sku/>
                 <price>569.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Verde</color>
+                <color>Rosa</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -155,17 +178,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Giallo</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757526253902</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -577,17 +589,6 @@
         <brand>Apple</brand>
         <model>Apple iPhone 14 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757523566926</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Galassia</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59287581917518</ID>
                 <sku/>
