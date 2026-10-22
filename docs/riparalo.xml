@@ -1,25 +1,91 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15837639999822</ID>
-        <name>Samsung Galaxy S24 FE Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 FE ricondizionato&lt;/strong&gt; – Galaxy AI e chip Exynos 2400 per il flagship Samsung più accessibile del 2024 Scopri il Samsung Galaxy S24 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2400, display Dynamic AMOLED 2X da 6,7 pollici, tripla fotocamera con zoom ottico 3x e Galaxy AI integrata. Certificato e testato, è la scelta intelligente per chi vuole il meglio di Samsung senza compromessi, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-fe</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS24FEblu-1.jpg?v=1792569704</imageURL>
-        <categories>Samsung Galaxy S24</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S24 FE Ricondizionato</model>
+        <ID>15738162053454</ID>
+        <name>Apple iPhone 12 Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 12 ricondizionato&lt;/strong&gt; – Il primo iPhone 5G a un prezzo ancora più accessibile Scopri l'Apple iPhone 12 ricondizionato: il primo iPhone con connettività 5G e design piatto iconico, dotato del potente chip A14 Bionic, display Super Retina XDR OLED da 6,1 pollici e supporto MagSafe. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple con uno smartphone moderno, affidabile e sostenibile a un prezzo conveniente.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-12</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12black-1.jpg?v=1780321500</imageURL>
+        <categories>Apple iPhone 12</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 12 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59708130001230</ID>
+                <ID>59288160633166</ID>
                 <sku/>
-                <price>518.44</price>
+                <price>219.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Grafite</color>
+                <color>Nero</color>
+                <memoria>64GB</memoria>
+            </variant>
+            <variant>
+                <ID>59288160928078</ID>
+                <sku/>
+                <price>219.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Bianco</color>
+                <memoria>64GB</memoria>
+            </variant>
+            <variant>
+                <ID>59288161124686</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Bianco</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59975468384590</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Rosso</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59288161321294</ID>
+                <sku/>
+                <price>219.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde</color>
+                <memoria>64GB</memoria>
+            </variant>
+            <variant>
+                <ID>59288122949966</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59764201226574</ID>
+                <sku/>
+                <price>219.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu</color>
+                <memoria>64GB</memoria>
             </variant>
         </variants>
     </product>
@@ -43,29 +109,6 @@
                 <sale>No</sale>
                 <color>Arancione Cosmico</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837627187534</ID>
-        <name>Apple iPhone 16e Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 16e ricondizionato&lt;/strong&gt; – Chip A18, fotocamera Fusion da 48 MP e modem Apple C1 per l'iPhone più accessibile del 2025Scopri l'Apple iPhone 16e ricondizionato: il nuovo iPhone entry-level del 2025 che porta il potente chip A18, la fotocamera Fusion da 48 MP con zoom 2x di qualità ottica, il tasto Azione personalizzabile e il primo modem Apple C1 progettato internamente. Certificato e testato, è la scelta ideale per chi vuole entrare nell'ecosistema Apple Intelligence a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-16e</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16ebianco-1.jpg?v=1780491065</imageURL>
-        <categories>Apple iPhone 16</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 16e Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59711196397902</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -157,17 +200,6 @@
                 <sale>No</sale>
                 <color>Rosa</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287798612302</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosa</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59374990852430</ID>
@@ -328,6 +360,17 @@
                 <sale>No</sale>
                 <color>Nero</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59358407000398</ID>
+                <sku/>
+                <price>719.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59374997569870</ID>
@@ -556,6 +599,17 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Mezzanotte</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59286914498894</ID>
                 <sku/>
                 <price>469.00</price>
@@ -590,6 +644,17 @@
         <model>Apple iPhone 14 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59757523566926</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Galassia</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287581917518</ID>
                 <sku/>
                 <price>419.00</price>
@@ -609,6 +674,50 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Viola</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59374981022030</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Giallo</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59244556517710</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Mezzanotte</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287581131086</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Mezzanotte</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>61254507430222</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>0</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -654,17 +763,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Mezzanotte</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757524418894</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Galassia</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
