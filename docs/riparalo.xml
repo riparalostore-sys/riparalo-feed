@@ -33,28 +33,6 @@
                 <memoria>64GB</memoria>
             </variant>
             <variant>
-                <ID>59288161124686</ID>
-                <sku/>
-                <price>319.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59975468384590</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosso</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59288161321294</ID>
                 <sku/>
                 <price>219.00</price>
@@ -66,17 +44,6 @@
                 <memoria>64GB</memoria>
             </variant>
             <variant>
-                <ID>59288122949966</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59764201226574</ID>
                 <sku/>
                 <price>219.00</price>
@@ -86,29 +53,6 @@
                 <sale>No</sale>
                 <color>Blu</color>
                 <memoria>64GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15874168488270</ID>
-        <name>Apple iPhone 17 Pro Max Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro Max ricondizionato &lt;/strong&gt;– Il top di gamma Apple con display da 6,9 pollici, chip A19 Pro, zoom ottico 8x e batteria record da 5.088 mAh Scopri l'Apple iPhone 17 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2025, con il rivoluzionario design unibody in alluminio forgiato, display Super Retina XDR ProMotion da 6,9 pollici, chip A19 Pro con camera di vapore integrata, sistema a tripla fotocamera Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, e la batteria più capiente mai montata su un iPhone. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17promaxargento-1.jpg?v=1789459607</imageURL>
-        <categories>Apple iPhone 17</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 17 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59956215972174</ID>
-                <sku/>
-                <price>1269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Arancione Cosmico</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -373,17 +317,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59374997569870</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59358407197006</ID>
                 <sku/>
                 <price>619.00</price>
@@ -393,6 +326,17 @@
                 <sale>No</sale>
                 <color>Rosa</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59358407295310</ID>
+                <sku/>
+                <price>719.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Rosa</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59358571888974</ID>
@@ -599,17 +543,6 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59286914531662</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59286914498894</ID>
                 <sku/>
                 <price>469.00</price>
@@ -618,17 +551,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Rosa</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>60079625273678</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosso</color>
                 <memoria>512GB</memoria>
             </variant>
         </variants>
@@ -707,17 +629,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Mezzanotte</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>61254507430222</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>0</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
