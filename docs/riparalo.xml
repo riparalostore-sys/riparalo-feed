@@ -145,17 +145,6 @@
                 <color>Rosa</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59374990852430</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Giallo</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -306,17 +295,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59358407000398</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59358407197006</ID>
                 <sku/>
                 <price>619.00</price>
@@ -359,6 +337,17 @@
                 <sale>No</sale>
                 <color>Verde Acqua</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>60324559421774</ID>
+                <sku/>
+                <price>719.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Bianco</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -461,40 +450,6 @@
                 <sale>No</sale>
                 <color>Nero Phantom / Lavanda</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738116637006</ID>
-        <name>Apple iPhone 14 Pro Max Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Pro Max ricondizionato&lt;/strong&gt; – Il top di gamma Apple con display Always-On e autonomia record Scopri l'Apple iPhone 14 Pro Max ricondizionato: lo smartphone Apple più grande e autonomo della gamma 14 Pro, con Dynamic Island, display Always-On ProMotion da 6,7 pollici, fotocamera principale da 48 MP e chip A16 Bionic. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-14-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14Promaxsilver-1.jpg?v=1780319784</imageURL>
-        <categories>Apple iPhone 14</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 14 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59287740318030</ID>
-                <sku/>
-                <price>539.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Oro</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757525303630</ID>
-                <sku/>
-                <price>539.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Viola Scuro</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
