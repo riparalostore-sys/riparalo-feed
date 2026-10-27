@@ -22,6 +22,17 @@
                 <memoria>64GB</memoria>
             </variant>
             <variant>
+                <ID>59288160731470</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59288160928078</ID>
                 <sku/>
                 <price>219.00</price>
@@ -338,17 +349,6 @@
                 <color>Verde Acqua</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>60324559421774</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -552,17 +552,6 @@
                 <sale>No</sale>
                 <color>Viola</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374981022030</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Giallo</color>
-                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59244556517710</ID>
