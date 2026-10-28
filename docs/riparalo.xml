@@ -22,17 +22,6 @@
                 <memoria>64GB</memoria>
             </variant>
             <variant>
-                <ID>59288160731470</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59288160928078</ID>
                 <sku/>
                 <price>219.00</price>
@@ -77,6 +66,17 @@
         <brand>Apple</brand>
         <model>Apple iPhone 12 Pro Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59757518192974</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Grafite</color>
+                <memoria>256GB</memoria>
+            </variant>
             <variant>
                 <ID>59757517963598</ID>
                 <sku/>
@@ -145,6 +145,28 @@
         <brand>Apple</brand>
         <model>Apple iPhone 15 Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59244515328334</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59244515426638</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero</color>
+                <memoria>256GB</memoria>
+            </variant>
             <variant>
                 <ID>59287798513998</ID>
                 <sku/>
@@ -249,6 +271,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59292152037710</ID>
+                <sku/>
+                <price>719.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Blu</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287808901454</ID>
                 <sku/>
                 <price>619.00</price>
@@ -326,17 +359,6 @@
                 <sale>No</sale>
                 <color>Rosa</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59358571888974</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu Oltremare</color>
-                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59757527171406</ID>
@@ -464,6 +486,17 @@
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59287156719950</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Grafite</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59287156818254</ID>
                 <sku/>
                 <price>519.00</price>
@@ -497,6 +530,28 @@
         <brand>Apple</brand>
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Mezzanotte</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59286914466126</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Rosa</color>
+                <memoria>256GB</memoria>
+            </variant>
             <variant>
                 <ID>59286914498894</ID>
                 <sku/>
