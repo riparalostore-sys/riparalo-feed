@@ -15,6 +15,14 @@ Ottimizzazioni per Google Shopping:
 - g:color in italiano, g:item_group_id per raggruppare le varianti dello stesso modello
 - g:custom_label_0 = fascia di prezzo, g:custom_label_1 = famiglia prodotto (per segmentare le campagne)
 - g:shipping gratuita per l'Italia
+
+ID prodotto (g:id):
+- Formato "shopify_ZZ_{ID prodotto}_{ID variante}", identico all'item_id che Shopify
+  invia a GA4 (es. shopify_ZZ_15738167361870_59997794140494).
+  Serve al remarketing dinamico di Google Ads: gli annunci mostrano il prodotto
+  visto dall'utente solo se l'ID del feed coincide con l'item_id degli eventi GA4.
+- "ZZ" e' il codice paese che Shopify usa oggi negli eventi GA4. Se in futuro
+  Shopify passa a "shopify_IT_...", cambia solo GA4_ITEM_ID_COUNTRY qui sotto.
 """
 
 import json
@@ -37,6 +45,9 @@ REQUEST_HEADERS = {
     "Accept": "application/json,text/html,*/*",
     "Accept-Language": "it-IT,it;q=0.9,en;q=0.8",
 }
+
+# Codice paese usato da Shopify nell'item_id degli eventi GA4 (vedi docstring)
+GA4_ITEM_ID_COUNTRY = "ZZ"
 
 VALID_CAPACITY_RE = re.compile(r"^\d+\s*(GB|TB)$", re.IGNORECASE)
 
@@ -287,8 +298,14 @@ def product_family(product) -> str:
     return "altro"
 
 
+def build_feed_id(product, variant) -> str:
+    """ID del feed allineato all'item_id di GA4: shopify_ZZ_{prodotto}_{variante}."""
+    return f"shopify_{GA4_ITEM_ID_COUNTRY}_{product['id']}_{variant['id']}"
+
+
 def build_item_xml(product, variant, capacity_value):
     variant_id = variant["id"]
+    feed_id = build_feed_id(product, variant)
     product_handle = product["handle"]
     refurb = is_refurbished(product)
 
@@ -329,7 +346,7 @@ def build_item_xml(product, variant, capacity_value):
 
     item = f"""
     <item>
-      <g:id>{escape(str(variant_id))}</g:id>
+      <g:id>{escape(feed_id)}</g:id>
       <g:item_group_id>{escape(str(product["id"]))}</g:item_group_id>
       <title>{escape(title)}</title>
       <description>{escape(description)}</description>
