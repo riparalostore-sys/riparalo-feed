@@ -251,29 +251,6 @@
         </variants>
     </product>
     <product>
-        <ID>15738720846158</ID>
-        <name>Samsung Galaxy S25 Ultra Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Ultra ricondizionato &lt;/strong&gt;– Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-ultra</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S25ultragrigio-1.jpg?v=1780492147</imageURL>
-        <categories>Samsung Galaxy S25</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60233514975566</ID>
-                <sku/>
-                <price>819.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Silverblue</color>
-                <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15837640622414</ID>
         <name>Samsung Galaxy S25 Edge Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Edge ricondizionato &lt;/strong&gt;– Il flagship Samsung più sottile di sempre con fotocamera da 200 MP e scocca in titanio da soli 5,8 mmScopri il Samsung Galaxy S25 Edge ricondizionato: il modello più sottile e leggero della gamma Galaxy S25, con scocca in titanio spessa appena 5,8 mm, fotocamera principale da 200 MP mutuata dal Galaxy S25 Ultra, chip Snapdragon 8 Elite e display Dynamic AMOLED 2X da 6,7 pollici. Certificato e testato, ridefinisce il concetto di smartphone premium ultrasottile senza rinunciare alle prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -397,6 +374,17 @@
         <model>Apple iPhone 12 Pro Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59757518192974</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Grafite</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757517963598</ID>
                 <sku/>
                 <price>419.00</price>
@@ -450,29 +438,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Titanio Blu</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15722871161166</ID>
-        <name>Apple iPhone 15 Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 15 ricondizionato&lt;/strong&gt; – Dynamic Island e USB-C per un'esperienza Apple moderna e conveniente Scopri l'Apple iPhone 15 ricondizionato: il primo iPhone della serie standard ad adottare il Dynamic Island e il connettore USB-C, insieme al potente chip A16 Bionic e a una fotocamera principale da 48 MP. Certificato e testato, rappresenta il punto di svolta nella gamma Apple standard, disponibile a un prezzo accessibile e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-15</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone15black-1.jpg?v=1780308414</imageURL>
-        <categories>Apple iPhone 15</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 15 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757526319438</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -804,17 +769,6 @@
         <brand>Apple</brand>
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59287156818254</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Grafite</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59287156916558</ID>
                 <sku/>
