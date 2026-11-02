@@ -311,7 +311,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25_nero-3.jpg?v=1791882200</g:image_link>
       <g:condition>refurbished</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>542.90 EUR</g:price>
+      <g:price>479.00 EUR</g:price>
       <g:brand>Samsung</g:brand>
       <g:color>Titanium Jetblack</g:color>
       <g:identifier_exists>no</g:identifier_exists>
@@ -338,7 +338,7 @@
       <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25_nero-3.jpg?v=1791882200</g:image_link>
       <g:condition>refurbished</g:condition>
       <g:availability>in_stock</g:availability>
-      <g:price>661.36 EUR</g:price>
+      <g:price>569.00 EUR</g:price>
       <g:brand>Samsung</g:brand>
       <g:color>Titanium Jetblack</g:color>
       <g:identifier_exists>no</g:identifier_exists>
@@ -352,7 +352,7 @@
         <g:country>IT</g:country>
         <g:price>0.00 EUR</g:price>
       </g:shipping>
-      <g:custom_label_0>600-799</g:custom_label_0>
+      <g:custom_label_0>400-599</g:custom_label_0>
       <g:custom_label_1>samsung</g:custom_label_1>
       <g:custom_label_2>Samsung Galaxy S25 Edge</g:custom_label_2>
     </item>
