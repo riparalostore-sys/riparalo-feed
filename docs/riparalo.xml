@@ -1,6 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837640655182</ID>
+        <name>Samsung Galaxy S25 FE Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 FE ricondizionato &lt;/strong&gt;– Galaxy AI, chip Exynos 2400 e batteria da 4.900 mAh per il flagship accessibile del 2025 Scopri il Samsung Galaxy S25 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2400, display Dynamic AMOLED 2X da 6,7 pollici, tripla fotocamera con zoom ottico 3x e Galaxy AI integrata. Certificato e testato, è la scelta intelligente per chi vuole il meglio di Samsung senza compromessi, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-fe</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25FEbluglaciale-1.jpg?v=1793780959</imageURL>
+        <categories>Samsung Galaxy S25</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy S25 FE Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60033606123854</ID>
+                <sku/>
+                <price>528.26</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Jetblack</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738720846158</ID>
         <name>Samsung Galaxy S25 Ultra Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Ultra ricondizionato &lt;/strong&gt;– Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -65,17 +88,6 @@
                 <color>Titanium Silverblue</color>
                 <memoria>256GB</memoria>
             </variant>
-            <variant>
-                <ID>61449742582094</ID>
-                <sku/>
-                <price>919.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Silverblue</color>
-                <memoria>1TB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -131,17 +143,6 @@
                 <sale>No</sale>
                 <color>Giallo Ambra</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759888302414</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Viola Cobalto</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>61516895322446</ID>
@@ -303,17 +304,6 @@
         <model>Apple iPhone 17 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59695432925518</ID>
-                <sku/>
-                <price>1019.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Arancione Cosmico</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>60364289016142</ID>
                 <sku/>
                 <price>1019.00</price>
@@ -383,17 +373,6 @@
         <model>Samsung Galaxy S25 Edge Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59708110373198</ID>
-                <sku/>
-                <price>479.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanium Jetblack</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59708110405966</ID>
                 <sku/>
                 <price>569.00</price>
@@ -416,17 +395,6 @@
         <brand>Samsung</brand>
         <model>Samsung Galaxy S22 Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59759882436942</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero Phantom</color>
-                <memoria>128GB</memoria>
-            </variant>
             <variant>
                 <ID>59759882404174</ID>
                 <sku/>
@@ -914,17 +882,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59286914531662</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59286914564430</ID>
                 <sku/>
                 <price>419.00</price>
@@ -1014,17 +971,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59757523403086</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287581917518</ID>
                 <sku/>
                 <price>419.00</price>
@@ -1112,6 +1058,29 @@
                 <sale>No</sale>
                 <color>Rosso</color>
                 <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837641736526</ID>
+        <name>Samsung Galaxy Z Fold 4 Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Fold4 5G ricondizionato&lt;/strong&gt; – Il pieghevole Samsung con display interno da 7,6 pollici, chip Snapdragon 8+ Gen 1 e fotocamera sotto il display Scopri il Samsung Galaxy Z Fold4 5G ricondizionato: lo smartphone pieghevole di fascia alta Samsung del 2022 con display interno Dynamic AMOLED 2X da 7,6 pollici, chip Snapdragon 8+ Gen 1, fotocamera frontale interna sotto il display e sistema a tripla fotocamera posteriore con sensore principale da 50 MP. Certificato e testato, offre un'esperienza multitasking avanzata in un design pieghevole raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-fold-4</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFold4beige-1.jpg?v=1780494219</imageURL>
+        <categories>Samsung Galaxy Z Fold 4</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy Z Fold 4 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59695571173710</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Beige</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
