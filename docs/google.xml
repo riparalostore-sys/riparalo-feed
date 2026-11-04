@@ -6,6 +6,33 @@
     <description>Feed prodotti ricondizionati per Google Merchant Center</description>
     
     <item>
+      <g:id>shopify_ZZ_15837640655182_60033606123854</g:id>
+      <g:item_group_id>15837640655182</g:item_group_id>
+      <title>Samsung Galaxy S25 FE 256GB Ricondizionato Premium Jetblack - Batteria Nuova</title>
+      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Samsung Galaxy S25 FE ricondizionato – Galaxy AI, chip Exynos 2400 e batteria da 4.900 mAh per il flagship accessibile del 2025 Scopri il Samsung Galaxy S25 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2400, display Dynamic AMOLED 2X da 6,7 pollici, tripla fotocamera con zoom ottico 3x e Galaxy AI integrata. Certificato e testato, è la scelta intelligente per chi vuole il meglio di Samsung senza compromessi, disponibile a un prezzo conveniente e in ottica sostenibile.</description>
+      <link>https://www.riparalo.com/products/samsung-galaxy-s25-fe?variant=60033606123854</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25FEnero-1.jpg?v=1793780996</g:image_link>
+      <g:condition>refurbished</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>528.26 EUR</g:price>
+      <g:brand>Samsung</g:brand>
+      <g:color>Jetblack</g:color>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>267</g:google_product_category>
+      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
+      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
+      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
+      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
+      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
+      <g:shipping>
+        <g:country>IT</g:country>
+        <g:price>0.00 EUR</g:price>
+      </g:shipping>
+      <g:custom_label_0>400-599</g:custom_label_0>
+      <g:custom_label_1>samsung</g:custom_label_1>
+      <g:custom_label_2>Samsung Galaxy S25 FE</g:custom_label_2>
+    </item>
+    <item>
       <g:id>shopify_ZZ_15738720846158_59757543883086</g:id>
       <g:item_group_id>15738720846158</g:item_group_id>
       <title>Samsung Galaxy S25 Ultra 256GB Ricondizionato Premium Titanio Grigio - Batteria Nuova</title>
@@ -141,33 +168,6 @@
       <g:custom_label_2>Samsung Galaxy S25 Ultra</g:custom_label_2>
     </item>
     <item>
-      <g:id>shopify_ZZ_15738720846158_61449742582094</g:id>
-      <g:item_group_id>15738720846158</g:item_group_id>
-      <title>Samsung Galaxy S25 Ultra 1TB Ricondizionato Premium Titanium Silverblue - Batteria Nuova</title>
-      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Samsung Galaxy S25 Ultra ricondizionato – Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.</description>
-      <link>https://www.riparalo.com/products/samsung-galaxy-s25-ultra?variant=61449742582094</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S25ultrablu-1.jpg?v=1780492248</g:image_link>
-      <g:condition>refurbished</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>919.00 EUR</g:price>
-      <g:brand>Samsung</g:brand>
-      <g:color>Titanium Silverblue</g:color>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>267</g:google_product_category>
-      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
-      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
-      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
-      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
-      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
-      <g:shipping>
-        <g:country>IT</g:country>
-        <g:price>0.00 EUR</g:price>
-      </g:shipping>
-      <g:custom_label_0>800-999</g:custom_label_0>
-      <g:custom_label_1>samsung</g:custom_label_1>
-      <g:custom_label_2>Samsung Galaxy S25 Ultra</g:custom_label_2>
-    </item>
-    <item>
       <g:id>shopify_ZZ_15851056431438_59759888826702</g:id>
       <g:item_group_id>15851056431438</g:item_group_id>
       <title>Samsung Galaxy S24 256GB Ricondizionato Premium Nero Onice - Batteria Nuova</title>
@@ -260,33 +260,6 @@
       <g:price>419.00 EUR</g:price>
       <g:brand>Samsung</g:brand>
       <g:color>Giallo Ambra</g:color>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>267</g:google_product_category>
-      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
-      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
-      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
-      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
-      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
-      <g:shipping>
-        <g:country>IT</g:country>
-        <g:price>0.00 EUR</g:price>
-      </g:shipping>
-      <g:custom_label_0>400-599</g:custom_label_0>
-      <g:custom_label_1>samsung</g:custom_label_1>
-      <g:custom_label_2>Samsung Galaxy S24</g:custom_label_2>
-    </item>
-    <item>
-      <g:id>shopify_ZZ_15851056431438_59759888302414</g:id>
-      <g:item_group_id>15851056431438</g:item_group_id>
-      <title>Samsung Galaxy S24 256GB Ricondizionato Premium Viola Cobalto - Batteria Nuova</title>
-      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Samsung Galaxy S24 ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024. Samsung Galaxy S24 ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024 Scopri il Samsung Galaxy S24 ricondizionato: lo smartphone Android di punta del 2024 in formato compatto, con il potente chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata per funzionalità di intelligenza artificiale avanzate e display Dynamic AMOLED 2X da 6,2 pollici con luminosità fino a 2600 nit. Certificato e testato, offre prestazioni flagship in un design tascabile e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.</description>
-      <link>https://www.riparalo.com/products/samsung-galaxy-s24?variant=59759888302414</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24cobaltviolet-1.jpg?v=1780067511</g:image_link>
-      <g:condition>refurbished</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>469.00 EUR</g:price>
-      <g:brand>Samsung</g:brand>
-      <g:color>Viola Cobalto</g:color>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>267</g:google_product_category>
       <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
@@ -546,33 +519,6 @@
       <g:custom_label_2>Apple iPhone 17 Pro Max</g:custom_label_2>
     </item>
     <item>
-      <g:id>shopify_ZZ_15837627679054_59695432925518</g:id>
-      <g:item_group_id>15837627679054</g:item_group_id>
-      <title>Apple iPhone 17 Pro 256GB Ricondizionato Premium Arancione Cosmico - Batteria Nuova</title>
-      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Apple iPhone 17 Pro ricondizionato – Design unibody in alluminio, sistema di fotocamere Pro Fusion da 48 MP con zoom ottico 8x e chip A19 Pro Scopri l'Apple iPhone 17 Pro ricondizionato: il flagship Apple Pro del 2025 con rivoluzionario design unibody in alluminio forgiato, sistema di quattro fotocamere Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, chip A19 Pro e display Super Retina XDR ProMotion da 6,3 pollici. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.</description>
-      <link>https://www.riparalo.com/products/apple-iphone-17-pro?variant=59695432925518</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17Proarancione-2.jpg?v=1780481397</g:image_link>
-      <g:condition>refurbished</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>1019.00 EUR</g:price>
-      <g:brand>Apple</g:brand>
-      <g:color>Arancione Cosmico</g:color>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>267</g:google_product_category>
-      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
-      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
-      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
-      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
-      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
-      <g:shipping>
-        <g:country>IT</g:country>
-        <g:price>0.00 EUR</g:price>
-      </g:shipping>
-      <g:custom_label_0>1000-plus</g:custom_label_0>
-      <g:custom_label_1>iphone-pro</g:custom_label_1>
-      <g:custom_label_2>Apple iPhone 17 Pro</g:custom_label_2>
-    </item>
-    <item>
       <g:id>shopify_ZZ_15837627679054_60364289016142</g:id>
       <g:item_group_id>15837627679054</g:item_group_id>
       <title>Apple iPhone 17 Pro 256GB Ricondizionato Premium Blu Intenso - Batteria Nuova</title>
@@ -654,33 +600,6 @@
       <g:custom_label_2>Apple iPhone 13 Mini</g:custom_label_2>
     </item>
     <item>
-      <g:id>shopify_ZZ_15837640622414_59708110373198</g:id>
-      <g:item_group_id>15837640622414</g:item_group_id>
-      <title>Samsung Galaxy S25 Edge 256GB Ricondizionato Premium Titanium Jetblack - Batteria Nuova</title>
-      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Samsung Galaxy S25 Edge ricondizionato – Il flagship Samsung più sottile di sempre con fotocamera da 200 MP e scocca in titanio da soli 5,8 mmScopri il Samsung Galaxy S25 Edge ricondizionato: il modello più sottile e leggero della gamma Galaxy S25, con scocca in titanio spessa appena 5,8 mm, fotocamera principale da 200 MP mutuata dal Galaxy S25 Ultra, chip Snapdragon 8 Elite e display Dynamic AMOLED 2X da 6,7 pollici. Certificato e testato, ridefinisce il concetto di smartphone premium ultrasottile senza rinunciare alle prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.</description>
-      <link>https://www.riparalo.com/products/samsung-galaxy-s25-edge?variant=59708110373198</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25_nero-3.jpg?v=1791882200</g:image_link>
-      <g:condition>refurbished</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>479.00 EUR</g:price>
-      <g:brand>Samsung</g:brand>
-      <g:color>Titanium Jetblack</g:color>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>267</g:google_product_category>
-      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
-      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
-      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
-      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
-      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
-      <g:shipping>
-        <g:country>IT</g:country>
-        <g:price>0.00 EUR</g:price>
-      </g:shipping>
-      <g:custom_label_0>400-599</g:custom_label_0>
-      <g:custom_label_1>samsung</g:custom_label_1>
-      <g:custom_label_2>Samsung Galaxy S25 Edge</g:custom_label_2>
-    </item>
-    <item>
       <g:id>shopify_ZZ_15837640622414_59708110405966</g:id>
       <g:item_group_id>15837640622414</g:item_group_id>
       <title>Samsung Galaxy S25 Edge 512GB Ricondizionato Premium Titanium Jetblack - Batteria Nuova</title>
@@ -706,33 +625,6 @@
       <g:custom_label_0>400-599</g:custom_label_0>
       <g:custom_label_1>samsung</g:custom_label_1>
       <g:custom_label_2>Samsung Galaxy S25 Edge</g:custom_label_2>
-    </item>
-    <item>
-      <g:id>shopify_ZZ_15851055841614_59759882436942</g:id>
-      <g:item_group_id>15851055841614</g:item_group_id>
-      <title>Samsung Galaxy S22 128GB Ricondizionato Premium Nero Phantom - Batteria Nuova</title>
-      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Samsung Galaxy S22 ricondizionato – Display Dynamic AMOLED 2X da 6,1 pollici, chip Exynos 2200 e tripla fotocamera da 50 MP per il flagship compatto del 2022Scopri il Samsung Galaxy S22 ricondizionato: lo smartphone Android di punta del 2022 in formato compatto, con il chip Exynos 2200 realizzato a 4 nanometri con GPU AMD, display Dynamic AMOLED 2X da 6,1 pollici con frequenza di aggiornamento adattiva a 120Hz e tripla fotocamera con sensore principale da 50 MP. Certificato e testato, offre prestazioni flagship in un design tascabile e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.</description>
-      <link>https://www.riparalo.com/products/samsung-galaxy-s22?variant=59759882436942</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamungGalaxyS22nero-3.jpg?v=1783334126</g:image_link>
-      <g:condition>refurbished</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>269.00 EUR</g:price>
-      <g:brand>Samsung</g:brand>
-      <g:color>Nero Phantom</g:color>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>267</g:google_product_category>
-      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
-      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
-      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
-      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
-      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
-      <g:shipping>
-        <g:country>IT</g:country>
-        <g:price>0.00 EUR</g:price>
-      </g:shipping>
-      <g:custom_label_0>fino-400</g:custom_label_0>
-      <g:custom_label_1>samsung</g:custom_label_1>
-      <g:custom_label_2>Samsung Galaxy S22</g:custom_label_2>
     </item>
     <item>
       <g:id>shopify_ZZ_15851055841614_59759882404174</g:id>
@@ -1599,33 +1491,6 @@
       <g:custom_label_2>Apple iPhone 13</g:custom_label_2>
     </item>
     <item>
-      <g:id>shopify_ZZ_15729133453646_59286914531662</g:id>
-      <g:item_group_id>15729133453646</g:item_group_id>
-      <title>Apple iPhone 13 128GB Ricondizionato Premium Mezzanotte - Batteria Nuova</title>
-      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Apple iPhone 13 ricondizionato – Prestazioni top a prezzo accessibile Scopri l'Apple iPhone 13 ricondizionato: un dispositivo certificato e testato, perfetto per chi vuole uno smartphone Apple di fascia alta a un prezzo conveniente. Con il potente chip A15 Bionic, un display Super Retina XDR da 6,1 pollici e un sistema fotografico avanzato, l'iPhone 13 ricondizionato garantisce un'esperienza d'uso fluida, affidabile e sostenibile.</description>
-      <link>https://www.riparalo.com/products/apple-iphone-13?variant=59286914531662</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13midnight-1.jpg?v=1780316112</g:image_link>
-      <g:condition>refurbished</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>369.00 EUR</g:price>
-      <g:brand>Apple</g:brand>
-      <g:color>Mezzanotte</g:color>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>267</g:google_product_category>
-      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
-      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
-      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
-      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
-      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
-      <g:shipping>
-        <g:country>IT</g:country>
-        <g:price>0.00 EUR</g:price>
-      </g:shipping>
-      <g:custom_label_0>fino-400</g:custom_label_0>
-      <g:custom_label_1>iphone</g:custom_label_1>
-      <g:custom_label_2>Apple iPhone 13</g:custom_label_2>
-    </item>
-    <item>
       <g:id>shopify_ZZ_15729133453646_59286914564430</g:id>
       <g:item_group_id>15729133453646</g:item_group_id>
       <title>Apple iPhone 13 256GB Ricondizionato Premium Mezzanotte - Batteria Nuova</title>
@@ -1799,33 +1664,6 @@
       <g:price>469.00 EUR</g:price>
       <g:brand>Apple</g:brand>
       <g:color>Galassia</g:color>
-      <g:identifier_exists>no</g:identifier_exists>
-      <g:google_product_category>267</g:google_product_category>
-      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
-      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
-      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
-      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
-      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
-      <g:shipping>
-        <g:country>IT</g:country>
-        <g:price>0.00 EUR</g:price>
-      </g:shipping>
-      <g:custom_label_0>400-599</g:custom_label_0>
-      <g:custom_label_1>iphone</g:custom_label_1>
-      <g:custom_label_2>Apple iPhone 14</g:custom_label_2>
-    </item>
-    <item>
-      <g:id>shopify_ZZ_15729132175694_59757523403086</g:id>
-      <g:item_group_id>15729132175694</g:item_group_id>
-      <title>Apple iPhone 14 128GB Ricondizionato Premium Blu - Batteria Nuova</title>
-      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Scopri l'Apple iPhone 14 ricondizionato: uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A15 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.</description>
-      <link>https://www.riparalo.com/products/apple-iphone-14?variant=59757523403086</link>
-      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14blu-1.jpg?v=1780309323</g:image_link>
-      <g:condition>refurbished</g:condition>
-      <g:availability>in_stock</g:availability>
-      <g:price>419.00 EUR</g:price>
-      <g:brand>Apple</g:brand>
-      <g:color>Blu</g:color>
       <g:identifier_exists>no</g:identifier_exists>
       <g:google_product_category>267</g:google_product_category>
       <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
@@ -2029,6 +1867,33 @@
       <g:custom_label_0>400-599</g:custom_label_0>
       <g:custom_label_1>iphone-plus</g:custom_label_1>
       <g:custom_label_2>Apple iPhone 14 Plus</g:custom_label_2>
+    </item>
+    <item>
+      <g:id>shopify_ZZ_15837641736526_59695571173710</g:id>
+      <g:item_group_id>15837641736526</g:item_group_id>
+      <title>Samsung Galaxy Z Fold 4 256GB Ricondizionato Premium Beige - Batteria Nuova</title>
+      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Samsung Galaxy Z Fold4 5G ricondizionato – Il pieghevole Samsung con display interno da 7,6 pollici, chip Snapdragon 8+ Gen 1 e fotocamera sotto il display Scopri il Samsung Galaxy Z Fold4 5G ricondizionato: lo smartphone pieghevole di fascia alta Samsung del 2022 con display interno Dynamic AMOLED 2X da 7,6 pollici, chip Snapdragon 8+ Gen 1, fotocamera frontale interna sotto il display e sistema a tripla fotocamera posteriore con sensore principale da 50 MP. Certificato e testato, offre un'esperienza multitasking avanzata in un design pieghevole raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.</description>
+      <link>https://www.riparalo.com/products/samsung-galaxy-z-fold-4?variant=59695571173710</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFold4beige-1.jpg?v=1780494219</g:image_link>
+      <g:condition>refurbished</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>569.00 EUR</g:price>
+      <g:brand>Samsung</g:brand>
+      <g:color>Beige</g:color>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>267</g:google_product_category>
+      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
+      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
+      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
+      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
+      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
+      <g:shipping>
+        <g:country>IT</g:country>
+        <g:price>0.00 EUR</g:price>
+      </g:shipping>
+      <g:custom_label_0>400-599</g:custom_label_0>
+      <g:custom_label_1>samsung-fold</g:custom_label_1>
+      <g:custom_label_2>Samsung Galaxy Z Fold 4</g:custom_label_2>
     </item>
     <item>
       <g:id>shopify_ZZ_15837628137806_59695434400078</g:id>
