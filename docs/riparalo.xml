@@ -1,6 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837639180622</ID>
+        <name>Samsung Galaxy S23 FE Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S23 FE ricondizionato&lt;/strong&gt; – Tripla fotocamera da 50 MP e batteria da 4.500 mAh per il flagship Samsung più accessibile del 2023 Scopri il Samsung Galaxy S23 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2200, display Dynamic AMOLED 2X da 6,4 pollici, tripla fotocamera con zoom ottico 3x e tutte le funzionalità Galaxy AI. Certificato e testato, è la scelta ideale per chi vuole il meglio di Samsung senza rinunciare alla qualità, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s23-fe</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS23FEverde-1.jpg?v=1793894123</imageURL>
+        <categories>Samsung Galaxy S23</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy S23 FE Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59709033972046</ID>
+                <sku/>
+                <price>395.28</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Grafite</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738720846158</ID>
         <name>Samsung Galaxy S25 Ultra Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Ultra ricondizionato &lt;/strong&gt;– Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
