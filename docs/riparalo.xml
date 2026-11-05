@@ -1,29 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15837640655182</ID>
-        <name>Samsung Galaxy S25 FE Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 FE ricondizionato &lt;/strong&gt;– Galaxy AI, chip Exynos 2400 e batteria da 4.900 mAh per il flagship accessibile del 2025 Scopri il Samsung Galaxy S25 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2400, display Dynamic AMOLED 2X da 6,7 pollici, tripla fotocamera con zoom ottico 3x e Galaxy AI integrata. Certificato e testato, è la scelta intelligente per chi vuole il meglio di Samsung senza compromessi, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-fe</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25FEbluglaciale-1.jpg?v=1793780959</imageURL>
-        <categories>Samsung Galaxy S25</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S25 FE Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60033606123854</ID>
-                <sku/>
-                <price>559.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Jetblack</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15738720846158</ID>
         <name>Samsung Galaxy S25 Ultra Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Ultra ricondizionato &lt;/strong&gt;– Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -54,6 +31,17 @@
                 <sale>No</sale>
                 <color>Titanio Grigio</color>
                 <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757543850318</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Nero</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59757543784782</ID>
@@ -91,73 +79,6 @@
         </variants>
     </product>
     <product>
-        <ID>15851056431438</ID>
-        <name>Samsung Galaxy S24 Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 ricondizionato&lt;/strong&gt; – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024. Samsung Galaxy S24 ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship compatto del 2024 Scopri il Samsung Galaxy S24 ricondizionato: lo smartphone Android di punta del 2024 in formato compatto, con il potente chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata per funzionalità di intelligenza artificiale avanzate e display Dynamic AMOLED 2X da 6,2 pollici con luminosità fino a 2600 nit. Certificato e testato, offre prestazioni flagship in un design tascabile e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24black-1.jpg?v=1780067338</imageURL>
-        <categories>Samsung Galaxy S24</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S24 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59759888826702</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero Onice</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759888695630</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero Onice</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759888367950</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Marble Gray</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759888531790</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Giallo Ambra</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>61516895322446</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Jade Green</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15824536371534</ID>
         <name>Samsung Galaxy S23 Ultra Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S23 Ultra ricondizionato &lt;/strong&gt;– S Pen integrata, fotocamera da 200 MP e chip Snapdragon 8 Gen 2 per il flagship definitivo del 2023 Samsung Galaxy S23 Ultra ricondizionato – S Pen integrata, fotocamera da 200 MP e chip Snapdragon 8 Gen 2 per il flagship definitivo del 2023 Scopri il Samsung Galaxy S23 Ultra ricondizionato: il top di gamma Samsung del 2023 con S Pen integrata, fotocamera principale da 200 MP, chip Snapdragon 8 Gen 2 ottimizzato per Samsung e display Dynamic AMOLED 2X da 6,8 pollici. Certificato e testato, offre il massimo in termini di produttività, fotografia e prestazioni, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -177,29 +98,6 @@
                 <sale>No</sale>
                 <color>Verde</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15851056267598</ID>
-        <name>Samsung Galaxy S23 Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S23 ricondizionato &lt;/strong&gt;– Prestazioni flagship con chip Snapdragon 8 Gen 2 e fotocamera da 50 MPSamsung Galaxy S23 ricondizionato – Prestazioni flagship con chip Snapdragon 8 Gen 2 e fotocamera da 50 MP Scopri il Samsung Galaxy S23 ricondizionato: lo smartphone Android di punta del 2023 con il potente chip Snapdragon 8 Gen 2 ottimizzato per Samsung, display Dynamic AMOLED 2X da 6,1 pollici e sistema fotografico avanzato con fotocamera principale da 50 MP. Certificato e testato, offre prestazioni eccellenti in un form factor compatto e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s23</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S23green-1.jpg?v=1780320213</imageURL>
-        <categories>Samsung Galaxy S23</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S23 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59759887548750</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero Phantom</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -294,52 +192,6 @@
         </variants>
     </product>
     <product>
-        <ID>15837627679054</ID>
-        <name>Apple iPhone 17 Pro Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro ricondizionato&lt;/strong&gt; – Design unibody in alluminio, sistema di fotocamere Pro Fusion da 48 MP con zoom ottico 8x e chip A19 Pro Scopri l'Apple iPhone 17 Pro ricondizionato: il flagship Apple Pro del 2025 con rivoluzionario design unibody in alluminio forgiato, sistema di quattro fotocamere Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, chip A19 Pro e display Super Retina XDR ProMotion da 6,3 pollici. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17Proarancione-2.jpg?v=1780481397</imageURL>
-        <categories>Apple iPhone 17</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 17 Pro Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60364289016142</ID>
-                <sku/>
-                <price>1019.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu Intenso</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738064142670</ID>
-        <name>Apple iPhone 13 Pro Max Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 13 Pro Max ricondizionato &lt;/strong&gt;– Il massimo della tecnologia Apple a prezzo conveniente Scopri l'Apple iPhone 13 Pro Max ricondizionato: lo smartphone Apple più potente e con la batteria più longeva della gamma 13, dotato di display ProMotion da 120Hz, sistema fotografico a tripla fotocamera professionale e chip A15 Bionic. Certificato e testato, è la scelta perfetta per chi vuole il massimo dell'esperienza Apple in modo sostenibile e conveniente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-13-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13Promaxgold-1.jpg?v=1780323612</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 13 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757523009870</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Azzurro Sierra</color>
-                <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15837625483598</ID>
         <name>Apple iPhone 13 Mini Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -396,6 +248,28 @@
         <model>Samsung Galaxy S22 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59759882076494</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Bora Purple</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59759882469710</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59759882404174</ID>
                 <sku/>
                 <price>269.00</price>
@@ -405,6 +279,17 @@
                 <sale>No</sale>
                 <color>Pink Gold</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59759882371406</ID>
+                <sku/>
+                <price>319.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Phantom White</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -574,17 +459,6 @@
                 <sale>No</sale>
                 <color>Titanio Naturale</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59695428731214</ID>
-                <sku/>
-                <price>869.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanio Naturale</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59595804737870</ID>
@@ -826,28 +700,6 @@
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59287156916558</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Grafite</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757522452814</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Azzurro Sierra</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757522485582</ID>
                 <sku/>
                 <price>569.00</price>
@@ -1038,17 +890,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59757524189518</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>60315883503950</ID>
                 <sku/>
                 <price>469.00</price>
@@ -1058,29 +899,6 @@
                 <sale>No</sale>
                 <color>Rosso</color>
                 <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837641736526</ID>
-        <name>Samsung Galaxy Z Fold 4 Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Fold4 5G ricondizionato&lt;/strong&gt; – Il pieghevole Samsung con display interno da 7,6 pollici, chip Snapdragon 8+ Gen 1 e fotocamera sotto il display Scopri il Samsung Galaxy Z Fold4 5G ricondizionato: lo smartphone pieghevole di fascia alta Samsung del 2022 con display interno Dynamic AMOLED 2X da 7,6 pollici, chip Snapdragon 8+ Gen 1, fotocamera frontale interna sotto il display e sistema a tripla fotocamera posteriore con sensore principale da 50 MP. Certificato e testato, offre un'esperienza multitasking avanzata in un design pieghevole raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-fold-4</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFold4beige-1.jpg?v=1780494219</imageURL>
-        <categories>Samsung Galaxy Z Fold 4</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy Z Fold 4 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59695571173710</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Beige</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
