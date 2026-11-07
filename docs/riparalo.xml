@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>16234513498446</ID>
-        <name>Apple MacBook Pro 16" M3 Pro Apple M3 Pro 12-core CPU 18-core GPU Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p dir="ltr"&gt;&lt;strong&gt;Apple MacBook Pro 16" M3 Pro ricondizionato – Potenza professionale, display XDR e autonomia fino a 22 ore. &lt;/strong&gt;Scopri l’Apple MacBook Pro 16" M3 Pro ricondizionato: un notebook professionale certificato e testato, pensato per chi lavora con video, grafica, sviluppo e progetti complessi senza rinunciare alla portabilità. Il chip Apple M3 Pro con CPU 12-core e GPU 18-core, lo splendido display Liquid Retina XDR da 16,2 pollici con ProMotion e un’autonomia fino a 22 ore lo rendono una delle workstation portatili più complete di sempre. Prestazioni di fascia alta a un prezzo più accessibile, con una scelta più sostenibile per l’ambiente.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/applemacbook-pro-16-m3-pro-apple-m3-pro-12-core-cpu-18-core-gpu</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/MacBookPro16spaceblack-1.jpg?v=1793954495</imageURL>
-        <categories>MacBook</categories>
-        <brand>Riparalo Store</brand>
-        <model>Apple MacBook Pro 16" M3 Pro Apple M3 Pro 12-core CPU 18-core GPU Ricondizionato</model>
+        <ID>15850597122382</ID>
+        <name>Samsung Galaxy S26 Ultra Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S26 Ultra ricondizionato&lt;/strong&gt; – Privacy Display integrato, fotocamera da 200 MP con apertura ƒ/1.4 e chip Snapdragon 8 Elite Gen 5 per il flagship definitivo del 2026Scopri il Samsung Galaxy S26 Ultra ricondizionato: il top di gamma Samsung del 2026 con il rivoluzionario Privacy Display integrato, primo nel mondo mobile, fotocamera principale da 200 MP con apertura ƒ/1.4 per il 47% di luce in più rispetto alla generazione precedente, chip Snapdragon 8 Elite Gen 5 e S Pen integrata. Certificato e testato, ridefinisce lo standard dei flagship Android con funzionalità esclusive e Galaxy AI di nuova generazione, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s26-ultra</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S26Ultra_nero-1.jpg?v=1793277735</imageURL>
+        <categories>Samsung Galaxy S26</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy S26 Ultra Ricondizionato</model>
         <variants>
             <variant>
-                <ID>61566008164686</ID>
+                <ID>61577445474638</ID>
                 <sku/>
-                <price>1829.00</price>
+                <price>1043.10</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Nero Siderale</color>
-                <memoria>512GB</memoria>
+                <color>Bianco</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -89,61 +89,6 @@
                 <color>Nero</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59244515426638</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287798513998</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosa</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59287798612302</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosa</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757526253902</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757526319438</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>256GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -179,17 +124,6 @@
         <brand>Samsung</brand>
         <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757543883086</ID>
-                <sku/>
-                <price>769.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanio Grigio</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59757543653710</ID>
                 <sku/>
@@ -236,17 +170,6 @@
         <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757538836814</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanio Nero</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757538476366</ID>
                 <sku/>
                 <price>669.00</price>
@@ -281,17 +204,6 @@
         <model>Apple iPhone 17 Pro Max Ricondizionato</model>
         <variants>
             <variant>
-                <ID>60151663034702</ID>
-                <sku/>
-                <price>1269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Argento</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59871502664014</ID>
                 <sku/>
                 <price>1269.00</price>
@@ -312,29 +224,6 @@
                 <sale>No</sale>
                 <color>Arancione Cosmico</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837625483598</ID>
-        <name>Apple iPhone 13 Mini Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 13 mini ricondizionato &lt;/strong&gt;– Il più piccolo iPhone con chip A15 Bionic e sistema a doppia fotocamera con modalità Notte Scopri l'Apple iPhone 13 mini ricondizionato: il più compatto e leggero iPhone della gamma 2021, con display Super Retina XDR OLED da 5,4 pollici, chip A15 Bionic, sistema a doppia fotocamera con modalità Notte e connettività 5G. Certificato e testato, è la scelta ideale per chi cerca un iPhone moderno, potente e tascabile in un formato unico sul mercato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-13-mini</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone13miniwhite-1.jpg?v=1780484168</imageURL>
-        <categories>Apple iPhone 13</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 13 Mini Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59758271267150</ID>
-                <sku/>
-                <price>319.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosa</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -369,6 +258,17 @@
                 <sale>No</sale>
                 <color>Verde</color>
                 <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59759882502478</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde</color>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59759882404174</ID>
@@ -598,17 +498,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59292152070478</ID>
-                <sku/>
-                <price>819.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanio Blu</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287808901454</ID>
                 <sku/>
                 <price>619.00</price>
@@ -643,28 +532,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59358407000398</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374997569870</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59358407197006</ID>
                 <sku/>
                 <price>619.00</price>
@@ -673,6 +540,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Rosa</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59358571888974</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu Oltremare</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -801,28 +679,6 @@
         <model>Apple iPhone 13 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59287156916558</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Grafite</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757522551118</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde Alpino</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757522485582</ID>
                 <sku/>
                 <price>569.00</price>
@@ -846,48 +702,15 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59286914531662</ID>
+                <ID>59956202209614</ID>
                 <sku/>
                 <price>369.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Mezzanotte</color>
+                <color>Rosso</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914564430</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914466126</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosa</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914498894</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosa</color>
-                <memoria>512GB</memoria>
             </variant>
             <variant>
                 <ID>59871482675534</ID>
@@ -922,17 +745,6 @@
                 <sale>No</sale>
                 <color>Galassia</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757523337550</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Galassia</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59757523403086</ID>
