@@ -1,29 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
-        <ID>15850597122382</ID>
-        <name>Samsung Galaxy S26 Ultra Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S26 Ultra ricondizionato&lt;/strong&gt; – Privacy Display integrato, fotocamera da 200 MP con apertura ƒ/1.4 e chip Snapdragon 8 Elite Gen 5 per il flagship definitivo del 2026Scopri il Samsung Galaxy S26 Ultra ricondizionato: il top di gamma Samsung del 2026 con il rivoluzionario Privacy Display integrato, primo nel mondo mobile, fotocamera principale da 200 MP con apertura ƒ/1.4 per il 47% di luce in più rispetto alla generazione precedente, chip Snapdragon 8 Elite Gen 5 e S Pen integrata. Certificato e testato, ridefinisce lo standard dei flagship Android con funzionalità esclusive e Galaxy AI di nuova generazione, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s26-ultra</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S26Ultra_nero-1.jpg?v=1793277735</imageURL>
-        <categories>Samsung Galaxy S26</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S26 Ultra Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>61577445474638</ID>
-                <sku/>
-                <price>1043.10</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15837626696014</ID>
         <name>Apple iPhone 15 Plus Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Plus ricondizionato&lt;/strong&gt; – Dynamic Island, USB-C e display da 6,7 pollici con autonomia record nella gamma iPhone 15 standard Scopri l'Apple iPhone 15 Plus ricondizionato: il modello dal grande formato della gamma iPhone 15, il primo della serie standard ad adottare Dynamic Island e connettore USB-C, con display Super Retina XDR OLED da 6,7 pollici, chip A16 Bionic e fotocamera principale da 48 MP. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -89,27 +66,15 @@
                 <color>Nero</color>
                 <memoria>128GB</memoria>
             </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837639180622</ID>
-        <name>Samsung Galaxy S23 FE Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S23 FE ricondizionato&lt;/strong&gt; – Tripla fotocamera da 50 MP e batteria da 4.500 mAh per il flagship Samsung più accessibile del 2023 Scopri il Samsung Galaxy S23 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2200, display Dynamic AMOLED 2X da 6,4 pollici, tripla fotocamera con zoom ottico 3x e tutte le funzionalità Galaxy AI. Certificato e testato, è la scelta ideale per chi vuole il meglio di Samsung senza rinunciare alla qualità, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s23-fe</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS23FEverde-1.jpg?v=1793894123</imageURL>
-        <categories>Samsung Galaxy S23</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S23 FE Ricondizionato</model>
-        <variants>
             <variant>
-                <ID>59709033972046</ID>
+                <ID>59287798513998</ID>
                 <sku/>
-                <price>239.00</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Grafite</color>
+                <color>Rosa</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -124,17 +89,6 @@
         <brand>Samsung</brand>
         <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59757543653710</ID>
-                <sku/>
-                <price>819.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanio Grigio</color>
-                <memoria>512GB</memoria>
-            </variant>
             <variant>
                 <ID>59757543784782</ID>
                 <sku/>
@@ -170,17 +124,6 @@
         <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757538476366</ID>
-                <sku/>
-                <price>669.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanio Blu</color>
-                <memoria>512GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757538378062</ID>
                 <sku/>
                 <price>619.00</price>
@@ -203,17 +146,6 @@
         <brand>Apple</brand>
         <model>Apple iPhone 17 Pro Max Ricondizionato</model>
         <variants>
-            <variant>
-                <ID>59871502664014</ID>
-                <sku/>
-                <price>1269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu Intenso</color>
-                <memoria>256GB</memoria>
-            </variant>
             <variant>
                 <ID>59956215972174</ID>
                 <sku/>
@@ -304,28 +236,6 @@
                 <color>Nero</color>
                 <memoria>64GB</memoria>
             </variant>
-            <variant>
-                <ID>59288161321294</ID>
-                <sku/>
-                <price>219.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde</color>
-                <memoria>64GB</memoria>
-            </variant>
-            <variant>
-                <ID>59764201226574</ID>
-                <sku/>
-                <price>219.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>64GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -347,17 +257,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Grafite</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757517963598</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu Pacifico</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -540,17 +439,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Rosa</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59358571888974</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu Oltremare</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -803,17 +691,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59757524156750</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Giallo</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>60315883503950</ID>
                 <sku/>
                 <price>469.00</price>
@@ -868,29 +745,6 @@
                 <sale>No</sale>
                 <color>Bianco Nuvola</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738167361870</ID>
-        <name>Apple iPhone 12 Pro Max Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 12 Pro Max ricondizionato&lt;/strong&gt; – Il più grande e potente iPhone del 2020 a un prezzo conveniente Scopri l'Apple iPhone 12 Pro Max ricondizionato: il top di gamma Apple del 2020 con il display più grande della lineup, sensore fotografico principale di dimensioni record, stabilizzazione ottica con spostamento del sensore di prima generazione e chip A14 Bionic. Certificato e testato, offre il massimo in termini di fotografia, display e autonomia della gamma iPhone 12, disponibile a un prezzo accessibile e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-12-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12Promaxgrafite-1.jpg?v=1780325809</imageURL>
-        <categories>Apple iPhone 12</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 12 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59997794140494</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Oro</color>
-                <memoria>512GB</memoria>
             </variant>
         </variants>
     </product>
