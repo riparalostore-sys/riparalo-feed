@@ -1,6 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837627351374</ID>
+        <name>Apple iPhone 16 Plus Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 16 Plus ricondizionato &lt;/strong&gt;– Il grande display da 6,7 pollici con chip A18, Dynamic Island e autonomia record nella gamma iPhone 16 standard Scopri l'Apple iPhone 16 Plus ricondizionato: il modello dal grande formato della gamma iPhone 16, con display Super Retina XDR OLED da 6,7 pollici, chip A18, tasto Controllo fotocamera, Dynamic Island e la migliore autonomia mai offerta da un iPhone standard. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-16-plus</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone16plusblack-1.jpg?v=1780473059</imageURL>
+        <categories>Apple iPhone 16</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 16 Plus Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59711175360846</ID>
+                <sku/>
+                <price>749.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Rosa</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738108182862</ID>
+        <name>Apple iPhone 14 Pro Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A16 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-14-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14black-1_220c0dd5-c232-450a-adc9-fe34bd331f42.jpg?v=1780322755</imageURL>
+        <categories>Apple iPhone 14</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 14 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757524615502</ID>
+                <sku/>
+                <price>599.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Viola Scuro</color>
+                <memoria>512GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15837626696014</ID>
         <name>Apple iPhone 15 Plus Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 15 Plus ricondizionato&lt;/strong&gt; – Dynamic Island, USB-C e display da 6,7 pollici con autonomia record nella gamma iPhone 15 standard Scopri l'Apple iPhone 15 Plus ricondizionato: il modello dal grande formato della gamma iPhone 15, il primo della serie standard ad adottare Dynamic Island e connettore USB-C, con display Super Retina XDR OLED da 6,7 pollici, chip A16 Bionic e fotocamera principale da 48 MP. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -10,6 +56,17 @@
         <brand>Apple</brand>
         <model>Apple iPhone 15 Plus Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59695415624014</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero</color>
+                <memoria>128GB</memoria>
+            </variant>
             <variant>
                 <ID>59695415656782</ID>
                 <sku/>
@@ -33,6 +90,28 @@
                 <memoria>512GB</memoria>
             </variant>
             <variant>
+                <ID>59711257903438</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59711257936206</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59711258100046</ID>
                 <sku/>
                 <price>519.00</price>
@@ -42,6 +121,17 @@
                 <sale>No</sale>
                 <color>Rosa</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59711258132814</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Rosa</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -77,85 +167,38 @@
                 <color>Rosa</color>
                 <memoria>128GB</memoria>
             </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738720846158</ID>
-        <name>Samsung Galaxy S25 Ultra Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Ultra ricondizionato &lt;/strong&gt;– Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-ultra</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S25ultragrigio-1.jpg?v=1780492147</imageURL>
-        <categories>Samsung Galaxy S25</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
-        <variants>
             <variant>
-                <ID>59757543784782</ID>
+                <ID>59287799103822</ID>
                 <sku/>
-                <price>819.00</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Titanio Nero</color>
-                <memoria>512GB</memoria>
+                <color>Verde</color>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59797404942670</ID>
+                <ID>59374990852430</ID>
                 <sku/>
-                <price>819.00</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Titanium Jetblack</color>
-                <memoria>512GB</memoria>
+                <color>Giallo</color>
+                <memoria>128GB</memoria>
             </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15850596925774</ID>
-        <name>Samsung Galaxy S24 Ultra Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Ultra ricondizionato&lt;/strong&gt; – Titanio, S Pen integrata e Galaxy AI per il flagship Android definitivo Scopri il Samsung Galaxy S24 Ultra ricondizionato: il top di gamma Samsung del 2024 con scocca in titanio di grado aerospaziale, S Pen integrata, chip Snapdragon 8 Gen 3 ottimizzato per Samsung e fotocamera principale da 200 MP. Certificato e testato, introduce Galaxy AI come sistema di intelligenza artificiale nativo per la produttività e la fotografia avanzata, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-ultra</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24ultranero-1.jpg?v=1780327376</imageURL>
-        <categories>Samsung Galaxy S24</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy S24 Ultra Ricondizionato</model>
-        <variants>
             <variant>
-                <ID>59757538378062</ID>
+                <ID>59757526253902</ID>
                 <sku/>
-                <price>619.00</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Titanio Giallo</color>
-                <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15874168488270</ID>
-        <name>Apple iPhone 17 Pro Max Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro Max ricondizionato &lt;/strong&gt;– Il top di gamma Apple con display da 6,9 pollici, chip A19 Pro, zoom ottico 8x e batteria record da 5.088 mAh Scopri l'Apple iPhone 17 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2025, con il rivoluzionario design unibody in alluminio forgiato, display Super Retina XDR ProMotion da 6,9 pollici, chip A19 Pro con camera di vapore integrata, sistema a tripla fotocamera Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, e la batteria più capiente mai montata su un iPhone. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro-max</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17promaxargento-1.jpg?v=1789459607</imageURL>
-        <categories>Apple iPhone 17</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 17 Pro Max Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59956215972174</ID>
-                <sku/>
-                <price>1269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Arancione Cosmico</color>
-                <memoria>256GB</memoria>
+                <color>Blu</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -192,17 +235,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59759882502478</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59759882404174</ID>
                 <sku/>
                 <price>269.00</price>
@@ -235,29 +267,6 @@
                 <sale>No</sale>
                 <color>Nero</color>
                 <memoria>64GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15738164347214</ID>
-        <name>Apple iPhone 12 Pro Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 12 Pro ricondizionato&lt;/strong&gt;: il primo iPhone con scanner LiDAR, scocca in acciaio inossidabile e sistema a tripla fotocamera professionale con supporto ProRAW. Certificato e testato, abbina il potente chip A14 Bionic a funzionalità fotografiche avanzate e connettività 5G, il tutto disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-12-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12Prosilver-1.jpg?v=1780477936</imageURL>
-        <categories>Apple iPhone 12</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 12 Pro Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757518192974</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Grafite</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -420,14 +429,14 @@
         <model>Apple iPhone 16 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59358406902094</ID>
+                <ID>59374997569870</ID>
                 <sku/>
                 <price>619.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Nero</color>
+                <color>Bianco</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -439,6 +448,28 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Rosa</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59358571888974</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu Oltremare</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757527171406</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde Acqua</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -579,6 +610,17 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Mezzanotte</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59956202209614</ID>
                 <sku/>
                 <price>369.00</price>
@@ -599,6 +641,17 @@
                 <sale>No</sale>
                 <color>Rosso</color>
                 <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59286914335054</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
