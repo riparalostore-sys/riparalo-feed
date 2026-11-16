@@ -1,6 +1,85 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837632856398</ID>
+        <name>Samsung Galaxy A25 5G Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy A25 5G ricondizionato&lt;/strong&gt; – Display Super AMOLED da 6,5 pollici con 1000 nit, fotocamera da 50 MP con OIS e batteria da 5.000 mAh per la fascia media del 2023 Scopri il Samsung Galaxy A25 5G ricondizionato: lo smartphone Android di fascia media del 2023 con display Super AMOLED da 6,5 pollici con frequenza di aggiornamento a 120Hz e luminosità fino a 1000 nit, chip Exynos 1280, tripla fotocamera con sensore principale da 50 MP con stabilizzazione ottica e batteria da 5.000 mAh. Certificato e testato, offre un rapporto qualità-prezzo eccezionale con audio Dolby Atmos e jack audio da 3,5 mm, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-a25-5g</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungA25blu-2.jpg?v=1794837639</imageURL>
+        <categories>Samsung Galaxy A25</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy A25 5G Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>61622414442830</ID>
+                <sku/>
+                <price>199.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blue Black</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837633347918</ID>
+        <name>Samsung Galaxy A34 Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy A34 5G ricondizionato&lt;/strong&gt; – Display Super AMOLED da 6,6 pollici, chip Dimensity 1080 e tripla fotocamera da 48 MP per la fascia media del 2023 Scopri il Samsung Galaxy A34 5G ricondizionato: lo smartphone Android di fascia media del 2023 con display Super AMOLED da 6,6 pollici con frequenza di aggiornamento a 120Hz e luminosità fino a 1000 nit, chip MediaTek Dimensity 1080, tripla fotocamera con sensore principale da 48 MP con stabilizzazione ottica e batteria da 5.000 mAh. Certificato e testato, offre un ottimo equilibrio tra design, prestazioni e autonomia a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-a34</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/GalaxyA34argento-1.jpg?v=1794837314</imageURL>
+        <categories>Samsung Galaxy A34</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy A34 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59695478538574</ID>
+                <sku/>
+                <price>169.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Argento</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757529006414</ID>
+                <sku/>
+                <price>169.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Grafite</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>61622414606670</ID>
+                <sku/>
+                <price>169.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Awesome Lime</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>61622414639438</ID>
+                <sku/>
+                <price>169.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Awesome Violet</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738720846158</ID>
         <name>Samsung Galaxy S25 Ultra Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Ultra ricondizionato &lt;/strong&gt;– Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -445,7 +524,7 @@
     <product>
         <ID>16054733930830</ID>
         <name>Samsung Galaxy Z Fold8 Ultra Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Fold8 Ultra 5G ricondizionato&lt;/strong&gt; – Il pieghevole più avanzato di Samsung con display interno da 8 pollici, fotocamera da 200 MP e chip Snapdragon 8 Elite Gen 5 Scopri il Samsung Galaxy Z Fold8 Ultra 5G ricondizionato: il top di gamma assoluto della lineup pieghevole Samsung del 2026, con display interno Dynamic AMOLED 2X da 8 pollici, fotocamera principale da 200 MP, chip Snapdragon 8 Elite Gen 5 e batteria da 5.000 mAh con ricarica a doppio circuito da 45W. Certificato e testato, rappresenta il massimo della tecnologia pieghevole Samsung disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Fold8 Ultra 5G ricondizionato&lt;/strong&gt; – Il pieghevole più avanzato di Samsung con display interno da 8 pollici, fotocamera da 200 MP e chip Snapdragon 8 Elite Gen 5 Scopri il Samsung Galaxy Z Fold8 Ultra 5G ricondizionato: il top di gamma assoluto della lineup pieghevole Samsung del 2026, con display interno Dynamic AMOLED 2X da 8 pollici, fotocamera principale da 200 MP, chip Snapdragon 8 Elite Gen 5 e batteria da 5.000 mAh con ricarica a doppio circuito da 45W. Certificato e testato, rappresenta il massimo della tecnologia pieghevole Samsung disponibile a un prezzo conveniente e in ottica sostenibile. &lt;/p&gt;</description>
         <productURL>https://www.riparalo.com/products/samsung-galaxy-z-fold8-ultra</productURL>
         <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/GalaxyZfold8ultraverde-2.jpg?v=1789388668</imageURL>
         <categories>Samsung Galaxy Z Fold 8</categories>
