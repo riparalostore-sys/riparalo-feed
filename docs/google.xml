@@ -6,6 +6,33 @@
     <description>Feed prodotti ricondizionati per Google Merchant Center</description>
     
     <item>
+      <g:id>shopify_ZZ_16206824309070_61712954163534</g:id>
+      <g:item_group_id>16206824309070</g:item_group_id>
+      <title>Apple iPhone 18 Pro 256GB Ricondizionato Premium Argento - Batteria Nuova</title>
+      <description>Ricondizionato in condizioni Premium (grado Best Prime) con batteria nuova al 100% e garanzia di 24 mesi. Spedizione Express gratuita e tracciata in 24/72 ore. Apple iPhone 18 Pro ricondizionato – Chip A20 Pro a 2 nm, fotocamera con apertura variabile e la batteria più longeva di sempre Scopri l’Apple iPhone 18 Pro ricondizionato: lo smartphone di punta Apple, certificato e testato, per chi cerca il massimo della tecnologia a un prezzo più accessibile. Monta il nuovo chip A20 Pro a 2 nanometri, un display Super Retina XDR da 6,3 pollici con ProMotion a 120 Hz e un sistema a tre fotocamere da 48 MP, con la principale ad apertura variabile e zoom ottico fino a 8x. In più offre un’autonomia da record, prestazioni da top di gamma e una scelta più sostenibile per l’ambiente.</description>
+      <link>https://www.riparalo.com/products/apple-iphone-18-pro?variant=61712954163534</link>
+      <g:image_link>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone18ProArgento-1.jpg?v=1794919169</g:image_link>
+      <g:condition>refurbished</g:condition>
+      <g:availability>in_stock</g:availability>
+      <g:price>1419.00 EUR</g:price>
+      <g:brand>Riparalo Store</g:brand>
+      <g:color>Argento</g:color>
+      <g:identifier_exists>no</g:identifier_exists>
+      <g:google_product_category>267</g:google_product_category>
+      <g:product_highlight>Condizioni Premium: grado Best Prime, estetica come nuova</g:product_highlight>
+      <g:product_highlight>Batteria nuova inclusa, autonomia al 100%</g:product_highlight>
+      <g:product_highlight>Garanzia 24 mesi</g:product_highlight>
+      <g:product_highlight>Spedizione Express gratuita e tracciata in 24/72 ore</g:product_highlight>
+      <g:product_highlight>Pagamento anche in 3 rate con Klarna</g:product_highlight>
+      <g:shipping>
+        <g:country>IT</g:country>
+        <g:price>0.00 EUR</g:price>
+      </g:shipping>
+      <g:custom_label_0>1000-plus</g:custom_label_0>
+      <g:custom_label_1>iphone-pro</g:custom_label_1>
+      <g:custom_label_2>Apple iPhone 18 Pro</g:custom_label_2>
+    </item>
+    <item>
       <g:id>shopify_ZZ_15850597122382_59871567774030</g:id>
       <g:item_group_id>15850597122382</g:item_group_id>
       <title>Samsung Galaxy S26 Ultra 512GB Ricondizionato Premium Viola Cobalto - Batteria Nuova</title>
