@@ -1,6 +1,154 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>16274635981134</ID>
+        <name>Samsung Galaxy S26 FE Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S26 FE ricondizionato&lt;/strong&gt; – Exynos 2500, display 120 Hz e tripla fotocamera con zoom 3x Scopri il Samsung Galaxy S26 FE ricondizionato: uno smartphone certificato e testato che porta l’esperienza della serie Galaxy S26 a un prezzo più accessibile. Monta il chip Exynos 2500 a 3 nm, un display Dynamic AMOLED 2X da 6,7 pollici a 120 Hz e una tripla fotocamera da 50 MP con teleobiettivo 3x. Spessore di soli 7,4 mm, batteria da 4.900 mAh, One UI 9 e Galaxy AI: prestazioni da top di gamma con tutta la convenienza e la sostenibilità del ricondizionato.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s26-fe</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/Samsungs26fenero-1.jpg?v=1795079752</imageURL>
+        <categories>Samsung Galaxy S26</categories>
+        <brand>Riparalo Store</brand>
+        <model>Samsung Galaxy S26 FE Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>61741424902478</ID>
+                <sku/>
+                <price>629.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Grafite</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738720846158</ID>
+        <name>Samsung Galaxy S25 Ultra Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Ultra ricondizionato &lt;/strong&gt;– Il flagship definitivo con S Pen integrata e intelligenza artificiale avanzata Scopri il Samsung Galaxy S25 Ultra ricondizionato: il top di gamma assoluto Samsung del 2025, con display Dynamic AMOLED 2X da 6,9 pollici, S Pen integrata, chip Snapdragon 8 Elite e fotocamera principale da 200 MP. Certificato e testato, offre il massimo in termini di produttività, fotografia e intelligenza artificiale, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-ultra</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S25ultragrigio-1.jpg?v=1780492147</imageURL>
+        <categories>Samsung Galaxy S25</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757543850318</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Nero</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>61449742582094</ID>
+                <sku/>
+                <price>919.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanium Silverblue</color>
+                <memoria>1TB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15874168488270</ID>
+        <name>Apple iPhone 17 Pro Max Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro Max ricondizionato &lt;/strong&gt;– Il top di gamma Apple con display da 6,9 pollici, chip A19 Pro, zoom ottico 8x e batteria record da 5.088 mAh Scopri l'Apple iPhone 17 Pro Max ricondizionato: il top di gamma assoluto della lineup Apple 2025, con il rivoluzionario design unibody in alluminio forgiato, display Super Retina XDR ProMotion da 6,9 pollici, chip A19 Pro con camera di vapore integrata, sistema a tripla fotocamera Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, e la batteria più capiente mai montata su un iPhone. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro-max</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17promaxargento-1.jpg?v=1789459607</imageURL>
+        <categories>Apple iPhone 17</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 17 Pro Max Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60151663034702</ID>
+                <sku/>
+                <price>1269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Argento</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59956215972174</ID>
+                <sku/>
+                <price>1269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Arancione Cosmico</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15837627679054</ID>
+        <name>Apple iPhone 17 Pro Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro ricondizionato&lt;/strong&gt; – Design unibody in alluminio, sistema di fotocamere Pro Fusion da 48 MP con zoom ottico 8x e chip A19 Pro Scopri l'Apple iPhone 17 Pro ricondizionato: il flagship Apple Pro del 2025 con rivoluzionario design unibody in alluminio forgiato, sistema di quattro fotocamere Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, chip A19 Pro e display Super Retina XDR ProMotion da 6,3 pollici. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17Proarancione-2.jpg?v=1780481397</imageURL>
+        <categories>Apple iPhone 17</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 17 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59695432925518</ID>
+                <sku/>
+                <price>1019.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Arancione Cosmico</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>60364289016142</ID>
+                <sku/>
+                <price>1019.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu Intenso</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738164347214</ID>
+        <name>Apple iPhone 12 Pro Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 12 Pro ricondizionato&lt;/strong&gt;: il primo iPhone con scanner LiDAR, scocca in acciaio inossidabile e sistema a tripla fotocamera professionale con supporto ProRAW. Certificato e testato, abbina il potente chip A14 Bionic a funzionalità fotografiche avanzate e connettività 5G, il tutto disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-12-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12Prosilver-1.jpg?v=1780477936</imageURL>
+        <categories>Apple iPhone 12</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 12 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757518029134</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu Pacifico</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15850597286222</ID>
         <name>Samsung Galaxy Z Flip 7 FE Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip7 FE ricondizionato&lt;/strong&gt; – Il primo pieghevole Fan Edition di Samsung con fotocamera da 50 MP e Galaxy AI a un prezzo più accessibile Scopri il Samsung Galaxy Z Flip7 FE ricondizionato: la prima Fan Edition di uno smartphone pieghevole Samsung, con chip Exynos 2400, fotocamera principale da 50 MP con OIS, display interno Dynamic AMOLED 2X da 6,7 pollici, display esterno Super AMOLED da 3,4 pollici e Galaxy AI integrata. Certificato e testato, porta l'esperienza pieghevole Samsung a un prezzo più accessibile senza rinunciare alle funzionalità premium, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -24,29 +172,6 @@
         </variants>
     </product>
     <product>
-        <ID>15837633347918</ID>
-        <name>Samsung Galaxy A34 Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy A34 5G ricondizionato&lt;/strong&gt; – Display Super AMOLED da 6,6 pollici, chip Dimensity 1080 e tripla fotocamera da 48 MP per la fascia media del 2023 Scopri il Samsung Galaxy A34 5G ricondizionato: lo smartphone Android di fascia media del 2023 con display Super AMOLED da 6,6 pollici con frequenza di aggiornamento a 120Hz e luminosità fino a 1000 nit, chip MediaTek Dimensity 1080, tripla fotocamera con sensore principale da 48 MP con stabilizzazione ottica e batteria da 5.000 mAh. Certificato e testato, offre un ottimo equilibrio tra design, prestazioni e autonomia a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-a34</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/GalaxyA34argento-1.jpg?v=1794837314</imageURL>
-        <categories>Samsung Galaxy A34</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy A34 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59757529006414</ID>
-                <sku/>
-                <price>169.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Grafite</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15837641539918</ID>
         <name>Samsung Galaxy Z Flip 7 Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip7 5G ricondizionato&lt;/strong&gt; – Il pieghevole compatto con display esterno edge-to-edge da 4,1 pollici e batteria da 4.300 mAh Scopri il Samsung Galaxy Z Flip7 5G ricondizionato: lo smartphone pieghevole a conchiglia di ultima generazione con il rivoluzionario display esterno edge-to-edge da 4,1 pollici senza cornice, chip Exynos 2500, batteria da 4.300 mAh la più capiente mai integrata in un Galaxy Z Flip e Galaxy AI di nuova generazione. Certificato e testato, rappresenta il pieghevole compatto più evoluto di Samsung, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -56,6 +181,17 @@
         <brand>Samsung</brand>
         <model>Samsung Galaxy Z Flip 7 Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59695570616654</ID>
+                <sku/>
+                <price>719.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Jetblack</color>
+                <memoria>256GB</memoria>
+            </variant>
             <variant>
                 <ID>59695570649422</ID>
                 <sku/>
@@ -194,17 +330,6 @@
         <model>Samsung Galaxy S23 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59759887679822</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Crema</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59759887810894</ID>
                 <sku/>
                 <price>419.00</price>
@@ -306,6 +431,39 @@
                 <color>Grafite</color>
                 <memoria>256GB</memoria>
             </variant>
+            <variant>
+                <ID>59288201560398</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Argento</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59288201757006</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Oro</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757520716110</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu Pacifico</color>
+                <memoria>128GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -328,6 +486,17 @@
                 <sale>No</sale>
                 <color>Nero</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59711175360846</ID>
+                <sku/>
+                <price>749.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Rosa</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59711175524686</ID>
@@ -386,28 +555,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59711257936206</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59711258001742</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59711258100046</ID>
                 <sku/>
                 <price>519.00</price>
@@ -417,17 +564,6 @@
                 <sale>No</sale>
                 <color>Rosa</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59711258132814</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosa</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -473,6 +609,17 @@
                 <sale>No</sale>
                 <color>Verde</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287799202126</ID>
+                <sku/>
+                <price>569.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59757526253902</ID>
@@ -655,6 +802,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59695428731214</ID>
+                <sku/>
+                <price>869.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Naturale</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59595804737870</ID>
                 <sku/>
                 <price>769.00</price>
@@ -664,6 +822,17 @@
                 <sale>No</sale>
                 <color>Titanio Bianco</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59695428763982</ID>
+                <sku/>
+                <price>869.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Bianco</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -982,17 +1151,6 @@
         <model>Apple iPhone 13 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757521928526</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Galassia</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757521764686</ID>
                 <sku/>
                 <price>419.00</price>
@@ -1093,6 +1251,17 @@
         <model>Apple iPhone 14 Ricondizionato</model>
         <variants>
             <variant>
+                <ID>59757523566926</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Galassia</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59757523403086</ID>
                 <sku/>
                 <price>419.00</price>
@@ -1123,6 +1292,29 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Mezzanotte</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15791334883662</ID>
+        <name>Apple iPhone 11 Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 11 ricondizionato&lt;/strong&gt; – Il primo iPhone con sistema a doppia fotocamera e modalità NotteScopri l'Apple iPhone 11 ricondizionato: il primo iPhone con sistema a doppia fotocamera posteriore, modalità Notte e chip A13 Bionic, disponibile certificato e testato per offrirti un'esperienza Apple completa e affidabile a un prezzo conveniente. Con il display Liquid Retina HD da 6,1 pollici e una batteria potenziata, l'iPhone 11 ricondizionato è la scelta ideale per chi cerca uno smartphone Apple versatile e sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-11</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone11black-1.jpg?v=1780477335</imageURL>
+        <categories>Apple iPhone 11</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 11 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59502685061454</ID>
+                <sku/>
+                <price>219.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
