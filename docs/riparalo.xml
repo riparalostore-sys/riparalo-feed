@@ -1,6 +1,52 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15738108182862</ID>
+        <name>Apple iPhone 14 Pro Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A16 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-14-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14black-1_220c0dd5-c232-450a-adc9-fe34bd331f42.jpg?v=1780322755</imageURL>
+        <categories>Apple iPhone 14</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 14 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757524746574</ID>
+                <sku/>
+                <price>499.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero Siderale</color>
+                <memoria>128GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15738164347214</ID>
+        <name>Apple iPhone 12 Pro Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 12 Pro ricondizionato&lt;/strong&gt;: il primo iPhone con scanner LiDAR, scocca in acciaio inossidabile e sistema a tripla fotocamera professionale con supporto ProRAW. Certificato e testato, abbina il potente chip A14 Bionic a funzionalità fotografiche avanzate e connettività 5G, il tutto disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/apple-iphone-12-pro</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone12Prosilver-1.jpg?v=1780477936</imageURL>
+        <categories>Apple iPhone 12</categories>
+        <brand>Apple</brand>
+        <model>Apple iPhone 12 Pro Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757518192974</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Grafite</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15837640622414</ID>
         <name>Samsung Galaxy S25 Edge Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 Edge ricondizionato &lt;/strong&gt;– Il flagship Samsung più sottile di sempre con fotocamera da 200 MP e scocca in titanio da soli 5,8 mmScopri il Samsung Galaxy S25 Edge ricondizionato: il modello più sottile e leggero della gamma Galaxy S25, con scocca in titanio spessa appena 5,8 mm, fotocamera principale da 200 MP mutuata dal Galaxy S25 Ultra, chip Snapdragon 8 Elite e display Dynamic AMOLED 2X da 6,7 pollici. Certificato e testato, ridefinisce il concetto di smartphone premium ultrasottile senza rinunciare alle prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -64,17 +110,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Phantom White</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757530415438</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Burgundy</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -542,28 +577,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59759887614286</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Crema</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759887548750</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero Phantom</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59759887810894</ID>
                 <sku/>
                 <price>419.00</price>
@@ -596,17 +609,6 @@
                 <sale>No</sale>
                 <color>Grafite</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59288201560398</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Argento</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59288201757006</ID>
@@ -720,6 +722,17 @@
                 <color>Rosa</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59711258198350</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Giallo</color>
+                <memoria>128GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -766,17 +779,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59287799202126</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59757526253902</ID>
                 <sku/>
                 <price>469.00</price>
@@ -786,17 +788,6 @@
                 <sale>No</sale>
                 <color>Blu</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757526319438</ID>
-                <sku/>
-                <price>569.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -878,6 +869,17 @@
                 <memoria>64GB</memoria>
             </variant>
             <variant>
+                <ID>59288160731470</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59288160928078</ID>
                 <sku/>
                 <price>219.00</price>
@@ -887,6 +889,17 @@
                 <sale>No</sale>
                 <color>Bianco</color>
                 <memoria>64GB</memoria>
+            </variant>
+            <variant>
+                <ID>59288161812814</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Viola</color>
+                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -1057,17 +1070,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Nero</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374997569870</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -1295,28 +1297,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59286914531662</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914564430</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59956202209614</ID>
                 <sku/>
                 <price>369.00</price>
@@ -1336,17 +1316,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Rosso</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59286914367822</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Verde</color>
                 <memoria>256GB</memoria>
             </variant>
             <variant>
@@ -1373,39 +1342,6 @@
         <model>Apple iPhone 14 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757523566926</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Galassia</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757523403086</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757523370318</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59287581917518</ID>
                 <sku/>
                 <price>419.00</price>
@@ -1431,29 +1367,6 @@
                 <ID>59956206895438</ID>
                 <sku/>
                 <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Rosso</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15791397372238</ID>
-        <name>Apple iPhone 14 Plus Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 14 Plus ricondizionato &lt;/strong&gt;– Il grande display da 6,7 pollici con autonomia record nella gamma iPhone 14 standard Scopri l'Apple iPhone 14 Plus ricondizionato: il primo iPhone della serie standard ad adottare il formato da 6,7 pollici, con display Super Retina XDR OLED, chip A15 Bionic, fotocamera principale da 12 MP con stabilizzazione ottica di seconda generazione e autonomia fino a 26 ore. Certificato e testato, è la scelta ideale per chi vuole un iPhone con grande schermo e lunga autonomia senza passare alla gamma Pro, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-14-plus</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone14plusblu-1.jpg?v=1780476815</imageURL>
-        <categories>Apple iPhone 14</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 14 Plus Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>60315883503950</ID>
-                <sku/>
-                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
