@@ -1,6 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15837640655182</ID>
+        <name>Samsung Galaxy S25 FE Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 FE ricondizionato &lt;/strong&gt;– Galaxy AI, chip Exynos 2400 e batteria da 4.900 mAh per il flagship accessibile del 2025 Scopri il Samsung Galaxy S25 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2400, display Dynamic AMOLED 2X da 6,7 pollici, tripla fotocamera con zoom ottico 3x e Galaxy AI integrata. Certificato e testato, è la scelta intelligente per chi vuole il meglio di Samsung senza compromessi, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s25-fe</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungS25FEbluglaciale-1.jpg?v=1793780959</imageURL>
+        <categories>Samsung Galaxy S25</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy S25 FE Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>60033606123854</ID>
+                <sku/>
+                <price>559.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Jetblack</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15738108182862</ID>
         <name>Apple iPhone 14 Pro Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Scopri l'Apple iPhone 14 ricondizionato: &lt;/strong&gt;uno smartphone certificato e testato che introduce funzionalità di sicurezza innovative come il Rilevamento incidenti e la connettività via satellite per le emergenze, abbinato a un display Super Retina XDR da 6,1 pollici e al collaudato chip A16 Bionic. La scelta intelligente per chi vuole un iPhone affidabile, moderno e sostenibile.&lt;/p&gt;</description>
@@ -19,6 +42,28 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Nero Siderale</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757524582734</ID>
+                <sku/>
+                <price>549.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Viola Scuro</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59287639228750</ID>
+                <sku/>
+                <price>499.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Oro</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -111,52 +156,6 @@
                 <sale>No</sale>
                 <color>Phantom White</color>
                 <memoria>256GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837633151310</ID>
-        <name>Samsung Galaxy A33 5G Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy A33 5G ricondizionato&lt;/strong&gt; – Display Super AMOLED da 6,4 pollici, chip Exynos 1280 e quadrupla fotocamera da 48 MP per la fascia media del 2022 Scopri il Samsung Galaxy A33 5G ricondizionato: lo smartphone Android di fascia media del 2022 con display Super AMOLED Infinity-U da 6,4 pollici, chip Exynos 1280 realizzato a 5 nanometri, quadrupla fotocamera con sensore principale da 48 MP con stabilizzazione ottica e batteria da 5.000 mAh. Certificato e testato, offre un ottimo rapporto qualità-prezzo con design elegante e finitura opaca, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-a33-5g</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungGlaaxyA33bianco-1.jpg?v=1795183491</imageURL>
-        <categories>Samsung Galaxy A33</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy A33 5G Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59758276116814</ID>
-                <sku/>
-                <price>149.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Awesome Black</color>
-                <memoria>128GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15837633577294</ID>
-        <name>Samsung Galaxy A53 5G Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy A53 5G ricondizionato &lt;/strong&gt;– Display Super AMOLED da 6,5 pollici, chip Exynos 1280 e quadrupla fotocamera da 64 MP per la fascia media del 2022Scopri il Samsung Galaxy A53 5G ricondizionato: lo smartphone Android di fascia media del 2022 con display Super AMOLED Infinity-O da 6,5 pollici con frequenza di aggiornamento a 120Hz, chip Exynos 1280, quadrupla fotocamera con sensore principale da 64 MP con stabilizzazione ottica e batteria da 5.000 mAh. Certificato e testato, offre un ottimo equilibrio tra prestazioni, fotografia e autonomia a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-a53-5g</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungA53nero-1.jpg?v=1795172259</imageURL>
-        <categories>Samsung Galaxy A53</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy A53 5G Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>61752487543118</ID>
-                <sku/>
-                <price>169.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Awesome Peach</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -385,40 +384,6 @@
         </variants>
     </product>
     <product>
-        <ID>15837627679054</ID>
-        <name>Apple iPhone 17 Pro Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Apple iPhone 17 Pro ricondizionato&lt;/strong&gt; – Design unibody in alluminio, sistema di fotocamere Pro Fusion da 48 MP con zoom ottico 8x e chip A19 Pro Scopri l'Apple iPhone 17 Pro ricondizionato: il flagship Apple Pro del 2025 con rivoluzionario design unibody in alluminio forgiato, sistema di quattro fotocamere Pro Fusion da 48 MP con teleobiettivo tetraprisma e zoom di qualità ottica fino a 8x, chip A19 Pro e display Super Retina XDR ProMotion da 6,3 pollici. Certificato e testato, rappresenta il massimo della tecnologia Apple disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/apple-iphone-17-pro</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/iPhone17Proarancione-2.jpg?v=1780481397</imageURL>
-        <categories>Apple iPhone 17</categories>
-        <brand>Apple</brand>
-        <model>Apple iPhone 17 Pro Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>59695432925518</ID>
-                <sku/>
-                <price>1019.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Arancione Cosmico</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59711113757006</ID>
-                <sku/>
-                <price>1219.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Arancione Cosmico</color>
-                <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
         <ID>15850597286222</ID>
         <name>Samsung Galaxy Z Flip 7 FE Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip7 FE ricondizionato&lt;/strong&gt; – Il primo pieghevole Fan Edition di Samsung con fotocamera da 50 MP e Galaxy AI a un prezzo più accessibile Scopri il Samsung Galaxy Z Flip7 FE ricondizionato: la prima Fan Edition di uno smartphone pieghevole Samsung, con chip Exynos 2400, fotocamera principale da 50 MP con OIS, display interno Dynamic AMOLED 2X da 6,7 pollici, display esterno Super AMOLED da 3,4 pollici e Galaxy AI integrata. Certificato e testato, porta l'esperienza pieghevole Samsung a un prezzo più accessibile senza rinunciare alle funzionalità premium, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -452,17 +417,6 @@
         <model>Samsung Galaxy Z Flip 7 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59695570616654</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Jetblack</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59695570649422</ID>
                 <sku/>
                 <price>769.00</price>
@@ -471,29 +425,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Jetblack</color>
-                <memoria>512GB</memoria>
-            </variant>
-        </variants>
-    </product>
-    <product>
-        <ID>15815521927502</ID>
-        <name>Samsung Galaxy Z Flip 6 Ricondizionato Premium - Batteria Nuova</name>
-        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip6 5G ricondizionato &lt;/strong&gt;– Il pieghevole compatto più intelligente con Galaxy AI e batteria potenziata da 4.000 mAhScopri il Samsung Galaxy Z Flip6 5G ricondizionato: lo smartphone pieghevole a conchiglia di ultima generazione con il potente chip Snapdragon 8 Gen 3, batteria potenziata da 4.000 mAh e funzionalità Galaxy AI integrate per la fotografia e la produttività intelligente. Certificato e testato, rappresenta il pieghevole compatto più avanzato di Samsung, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
-        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-6</productURL>
-        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/ZFlip6blu-1.jpg?v=1780316837</imageURL>
-        <categories>Samsung Galaxy Z Flip 6</categories>
-        <brand>Samsung</brand>
-        <model>Samsung Galaxy Z Flip 6 Ricondizionato</model>
-        <variants>
-            <variant>
-                <ID>61723801682254</ID>
-                <sku/>
-                <price>519.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Peach</color>
                 <memoria>512GB</memoria>
             </variant>
         </variants>
@@ -575,17 +506,6 @@
                 <sale>No</sale>
                 <color>Verde</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759887810894</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Nero Phantom</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -834,17 +754,6 @@
                 <color>Pink Gold</color>
                 <memoria>256GB</memoria>
             </variant>
-            <variant>
-                <ID>59759882535246</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Phantom White</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -891,6 +800,17 @@
                 <memoria>64GB</memoria>
             </variant>
             <variant>
+                <ID>59288161026382</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Bianco</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59288161812814</ID>
                 <sku/>
                 <price>269.00</price>
@@ -899,6 +819,28 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Viola</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59764201226574</ID>
+                <sku/>
+                <price>219.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu</color>
+                <memoria>64GB</memoria>
+            </variant>
+            <variant>
+                <ID>59764201292110</ID>
+                <sku/>
+                <price>269.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu</color>
                 <memoria>128GB</memoria>
             </variant>
         </variants>
@@ -1049,6 +991,17 @@
                 <color>Titanio Naturale</color>
                 <memoria>128GB</memoria>
             </variant>
+            <variant>
+                <ID>59292152136014</ID>
+                <sku/>
+                <price>619.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Bianco</color>
+                <memoria>128GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -1104,17 +1057,6 @@
                 <sale>No</sale>
                 <color>Verde Acqua</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>60324559421774</ID>
-                <sku/>
-                <price>719.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -1297,6 +1239,17 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59286914531662</ID>
+                <sku/>
+                <price>369.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Mezzanotte</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59956202209614</ID>
                 <sku/>
                 <price>369.00</price>
@@ -1353,6 +1306,17 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
+                <ID>59374981022030</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Giallo</color>
+                <memoria>128GB</memoria>
+            </variant>
+            <variant>
                 <ID>59244556517710</ID>
                 <sku/>
                 <price>419.00</price>
@@ -1364,15 +1328,38 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59956206895438</ID>
+                <ID>59287581131086</ID>
+                <sku/>
+                <price>469.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Mezzanotte</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
+        <ID>15815521894734</ID>
+        <name>Samsung Galaxy Z Flip 4 Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy Z Flip4 5g ricondizionato&lt;/strong&gt; – Lo smartphone pieghevole compatto con chip Snapdragon 8+ Gen 1 e design a conchiglia ultra-portatileScopri il Samsung Galaxy Z Flip4 5g ricondizionato: lo smartphone pieghevole a conchiglia di Samsung con chip Snapdragon 8+ Gen 1, display Flex AMOLED da 6,7 pollici e Flex Window da 1,9 pollici per notifiche e scatti rapidi senza aprire il telefono. Certificato e testato, unisce design iconico, portabilità estrema e prestazioni flagship, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-z-flip-4</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/SamsungZFlip4blu-1.jpg?v=1780491600</imageURL>
+        <categories>Samsung Galaxy Z Flip 4</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy Z Flip 4 Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59758282408270</ID>
                 <sku/>
                 <price>419.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Rosso</color>
-                <memoria>128GB</memoria>
+                <color>Bora Purple</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
