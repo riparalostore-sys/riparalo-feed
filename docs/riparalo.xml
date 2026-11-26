@@ -34,26 +34,15 @@
         <model>Apple iPhone 14 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59757524746574</ID>
+                <ID>59287638933838</ID>
                 <sku/>
                 <price>499.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Nero Siderale</color>
+                <color>Argento</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757524582734</ID>
-                <sku/>
-                <price>549.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Viola Scuro</color>
-                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59287639228750</ID>
@@ -800,17 +789,6 @@
                 <memoria>64GB</memoria>
             </variant>
             <variant>
-                <ID>59288161026382</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59288161812814</ID>
                 <sku/>
                 <price>269.00</price>
@@ -831,17 +809,6 @@
                 <sale>No</sale>
                 <color>Blu</color>
                 <memoria>64GB</memoria>
-            </variant>
-            <variant>
-                <ID>59764201292110</ID>
-                <sku/>
-                <price>269.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
-                <memoria>128GB</memoria>
             </variant>
         </variants>
     </product>
@@ -991,17 +958,6 @@
                 <color>Titanio Naturale</color>
                 <memoria>128GB</memoria>
             </variant>
-            <variant>
-                <ID>59292152136014</ID>
-                <sku/>
-                <price>619.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanio Bianco</color>
-                <memoria>128GB</memoria>
-            </variant>
         </variants>
     </product>
     <product>
@@ -1080,17 +1036,6 @@
                 <sale>No</sale>
                 <color>Titanio Sabbia</color>
                 <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757527564622</ID>
-                <sku/>
-                <price>969.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Titanio Sabbia</color>
-                <memoria>512GB</memoria>
             </variant>
             <variant>
                 <ID>59757527630158</ID>
@@ -1239,17 +1184,6 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
-                <ID>59286914531662</ID>
-                <sku/>
-                <price>369.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
                 <ID>59956202209614</ID>
                 <sku/>
                 <price>369.00</price>
@@ -1269,17 +1203,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Rosso</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
-                <ID>59757521699150</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Blu</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -1303,28 +1226,6 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Viola</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59374981022030</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Giallo</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59244556517710</ID>
-                <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Mezzanotte</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
