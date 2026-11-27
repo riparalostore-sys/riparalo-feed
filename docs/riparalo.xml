@@ -1,6 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <products>
     <product>
+        <ID>15756759859534</ID>
+        <name>Samsung Galaxy S24 Plus Ricondizionato Premium - Batteria Nuova</name>
+        <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S24 Plus ricondizionato&lt;/strong&gt; – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship Samsung dal grande display da 6,7 polliciSamsung Galaxy S24+ ricondizionato – Galaxy AI e chip Snapdragon 8 Gen 3 nel flagship Samsung dal grande display da 6,7 pollici Scopri il Samsung Galaxy S24+ ricondizionato: lo smartphone Android di fascia alta del 2024 con display Dynamic AMOLED 2X da 6,7 pollici, chip Snapdragon 8 Gen 3 ottimizzato per Samsung, Galaxy AI integrata e ricarica rapida cablata da 45W. Certificato e testato, offre prestazioni flagship in un formato generoso e raffinato, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
+        <productURL>https://www.riparalo.com/products/samsung-galaxy-s24-plus</productURL>
+        <imageURL>https://cdn.shopify.com/s/files/1/1018/2957/4990/files/S24plusblack-1.jpg?v=1780306201</imageURL>
+        <categories>Samsung Galaxy S24</categories>
+        <brand>Samsung</brand>
+        <model>Samsung Galaxy S24 Plus Ricondizionato</model>
+        <variants>
+            <variant>
+                <ID>59757535428942</ID>
+                <sku/>
+                <price>519.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Nero Onice</color>
+                <memoria>256GB</memoria>
+            </variant>
+        </variants>
+    </product>
+    <product>
         <ID>15837640655182</ID>
         <name>Samsung Galaxy S25 FE Ricondizionato Premium - Batteria Nuova</name>
         <description>&lt;p&gt;&lt;strong&gt;Condizioni Premium (grado Best Prime) · Batteria nuova al 100% · Garanzia 24 mesi · Spedizione Express gratuita e tracciata in 24/72 ore&lt;/strong&gt;&lt;/p&gt;&lt;p&gt;&lt;strong&gt;Samsung Galaxy S25 FE ricondizionato &lt;/strong&gt;– Galaxy AI, chip Exynos 2400 e batteria da 4.900 mAh per il flagship accessibile del 2025 Scopri il Samsung Galaxy S25 FE ricondizionato: lo smartphone Android che porta l'esperienza flagship Samsung a un prezzo più accessibile, con chip Exynos 2400, display Dynamic AMOLED 2X da 6,7 pollici, tripla fotocamera con zoom ottico 3x e Galaxy AI integrata. Certificato e testato, è la scelta intelligente per chi vuole il meglio di Samsung senza compromessi, disponibile a un prezzo conveniente e in ottica sostenibile.&lt;/p&gt;</description>
@@ -34,14 +57,14 @@
         <model>Apple iPhone 14 Pro Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59287638933838</ID>
+                <ID>59757524681038</ID>
                 <sku/>
                 <price>499.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Argento</color>
+                <color>Viola Scuro</color>
                 <memoria>128GB</memoria>
             </variant>
             <variant>
@@ -76,6 +99,17 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Grafite</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757517963598</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu Pacifico</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
@@ -237,17 +271,6 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59759888662862</ID>
-                <sku/>
-                <price>469.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Marble Gray</color>
-                <memoria>256GB</memoria>
-            </variant>
-            <variant>
                 <ID>59759888367950</ID>
                 <sku/>
                 <price>419.00</price>
@@ -259,26 +282,15 @@
                 <memoria>128GB</memoria>
             </variant>
             <variant>
-                <ID>59759888531790</ID>
+                <ID>59759888302414</ID>
                 <sku/>
-                <price>419.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Giallo Ambra</color>
-                <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59759888793934</ID>
-                <sku/>
-                <price>419.00</price>
+                <price>469.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Viola Cobalto</color>
-                <memoria>128GB</memoria>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -292,6 +304,17 @@
         <brand>Samsung</brand>
         <model>Samsung Galaxy S25 Ultra Ricondizionato</model>
         <variants>
+            <variant>
+                <ID>59757543883086</ID>
+                <sku/>
+                <price>769.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Grigio</color>
+                <memoria>256GB</memoria>
+            </variant>
             <variant>
                 <ID>59757543653710</ID>
                 <sku/>
@@ -326,15 +349,15 @@
                 <memoria>512GB</memoria>
             </variant>
             <variant>
-                <ID>61449742582094</ID>
+                <ID>60233515008334</ID>
                 <sku/>
-                <price>919.00</price>
+                <price>769.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Titanium Silverblue</color>
-                <memoria>1TB</memoria>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -473,6 +496,28 @@
                 <color>Nero</color>
                 <memoria>256GB</memoria>
             </variant>
+            <variant>
+                <ID>61839997239630</ID>
+                <sku/>
+                <price>1039.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Azzurro Cielo</color>
+                <memoria>512GB</memoria>
+            </variant>
+            <variant>
+                <ID>61839997272398</ID>
+                <sku/>
+                <price>929.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Azzurro Cielo</color>
+                <memoria>256GB</memoria>
+            </variant>
         </variants>
     </product>
     <product>
@@ -486,15 +531,15 @@
         <model>Samsung Galaxy S23 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59759887384910</ID>
+                <ID>59759887810894</ID>
                 <sku/>
-                <price>369.00</price>
+                <price>419.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
-                <color>Verde</color>
-                <memoria>128GB</memoria>
+                <color>Nero Phantom</color>
+                <memoria>256GB</memoria>
             </variant>
         </variants>
     </product>
@@ -711,15 +756,15 @@
         <model>Samsung Galaxy S22 Ricondizionato</model>
         <variants>
             <variant>
-                <ID>59759882142030</ID>
+                <ID>59759882436942</ID>
                 <sku/>
-                <price>319.00</price>
+                <price>269.00</price>
                 <fromPrice/>
                 <stock>1</stock>
                 <discount/>
                 <sale>No</sale>
                 <color>Nero Phantom</color>
-                <memoria>256GB</memoria>
+                <memoria>128GB</memoria>
             </variant>
             <variant>
                 <ID>59759882076494</ID>
@@ -776,17 +821,6 @@
                 <sale>No</sale>
                 <color>Nero</color>
                 <memoria>128GB</memoria>
-            </variant>
-            <variant>
-                <ID>59288160928078</ID>
-                <sku/>
-                <price>219.00</price>
-                <fromPrice/>
-                <stock>1</stock>
-                <discount/>
-                <sale>No</sale>
-                <color>Bianco</color>
-                <memoria>64GB</memoria>
             </variant>
             <variant>
                 <ID>59288161812814</ID>
@@ -877,6 +911,17 @@
                 <sale>No</sale>
                 <color>Titanio Nero</color>
                 <memoria>128GB</memoria>
+            </variant>
+            <variant>
+                <ID>59695428665678</ID>
+                <sku/>
+                <price>869.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Titanio Nero</color>
+                <memoria>256GB</memoria>
             </variant>
             <variant>
                 <ID>59595804672334</ID>
@@ -1184,6 +1229,28 @@
                 <memoria>256GB</memoria>
             </variant>
             <variant>
+                <ID>59286914564430</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Mezzanotte</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59286914466126</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Rosa</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
                 <ID>59956202209614</ID>
                 <sku/>
                 <price>369.00</price>
@@ -1203,6 +1270,28 @@
                 <discount/>
                 <sale>No</sale>
                 <color>Rosso</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59286914367822</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Verde</color>
+                <memoria>256GB</memoria>
+            </variant>
+            <variant>
+                <ID>59757521699150</ID>
+                <sku/>
+                <price>419.00</price>
+                <fromPrice/>
+                <stock>1</stock>
+                <discount/>
+                <sale>No</sale>
+                <color>Blu</color>
                 <memoria>256GB</memoria>
             </variant>
         </variants>
